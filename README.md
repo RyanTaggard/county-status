@@ -1,2 +1,2 @@
 # COVID-19
-Modeling done for the state of Vermont during the COVID-19 pandemic.
+This page is intended to host models created for the state of Vermont during the COVID-19 pandemic.
