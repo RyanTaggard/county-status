@@ -13,8 +13,6 @@ FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full N
 50021,Vermont,Rutland,14.85,58191.0,255.26,<400 Active Cases per Million (VT),"Rutland, Vermont"
 50007,Vermont,Chittenden,47.41,163774.0,289.51,<400 Active Cases per Million (VT),"Chittenden, Vermont"
 50013,Vermont,Grand Isle,2.43,7235.0,335.44,<400 Active Cases per Million (VT),"Grand Isle, Vermont"
-13,,,,,,400-799 Active Cases per Million (VT),
-12,,,,,,800+ Active Cases per Million (VT),
 09013,Connecticut,Tolland,35.42,150721.0,235.01,,"Tolland, Connecticut"
 09005,Connecticut,Litchfield,56.58,180333.0,313.74,,"Litchfield, Connecticut"
 09011,Connecticut,New London,98.98,265206.0,373.22,,"New London, Connecticut"
