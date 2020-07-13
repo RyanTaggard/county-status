@@ -5,6 +5,9 @@ from urllib.request import urlopen
 import json
 import plotly.io as pio
 
+# Created by the Vermont Department of Financial Regulation
+# Run in Atom's Hydrogen package
+
 # %% Defines functions used later on in the map
 safe = '<400 Active Cases per Million<br>(No Quarantine Required)'
 mixed = '<br>400-799 Active Cases per Million<br>(Quarantine Required'\
