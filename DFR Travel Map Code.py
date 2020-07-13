@@ -215,7 +215,7 @@ save.loc[13, 'Status'] = '400-799 Active Cases per Million (VT)'
 # %%
 warning = 'Note: Vermont counties are provided for<br>informational purposes '\
     'only as Vermont<br>is not subject to this policy. Instead it is<br>'\
-    'monitored with separate metrics.<br><br>Last updated 7/10/20<br>'
+    'monitored with separate metrics.'
 save = merged.rename(columns={'Status': warning}).reset_index()
 order = {warning: [safe, mixed, unsafe,
                    safe_vt, mixed_vt, unsafe_vt]}
