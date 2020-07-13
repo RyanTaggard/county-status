@@ -175,7 +175,6 @@ hop_ne_trim.FIPS = hop_ne_trim.FIPS.astype(str)
 hop_ne_trim.FIPS = hop_ne_trim.FIPS.str.replace(r'.', '')
 hop_ne_trim.FIPS = hop_ne_trim.FIPS.map(lambda x: str(x)[:-1])
 hop_ne_trim.FIPS = hop_ne_trim.FIPS.apply(to_len, args=(5,))
-hop_ne_trim.head(50)
 
 # %% Merge census and active case data
 hop_ne_trim = hop_ne_trim.set_index('FIPS')
