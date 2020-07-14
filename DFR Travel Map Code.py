@@ -9,15 +9,15 @@ import plotly.io as pio
 # Run in Atom's Hydrogen package
 
 # %% Defines functions used later on in the map
-low = '<400 Active Cases per Million<br>(No Quarantine Required)'
-mid = '<br>400-799 Active Cases per Million<br>(Quarantine Required'\
+green = '<400 Active Cases per Million<br>(No Quarantine Required)'
+yellow = '<br>400-799 Active Cases per Million<br>(Quarantine Required'\
     ' in<br>Vermont or Home State)'
-high = '<br>800+ Active Cases per Million<br>(Quarantine Required in'\
+red = '<br>800+ Active Cases per Million<br>(Quarantine Required in'\
     '<br>Vermont or Home State)<br>'
 
-low_vt = '<400 Active Cases per Million (VT)'
-mid_vt = '400-799 Active Cases per Million (VT)'
-high_vt = '800+ Active Cases per Million (VT)'
+green_vt = '<400 Active Cases per Million (VT)'
+yellow_vt = '400-799 Active Cases per Million (VT)'
+red_vt = '800+ Active Cases per Million (VT)'
 
 factor = 2.4
 
@@ -38,17 +38,17 @@ def to_status(x, y):
     # Determines the status of a county based on active cases per million
     if y == 'Vermont':
         if x < 400:
-            return low_vt
+            return green_vt
         elif x < 800:
-            return mid_vt
+            return yellow_vt
         else:
-            return high_vt
+            return red_vt
     elif x < 400:
-        return low
+        return green
     elif x < 800:
-        return mid
+        return yellow
     else:
-        return high
+        return red
 
 
 # %% Gets county outlines from plotly
@@ -116,7 +116,7 @@ hop_ne_trim = hop_ne[['UID',
 hop_ne_trim = hop_ne_trim.dropna()
 
 # %% JHU doesn't report NCY boroughs individually, so we break them out manually
-# The file below is obtained from https://health.data.ny.gov/Health
+# The file begreen is obtained from https://health.data.ny.gov/Health
 # /New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
 # File path will vary by user, so change accordingly if you're trying to
 # replicate this code
@@ -205,7 +205,7 @@ merged['Full Name'] = merged['County'] + ', ' + merged['State']
 # %% Map colors
 palette = ['#00bbb8', '#ffbc35', '#ec001f', '#0073e7', '#005dbb', '#064789']
 
-# %% Adding dummy values makes the following labels show even when VT has
+# %% Adding dummy values makes the folgreening labels show even when VT has
 # no counties at these levels
 save = merged
 save.loc[12, 'Status'] = '800+ Active Cases per Million (VT)'
@@ -216,8 +216,8 @@ warning = 'Note: Vermont counties are provided for<br>informational purposes '\
     'only as Vermont<br>is not subject to this policy. Instead it is<br>'\
     'monitored with separate metrics.'
 save = merged.rename(columns={'Status': warning}).reset_index()
-order = {warning: [low, mid, high,
-                   low_vt, mid_vt, high_vt]}
+order = {warning: [green, yellow, red,
+                   green_vt, yellow_vt, red_vt]}
 fig = px.choropleth_mapbox(save, geojson=counties, locations='FIPS',
                            color=warning,
                            center={"lat": 41.0458, "lon": -75.2479},
