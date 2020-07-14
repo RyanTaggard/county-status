@@ -9,15 +9,15 @@ import plotly.io as pio
 # Run in Atom's Hydrogen package
 
 # %% Defines functions used later on in the map
-safe = '<400 Active Cases per Million<br>(No Quarantine Required)'
-mixed = '<br>400-799 Active Cases per Million<br>(Quarantine Required'\
+low = '<400 Active Cases per Million<br>(No Quarantine Required)'
+mid = '<br>400-799 Active Cases per Million<br>(Quarantine Required'\
     ' in<br>Vermont or Home State)'
-unsafe = '<br>800+ Active Cases per Million<br>(Quarantine Required in'\
+high = '<br>800+ Active Cases per Million<br>(Quarantine Required in'\
     '<br>Vermont or Home State)<br>'
 
-safe_vt = '<400 Active Cases per Million (VT)'
-mixed_vt = '400-799 Active Cases per Million (VT)'
-unsafe_vt = '800+ Active Cases per Million (VT)'
+low_vt = '<400 Active Cases per Million (VT)'
+mid_vt = '400-799 Active Cases per Million (VT)'
+high_vt = '800+ Active Cases per Million (VT)'
 
 factor = 2.4
 
@@ -38,17 +38,17 @@ def to_status(x, y):
     # Determines the status of a county based on active cases per million
     if y == 'Vermont':
         if x < 400:
-            return safe_vt
+            return low_vt
         elif x < 800:
-            return mixed_vt
+            return mid_vt
         else:
-            return unsafe_vt
+            return high_vt
     elif x < 400:
-        return safe
+        return low
     elif x < 800:
-        return mixed
+        return mid
     else:
-        return unsafe
+        return high
 
 
 # %% Gets county outlines from plotly
@@ -91,7 +91,6 @@ prop = [1, 0.9486632702, 0.864870849, 0.7727784056,
         0.0203888345, 0.0169928249, 0.0141538527,
         0.0117824696, 0.0098031505]
 gamma = pd.DataFrame({'prop': prop})
-
 # These values are used to calculate active cases via the methodology explained
 # in the DFR whitepaper
 new = hop_ne.iloc[:, -31:].transpose().diff().dropna()
@@ -179,7 +178,7 @@ hop_ne_trim.FIPS = hop_ne_trim.FIPS.apply(to_len, args=(5,))
 # %% Merge census and active case data
 hop_ne_trim = hop_ne_trim.set_index('FIPS')
 pops = pops.set_index('FIPS')
-merged = final.join(pops)
+merged = hop_ne_trim.join(pops)
 merged = merged.dropna()
 
 # %% Calculate active cases per million
@@ -195,9 +194,10 @@ merged = merged.rename(columns={'Admin2': 'County',
 merged = merged[['State', 'County', 'Active Cases',
                  'Population', 'Active Cases per Million',
                  'Status']].dropna()
-
 merged['Active Cases per Million'] =\
-    np.round(merged['Active Cases per Million'], 2)
+    np.round(merged['Active Cases per Million'])
+
+merged['Active Cases per Million'] = merged['Active Cases per Million'].astype(int)
 
 # %% Get full name to display in map
 merged['Full Name'] = merged['County'] + ', ' + merged['State']
@@ -211,17 +211,17 @@ save = merged
 save.loc[12, 'Status'] = '800+ Active Cases per Million (VT)'
 save.loc[13, 'Status'] = '400-799 Active Cases per Million (VT)'
 
-# %%
+# %% Creates the map
 warning = 'Note: Vermont counties are provided for<br>informational purposes '\
     'only as Vermont<br>is not subject to this policy. Instead it is<br>'\
     'monitored with separate metrics.'
 save = merged.rename(columns={'Status': warning}).reset_index()
-order = {warning: [safe, mixed, unsafe,
-                   safe_vt, mixed_vt, unsafe_vt]}
+order = {warning: [low, mid, high,
+                   low_vt, mid_vt, high_vt]}
 fig = px.choropleth_mapbox(save, geojson=counties, locations='FIPS',
                            color=warning,
                            center={"lat": 41.0458, "lon": -75.2479},
-                           color_discrete_sequence=extended,
+                           color_discrete_sequence=palette,
                            opacity=1,
                            title='VT Neighbors',
                            category_orders=order,
