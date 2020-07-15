@@ -1,522 +1,522 @@
-FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full Name
-50019,Vermont,Orleans,0.12,27037.0,4.45,<400 Active Cases per Million (VT),"Orleans, Vermont"
-50001,Vermont,Addison,0.34,36777.0,9.35,<400 Active Cases per Million (VT),"Addison, Vermont"
-50023,Vermont,Washington,1.71,58409.0,29.28,<400 Active Cases per Million (VT),"Washington, Vermont"
-50017,Vermont,Orange,1.64,28892.0,56.61,<400 Active Cases per Million (VT),"Orange, Vermont"
-50013,Vermont,Grand Isle,0.66,7235.0,91.27,<400 Active Cases per Million (VT),"Grand Isle, Vermont"
-50005,Vermont,Caledonia,3.36,29993.0,112.08,<400 Active Cases per Million (VT),"Caledonia, Vermont"
-50027,Vermont,Windsor,6.75,55062.0,122.57,<400 Active Cases per Million (VT),"Windsor, Vermont"
-50021,Vermont,Rutland,7.32,58191.0,125.82,<400 Active Cases per Million (VT),"Rutland, Vermont"
-50003,Vermont,Bennington,5.3,35470.0,149.42,<400 Active Cases per Million (VT),"Bennington, Vermont"
-50011,Vermont,Franklin,7.48,49402.0,151.38,<400 Active Cases per Million (VT),"Franklin, Vermont"
-50025,Vermont,Windham,7.56,42222.0,179.14,<400 Active Cases per Million (VT),"Windham, Vermont"
-50015,Vermont,Lamoille,10.69,25362.0,421.4,400-799 Active Cases per Million (VT),"Lamoille, Vermont"
-50007,Vermont,Chittenden,71.98,163774.0,439.48,400-799 Active Cases per Million (VT),"Chittenden, Vermont"
-50009,Vermont,Essex,4.25,6163.0,690.36,400-799 Active Cases per Million (VT),"Essex, Vermont"
-09013,Connecticut,Tolland,37.82,150721.0,250.93,,"Tolland, Connecticut"
-09005,Connecticut,Litchfield,52.14,180333.0,289.11,,"Litchfield, Connecticut"
-09009,Connecticut,New Haven,372.47,854757.0,435.76,,"New Haven, Connecticut"
-09011,Connecticut,New London,127.97,265206.0,482.51,,"New London, Connecticut"
-09001,Connecticut,Fairfield,464.03,943332.0,491.91,,"Fairfield, Connecticut"
-09007,Connecticut,Middlesex,83.36,162436.0,513.16,,"Middlesex, Connecticut"
-09015,Connecticut,Windham,63.51,116782.0,543.83,,"Windham, Connecticut"
-09003,Connecticut,Hartford,514.27,891720.0,576.72,,"Hartford, Connecticut"
-10001,Delaware,Kent,218.01,180786.0,1205.93,,"Kent, Delaware"
-10003,Delaware,New Castle,1150.12,558753.0,2058.37,,"New Castle, Delaware"
-10005,Delaware,Sussex,612.22,234225.0,2613.79,,"Sussex, Delaware"
-11001,District of Columbia,District of Columbia,795.52,705749.0,1127.2,,"District of Columbia, District of Columbia"
-23013,Maine,Knox,1.33,39772.0,33.45,,"Knox, Maine"
-23023,Maine,Sagadahoc,1.45,35856.0,40.56,,"Sagadahoc, Maine"
-23011,Maine,Kennebec,6.29,122302.0,51.44,,"Kennebec, Maine"
-23003,Maine,Aroostook,3.96,67055.0,59.12,,"Aroostook, Maine"
-23009,Maine,Hancock,4.07,54987.0,74.05,,"Hancock, Maine"
-23007,Maine,Franklin,3.3,30199.0,109.33,,"Franklin, Maine"
-23027,Maine,Waldo,4.68,39715.0,117.78,,"Waldo, Maine"
-23025,Maine,Somerset,6.25,50484.0,123.77,,"Somerset, Maine"
-23015,Maine,Lincoln,5.87,34634.0,169.57,,"Lincoln, Maine"
-23029,Maine,Washington,5.37,31379.0,171.12,,"Washington, Maine"
-23019,Maine,Penobscot,27.92,152148.0,183.5,,"Penobscot, Maine"
-23017,Maine,Oxford,12.88,57975.0,222.15,,"Oxford, Maine"
-23021,Maine,Piscataquis,4.66,16785.0,277.61,,"Piscataquis, Maine"
-23031,Maine,York,82.52,207641.0,397.4,,"York, Maine"
-23001,Maine,Androscoggin,51.12,108277.0,472.1,,"Androscoggin, Maine"
-23005,Maine,Cumberland,293.08,295003.0,993.48,,"Cumberland, Maine"
-24001,Maryland,Allegany,17.87,70416.0,253.73,,"Allegany, Maryland"
-24043,Maryland,Washington,57.46,151049.0,380.4,,"Washington, Maryland"
-24023,Maryland,Garrett,11.59,29014.0,399.49,,"Garrett, Maryland"
-24029,Maryland,Kent,8.52,19422.0,438.5,,"Kent, Maryland"
-24009,Maryland,Calvert,52.4,92525.0,566.31,,"Calvert, Maryland"
-24039,Maryland,Somerset,16.85,25616.0,657.6,,"Somerset, Maryland"
-24021,Maryland,Frederick,174.57,259547.0,672.58,,"Frederick, Maryland"
-24019,Maryland,Dorchester,21.88,31929.0,685.26,,"Dorchester, Maryland"
-24015,Maryland,Cecil,74.36,102855.0,722.99,,"Cecil, Maryland"
-24037,Maryland,St. Mary's,83.71,113510.0,737.42,,"St. Mary's, Maryland"
-24025,Maryland,Harford,208.11,255441.0,814.7,,"Harford, Maryland"
-24045,Maryland,Wicomico,85.77,103609.0,827.8,,"Wicomico, Maryland"
-24013,Maryland,Carroll,145.86,168447.0,865.89,,"Carroll, Maryland"
-24047,Maryland,Worcester,49.96,52276.0,955.73,,"Worcester, Maryland"
-24011,Maryland,Caroline,32.48,33406.0,972.41,,"Caroline, Maryland"
-24003,Maryland,Anne Arundel,608.08,579234.0,1049.8,,"Anne Arundel, Maryland"
-24017,Maryland,Charles,198.13,163257.0,1213.63,,"Charles, Maryland"
-24027,Maryland,Howard,427.73,325690.0,1313.3,,"Howard, Maryland"
-24005,Maryland,Baltimore,1094.78,827370.0,1323.2,,"Baltimore, Maryland"
-24031,Maryland,Montgomery,1655.32,1050688.0,1575.46,,"Montgomery, Maryland"
-24041,Maryland,Talbot,62.4,37181.0,1678.2,,"Talbot, Maryland"
-24035,Maryland,Queen Anne's,84.86,50381.0,1684.28,,"Queen Anne's, Maryland"
-24033,Maryland,Prince George's,1922.41,909327.0,2114.1,,"Prince George's, Maryland"
-24510,Maryland,Baltimore City,1267.4,593490.0,2135.5,,"Baltimore City, Maryland"
-25007,Massachusetts,Dukes,0.0,17332.0,0.0,,"Dukes, Massachusetts"
-25019,Massachusetts,Nantucket,0.0,11399.0,0.0,,"Nantucket, Massachusetts"
-25003,Massachusetts,Berkshire,27.28,124944.0,218.33,,"Berkshire, Massachusetts"
-25001,Massachusetts,Barnstable,55.86,212990.0,262.25,,"Barnstable, Massachusetts"
-25015,Massachusetts,Hampshire,58.42,160830.0,363.26,,"Hampshire, Massachusetts"
-25023,Massachusetts,Plymouth,203.63,521202.0,390.69,,"Plymouth, Massachusetts"
-25011,Massachusetts,Franklin,30.04,70180.0,428.1,,"Franklin, Massachusetts"
-25017,Massachusetts,Middlesex,879.28,1611699.0,545.56,,"Middlesex, Massachusetts"
-25027,Massachusetts,Worcester,481.91,830622.0,580.17,,"Worcester, Massachusetts"
-25021,Massachusetts,Norfolk,468.07,706775.0,662.26,,"Norfolk, Massachusetts"
-25005,Massachusetts,Bristol,392.8,565217.0,694.95,,"Bristol, Massachusetts"
-25013,Massachusetts,Hampden,348.98,466372.0,748.28,,"Hampden, Massachusetts"
-25009,Massachusetts,Essex,609.79,789034.0,772.83,,"Essex, Massachusetts"
-25025,Massachusetts,Suffolk,758.25,803907.0,943.21,,"Suffolk, Massachusetts"
-33017,New Hampshire,Strafford,12.33,130633.0,94.42,,"Strafford, New Hampshire"
-33009,New Hampshire,Grafton,12.26,89886.0,136.42,,"Grafton, New Hampshire"
-33007,New Hampshire,Coos,4.49,31563.0,142.34,,"Coos, New Hampshire"
-33005,New Hampshire,Cheshire,11.33,76085.0,148.91,,"Cheshire, New Hampshire"
-33019,New Hampshire,Sullivan,6.92,43146.0,160.46,,"Sullivan, New Hampshire"
-33013,New Hampshire,Merrimack,24.62,151391.0,162.62,,"Merrimack, New Hampshire"
-33001,New Hampshire,Belknap,13.12,61303.0,214.01,,"Belknap, New Hampshire"
-33015,New Hampshire,Rockingham,69.23,309769.0,223.49,,"Rockingham, New Hampshire"
-33003,New Hampshire,Carroll,17.23,48910.0,352.19,,"Carroll, New Hampshire"
-33011,New Hampshire,Hillsborough,278.17,417025.0,667.03,,"Hillsborough, New Hampshire"
-34017,New Jersey,Hudson,179.35,672391.0,266.73,,"Hudson, New Jersey"
-34009,New Jersey,Cape May,25.16,92039.0,273.33,,"Cape May, New Jersey"
-34039,New Jersey,Union,152.39,556341.0,273.91,,"Union, New Jersey"
-34037,New Jersey,Sussex,41.11,140488.0,292.62,,"Sussex, New Jersey"
-34019,New Jersey,Hunterdon,37.33,124371.0,300.15,,"Hunterdon, New Jersey"
-34023,New Jersey,Middlesex,319.45,825062.0,387.18,,"Middlesex, New Jersey"
-34035,New Jersey,Somerset,149.16,328934.0,453.48,,"Somerset, New Jersey"
-34013,New Jersey,Essex,368.97,798975.0,461.81,,"Essex, New Jersey"
-34027,New Jersey,Morris,235.14,491845.0,478.07,,"Morris, New Jersey"
-34041,New Jersey,Warren,50.48,105267.0,479.53,,"Warren, New Jersey"
-34031,New Jersey,Passaic,257.62,501826.0,513.37,,"Passaic, New Jersey"
-34029,New Jersey,Ocean,379.87,607186.0,625.63,,"Ocean, New Jersey"
-34021,New Jersey,Mercer,237.15,367430.0,645.44,,"Mercer, New Jersey"
-34005,New Jersey,Burlington,311.11,445349.0,698.58,,"Burlington, New Jersey"
-34025,New Jersey,Monmouth,461.48,618795.0,745.77,,"Monmouth, New Jersey"
-34003,New Jersey,Bergen,801.98,932202.0,860.31,,"Bergen, New Jersey"
-34015,New Jersey,Gloucester,252.21,291636.0,864.82,,"Gloucester, New Jersey"
-34001,New Jersey,Atlantic,265.39,263670.0,1006.51,,"Atlantic, New Jersey"
-34007,New Jersey,Camden,560.44,506471.0,1106.57,,"Camden, New Jersey"
-34011,New Jersey,Cumberland,165.65,149527.0,1107.8,,"Cumberland, New Jersey"
-34033,New Jersey,Salem,76.83,62385.0,1231.54,,"Salem, New Jersey"
-36041,New York,Hamilton,0.05,4416.0,11.08,,"Hamilton, New York"
-36025,New York,Delaware,0.52,44135.0,11.85,,"Delaware, New York"
-36097,New York,Schuyler,0.92,17807.0,51.46,,"Schuyler, New York"
-36109,New York,Tompkins,6.6,102180.0,64.64,,"Tompkins, New York"
-36077,New York,Otsego,3.85,59493.0,64.77,,"Otsego, New York"
-36115,New York,Washington,5.42,61204.0,88.55,,"Washington, New York"
-36045,New York,Jefferson,13.2,109834.0,120.22,,"Jefferson, New York"
-36101,New York,Steuben,11.83,95379.0,124.07,,"Steuben, New York"
-36089,New York,St. Lawrence,14.22,107740.0,131.97,,"St. Lawrence, New York"
-36039,New York,Greene,6.24,47188.0,132.24,,"Greene, New York"
-36015,New York,Chemung,11.36,83456.0,136.15,,"Chemung, New York"
-36033,New York,Franklin,7.31,50022.0,146.13,,"Franklin, New York"
-36019,New York,Clinton,12.68,80485.0,157.6,,"Clinton, New York"
-36003,New York,Allegany,7.46,46091.0,161.77,,"Allegany, New York"
-36123,New York,Yates,4.86,24913.0,195.08,,"Yates, New York"
-36049,New York,Lewis,5.19,26296.0,197.33,,"Lewis, New York"
-36121,New York,Wyoming,8.75,39859.0,219.45,,"Wyoming, New York"
-36011,New York,Cayuga,17.69,76576.0,231.06,,"Cayuga, New York"
-36095,New York,Schoharie,7.28,30999.0,234.8,,"Schoharie, New York"
-36009,New York,Cattaraugus,18.23,76117.0,239.47,,"Cattaraugus, New York"
-36113,New York,Warren,16.69,63944.0,260.96,,"Warren, New York"
-36105,New York,Sullivan,19.72,75432.0,261.36,,"Sullivan, New York"
-36099,New York,Seneca,9.38,34016.0,275.69,,"Seneca, New York"
-36075,New York,Oswego,34.41,117124.0,293.79,,"Oswego, New York"
-36091,New York,Saratoga,70.07,229863.0,304.82,,"Saratoga, New York"
-36073,New York,Orleans,12.52,40352.0,310.28,,"Orleans, New York"
-36037,New York,Genesee,18.11,57280.0,316.16,,"Genesee, New York"
-36035,New York,Fulton,17.33,53383.0,324.72,,"Fulton, New York"
-36107,New York,Tioga,16.52,48203.0,342.71,,"Tioga, New York"
-36023,New York,Cortland,16.34,47581.0,343.44,,"Cortland, New York"
-36053,New York,Madison,25.61,70941.0,360.94,,"Madison, New York"
-36027,New York,Dutchess,109.9,294218.0,373.53,,"Dutchess, New York"
-36051,New York,Livingston,24.74,62914.0,393.21,,"Livingston, New York"
-36057,New York,Montgomery,19.64,49221.0,398.95,,"Montgomery, New York"
-36031,New York,Essex,15.3,36885.0,414.73,,"Essex, New York"
-36013,New York,Chautauqua,58.7,126903.0,462.53,,"Chautauqua, New York"
-36071,New York,Orange,180.26,384940.0,468.28,,"Orange, New York"
-36083,New York,Rensselaer,74.35,158714.0,468.45,,"Rensselaer, New York"
-36001,New York,Albany,154.55,305506.0,505.89,,"Albany, New York"
-36069,New York,Ontario,56.55,109777.0,515.16,,"Ontario, New York"
-36079,New York,Putnam,50.68,98320.0,515.47,,"Putnam, New York"
-36059,New York,Nassau,744.5,1356924.0,548.67,,"Nassau, New York"
-36007,New York,Broome,108.43,190488.0,569.22,,"Broome, New York"
-36021,New York,Columbia,34.83,59461.0,585.8,,"Columbia, New York"
-36117,New York,Wayne,53.82,89918.0,598.55,,"Wayne, New York"
-36093,New York,Schenectady,93.06,155299.0,599.24,,"Schenectady, New York"
-36087,New York,Rockland,195.72,325789.0,600.76,,"Rockland, New York"
-36111,New York,Ulster,120.01,177573.0,675.86,,"Ulster, New York"
-36103,New York,Suffolk,1001.65,1476601.0,678.35,,"Suffolk, New York"
-36047,New York,Kings,1751.62,2559903.0,684.25,,"Kings, New York"
-36085,New York,Richmond,342.62,476143.0,719.58,,"Richmond, New York"
-36061,New York,New York,1173.98,1628706.0,720.81,,"New York, New York"
-36043,New York,Herkimer,45.12,61319.0,735.86,,"Herkimer, New York"
-36017,New York,Chenango,35.02,47207.0,741.8,,"Chenango, New York"
-36063,New York,Niagara,156.51,209281.0,747.86,,"Niagara, New York"
-36081,New York,Queens,1688.27,2253858.0,749.06,,"Queens, New York"
-36119,New York,Westchester,729.92,967506.0,754.44,,"Westchester, New York"
-36029,New York,Erie,696.6,918702.0,758.25,,"Erie, New York"
-36005,New York,Bronx,1114.29,1418207.0,785.7,,"Bronx, New York"
-36055,New York,Monroe,650.47,741770.0,876.92,,"Monroe, New York"
-36067,New York,Onondaga,445.4,460528.0,967.14,,"Onondaga, New York"
-36065,New York,Oneida,372.26,228671.0,1627.91,,"Oneida, New York"
-39163,Ohio,Vinton,0.04,13085.0,3.12,,"Vinton, Ohio"
-39067,Ohio,Harrison,0.36,15040.0,23.89,,"Harrison, Ohio"
-39105,Ohio,Meigs,2.51,22907.0,109.45,,"Meigs, Ohio"
-39147,Ohio,Seneca,8.19,55178.0,148.47,,"Seneca, Ohio"
-39073,Ohio,Hocking,5.71,28264.0,201.95,,"Hocking, Ohio"
-39001,Ohio,Adams,6.35,27698.0,229.3,,"Adams, Ohio"
-39071,Ohio,Highland,10.3,43161.0,238.72,,"Highland, Ohio"
-39033,Ohio,Crawford,11.35,41494.0,273.64,,"Crawford, Ohio"
-39063,Ohio,Hancock,23.1,75783.0,304.85,,"Hancock, Ohio"
-39115,Ohio,Morgan,4.45,14508.0,306.75,,"Morgan, Ohio"
-39169,Ohio,Wayne,35.55,115710.0,307.24,,"Wayne, Ohio"
-39015,Ohio,Brown,14.68,43432.0,337.92,,"Brown, Ohio"
-39051,Ohio,Fulton,15.8,42126.0,375.13,,"Fulton, Ohio"
-39171,Ohio,Williams,13.83,36692.0,377.01,,"Williams, Ohio"
-39117,Ohio,Morrow,13.34,35328.0,377.48,,"Morrow, Ohio"
-39007,Ohio,Ashtabula,36.87,97241.0,379.21,,"Ashtabula, Ohio"
-39069,Ohio,Henry,10.25,27006.0,379.55,,"Henry, Ohio"
-39083,Ohio,Knox,23.7,62322.0,380.21,,"Knox, Ohio"
-39101,Ohio,Marion,25.01,65093.0,384.15,,"Marion, Ohio"
-39175,Ohio,Wyandot,8.88,21772.0,407.78,,"Wyandot, Ohio"
-39005,Ohio,Ashland,21.92,53484.0,409.89,,"Ashland, Ohio"
-39027,Ohio,Clinton,17.38,41968.0,414.23,,"Clinton, Ohio"
-39039,Ohio,Defiance,15.85,38087.0,416.27,,"Defiance, Ohio"
-39047,Ohio,Fayette,12.5,28525.0,438.15,,"Fayette, Ohio"
-39119,Ohio,Muskingum,37.94,86215.0,440.09,,"Muskingum, Ohio"
-39091,Ohio,Logan,20.26,45672.0,443.57,,"Logan, Ohio"
-39111,Ohio,Monroe,6.08,13654.0,445.53,,"Monroe, Ohio"
-39011,Ohio,Auglaize,20.52,45656.0,449.5,,"Auglaize, Ohio"
-39021,Ohio,Champaign,17.7,38885.0,455.26,,"Champaign, Ohio"
-39053,Ohio,Gallia,14.32,29898.0,479.11,,"Gallia, Ohio"
-39081,Ohio,Jefferson,31.86,65325.0,487.78,,"Jefferson, Ohio"
-39159,Ohio,Union,28.89,58988.0,489.74,,"Union, Ohio"
-39149,Ohio,Shelby,25.94,48590.0,533.79,,"Shelby, Ohio"
-39125,Ohio,Paulding,10.31,18672.0,552.17,,"Paulding, Ohio"
-39079,Ohio,Jackson,17.96,32413.0,554.11,,"Jackson, Ohio"
-39131,Ohio,Pike,15.47,27772.0,556.88,,"Pike, Ohio"
-39121,Ohio,Noble,8.09,14424.0,560.64,,"Noble, Ohio"
-39167,Ohio,Washington,33.74,59911.0,563.2,,"Washington, Ohio"
-39065,Ohio,Hardin,19.13,31365.0,610.06,,"Hardin, Ohio"
-39037,Ohio,Darke,31.76,51113.0,621.46,,"Darke, Ohio"
-39127,Ohio,Perry,22.64,36134.0,626.6,,"Perry, Ohio"
-39145,Ohio,Scioto,47.87,75314.0,635.65,,"Scioto, Ohio"
-39055,Ohio,Geauga,60.64,93649.0,647.56,,"Geauga, Ohio"
-39087,Ohio,Lawrence,39.02,59463.0,656.27,,"Lawrence, Ohio"
-39019,Ohio,Carroll,17.92,26914.0,665.78,,"Carroll, Ohio"
-39143,Ohio,Sandusky,43.43,58518.0,742.18,,"Sandusky, Ohio"
-39151,Ohio,Stark,281.9,370606.0,760.65,,"Stark, Ohio"
-39141,Ohio,Ross,61.68,76666.0,804.5,,"Ross, Ohio"
-39139,Ohio,Richland,97.65,121154.0,805.99,,"Richland, Ohio"
-39103,Ohio,Medina,145.05,179746.0,806.99,,"Medina, Ohio"
-39093,Ohio,Lorain,261.91,309833.0,845.32,,"Lorain, Ohio"
-39059,Ohio,Guernsey,33.06,38875.0,850.39,,"Guernsey, Ohio"
-39025,Ohio,Clermont,179.19,206428.0,868.04,,"Clermont, Ohio"
-39133,Ohio,Portage,141.82,162466.0,872.93,,"Portage, Ohio"
-39135,Ohio,Preble,36.82,40882.0,900.61,,"Preble, Ohio"
-39043,Ohio,Erie,67.3,74266.0,906.18,,"Erie, Ohio"
-39097,Ohio,Madison,41.69,44731.0,932.08,,"Madison, Ohio"
-39013,Ohio,Belmont,65.16,67006.0,972.47,,"Belmont, Ohio"
-39109,Ohio,Miami,104.52,106987.0,976.91,,"Miami, Ohio"
-39137,Ohio,Putnam,34.21,33861.0,1010.35,,"Putnam, Ohio"
-39023,Ohio,Clark,135.88,134083.0,1013.4,,"Clark, Ohio"
-39003,Ohio,Allen,105.64,102351.0,1032.12,,"Allen, Ohio"
-39085,Ohio,Lake,238.54,230149.0,1036.45,,"Lake, Ohio"
-39057,Ohio,Greene,179.54,168937.0,1062.74,,"Greene, Ohio"
-39153,Ohio,Summit,638.69,541013.0,1180.55,,"Summit, Ohio"
-39095,Ohio,Lucas,511.11,428348.0,1193.22,,"Lucas, Ohio"
-39107,Ohio,Mercer,50.47,41172.0,1225.83,,"Mercer, Ohio"
-39129,Ohio,Pickaway,72.66,58457.0,1242.93,,"Pickaway, Ohio"
-39161,Ohio,Van Wert,35.56,28275.0,1257.76,,"Van Wert, Ohio"
-39099,Ohio,Mahoning,288.78,228683.0,1262.81,,"Mahoning, Ohio"
-39173,Ohio,Wood,168.91,130817.0,1291.19,,"Wood, Ohio"
-39041,Ohio,Delaware,301.64,209177.0,1442.05,,"Delaware, Ohio"
-39089,Ohio,Licking,263.94,176862.0,1492.38,,"Licking, Ohio"
-39123,Ohio,Ottawa,60.69,40525.0,1497.69,,"Ottawa, Ohio"
-39165,Ohio,Warren,369.14,234602.0,1573.47,,"Warren, Ohio"
-39045,Ohio,Fairfield,253.67,157574.0,1609.85,,"Fairfield, Ohio"
-39017,Ohio,Butler,635.0,383134.0,1657.37,,"Butler, Ohio"
-39009,Ohio,Athens,114.35,65327.0,1750.47,,"Athens, Ohio"
-39155,Ohio,Trumbull,347.17,197974.0,1753.63,,"Trumbull, Ohio"
-39157,Ohio,Tuscarawas,182.24,91987.0,1981.16,,"Tuscarawas, Ohio"
-39077,Ohio,Huron,128.12,58266.0,2198.93,,"Huron, Ohio"
-39113,Ohio,Montgomery,1230.85,531687.0,2314.99,,"Montgomery, Ohio"
-39075,Ohio,Holmes,119.87,43960.0,2726.77,,"Holmes, Ohio"
-39035,Ohio,Cuyahoga,3482.12,1235072.0,2819.37,,"Cuyahoga, Ohio"
-39029,Ohio,Columbiana,289.63,101883.0,2842.73,,"Columbiana, Ohio"
-39031,Ohio,Coshocton,106.63,36600.0,2913.37,,"Coshocton, Ohio"
-39049,Ohio,Franklin,4049.51,1316756.0,3075.37,,"Franklin, Ohio"
-39061,Ohio,Hamilton,2766.57,817473.0,3384.3,,"Hamilton, Ohio"
-42053,Pennsylvania,Forest,0.0,7247.0,0.0,,"Forest, Pennsylvania"
-42123,Pennsylvania,Warren,1.7,39191.0,43.37,,"Warren, Pennsylvania"
-42117,Pennsylvania,Tioga,4.6,40591.0,113.27,,"Tioga, Pennsylvania"
-42127,Pennsylvania,Wayne,5.99,51361.0,116.55,,"Wayne, Pennsylvania"
-42015,Pennsylvania,Bradford,7.79,60323.0,129.1,,"Bradford, Pennsylvania"
-42083,Pennsylvania,McKean,5.34,40625.0,131.35,,"McKean, Pennsylvania"
-42005,Pennsylvania,Armstrong,11.02,64735.0,170.28,,"Armstrong, Pennsylvania"
-42105,Pennsylvania,Potter,2.91,16526.0,175.96,,"Potter, Pennsylvania"
-42057,Pennsylvania,Fulton,2.61,14530.0,179.91,,"Fulton, Pennsylvania"
-42099,Pennsylvania,Perry,8.74,46272.0,188.88,,"Perry, Pennsylvania"
-42061,Pennsylvania,Huntingdon,9.29,45144.0,205.74,,"Huntingdon, Pennsylvania"
-42067,Pennsylvania,Juniata,5.56,24763.0,224.35,,"Juniata, Pennsylvania"
-42131,Pennsylvania,Wyoming,6.45,26794.0,240.66,,"Wyoming, Pennsylvania"
-42119,Pennsylvania,Union,11.07,44923.0,246.43,,"Union, Pennsylvania"
-42033,Pennsylvania,Clearfield,22.14,79255.0,279.38,,"Clearfield, Pennsylvania"
-42103,Pennsylvania,Pike,16.16,55809.0,289.52,,"Pike, Pennsylvania"
-42111,Pennsylvania,Somerset,22.59,73447.0,307.54,,"Somerset, Pennsylvania"
-42013,Pennsylvania,Blair,40.57,121829.0,333.01,,"Blair, Pennsylvania"
-42063,Pennsylvania,Indiana,28.64,84073.0,340.62,,"Indiana, Pennsylvania"
-42087,Pennsylvania,Mifflin,15.96,46138.0,345.86,,"Mifflin, Pennsylvania"
-42027,Pennsylvania,Centre,57.66,162385.0,355.05,,"Centre, Pennsylvania"
-42109,Pennsylvania,Snyder,14.81,40372.0,366.88,,"Snyder, Pennsylvania"
-42107,Pennsylvania,Schuylkill,52.01,141359.0,367.96,,"Schuylkill, Pennsylvania"
-42093,Pennsylvania,Montour,6.95,18230.0,381.36,,"Montour, Pennsylvania"
-42085,Pennsylvania,Mercer,45.14,109424.0,412.53,,"Mercer, Pennsylvania"
-42009,Pennsylvania,Bedford,20.01,47888.0,417.85,,"Bedford, Pennsylvania"
-42079,Pennsylvania,Luzerne,134.37,317417.0,423.32,,"Luzerne, Pennsylvania"
-42115,Pennsylvania,Susquehanna,17.09,40328.0,423.68,,"Susquehanna, Pennsylvania"
-42023,Pennsylvania,Cameron,1.91,4447.0,429.28,,"Cameron, Pennsylvania"
-42037,Pennsylvania,Columbia,29.27,64964.0,450.51,,"Columbia, Pennsylvania"
-42025,Pennsylvania,Carbon,30.84,64182.0,480.59,,"Carbon, Pennsylvania"
-42065,Pennsylvania,Jefferson,21.11,43425.0,486.17,,"Jefferson, Pennsylvania"
-42039,Pennsylvania,Crawford,41.89,84629.0,495.0,,"Crawford, Pennsylvania"
-42021,Pennsylvania,Cambria,66.62,130192.0,511.7,,"Cambria, Pennsylvania"
-42089,Pennsylvania,Monroe,89.73,170271.0,527.01,,"Monroe, Pennsylvania"
-42069,Pennsylvania,Lackawanna,114.97,209674.0,548.31,,"Lackawanna, Pennsylvania"
-42031,Pennsylvania,Clarion,22.9,38438.0,595.83,,"Clarion, Pennsylvania"
-42121,Pennsylvania,Venango,30.38,50668.0,599.6,,"Venango, Pennsylvania"
-42041,Pennsylvania,Cumberland,155.59,253370.0,614.07,,"Cumberland, Pennsylvania"
-42001,Pennsylvania,Adams,64.49,103009.0,626.11,,"Adams, Pennsylvania"
-42011,Pennsylvania,Berks,274.01,421164.0,650.6,,"Berks, Pennsylvania"
-42051,Pennsylvania,Fayette,87.71,129274.0,678.51,,"Fayette, Pennsylvania"
-42095,Pennsylvania,Northampton,220.19,305285.0,721.27,,"Northampton, Pennsylvania"
-42049,Pennsylvania,Erie,199.97,269728.0,741.38,,"Erie, Pennsylvania"
-42077,Pennsylvania,Lehigh,299.16,369318.0,810.05,,"Lehigh, Pennsylvania"
-42081,Pennsylvania,Lycoming,92.38,113299.0,815.33,,"Lycoming, Pennsylvania"
-42035,Pennsylvania,Clinton,31.54,38632.0,816.37,,"Clinton, Pennsylvania"
-42091,Pennsylvania,Montgomery,681.47,830915.0,820.14,,"Montgomery, Pennsylvania"
-42097,Pennsylvania,Northumberland,75.02,90843.0,825.81,,"Northumberland, Pennsylvania"
-42017,Pennsylvania,Bucks,531.24,628270.0,845.57,,"Bucks, Pennsylvania"
-42055,Pennsylvania,Franklin,131.35,155027.0,847.24,,"Franklin, Pennsylvania"
-42045,Pennsylvania,Delaware,512.45,566747.0,904.2,,"Delaware, Pennsylvania"
-42029,Pennsylvania,Chester,475.66,524989.0,906.04,,"Chester, Pennsylvania"
-42019,Pennsylvania,Butler,178.16,187853.0,948.43,,"Butler, Pennsylvania"
-42059,Pennsylvania,Greene,35.31,36233.0,974.51,,"Greene, Pennsylvania"
-42073,Pennsylvania,Lawrence,86.48,85512.0,1011.31,,"Lawrence, Pennsylvania"
-42133,Pennsylvania,York,459.93,449058.0,1024.22,,"York, Pennsylvania"
-42047,Pennsylvania,Elk,30.65,29910.0,1024.74,,"Elk, Pennsylvania"
-42075,Pennsylvania,Lebanon,148.05,141793.0,1044.15,,"Lebanon, Pennsylvania"
-42071,Pennsylvania,Lancaster,673.99,545724.0,1235.03,,"Lancaster, Pennsylvania"
-42113,Pennsylvania,Sullivan,7.83,6066.0,1290.69,,"Sullivan, Pennsylvania"
-42125,Pennsylvania,Washington,273.7,206865.0,1323.06,,"Washington, Pennsylvania"
-42129,Pennsylvania,Westmoreland,498.85,348899.0,1429.77,,"Westmoreland, Pennsylvania"
-42007,Pennsylvania,Beaver,244.04,163929.0,1488.68,,"Beaver, Pennsylvania"
-42101,Pennsylvania,Philadelphia,2490.37,1584064.0,1572.14,,"Philadelphia, Pennsylvania"
-42043,Pennsylvania,Dauphin,446.87,278299.0,1605.73,,"Dauphin, Pennsylvania"
-42003,Pennsylvania,Allegheny,3036.8,1216045.0,2497.27,,"Allegheny, Pennsylvania"
-44009,Rhode Island,Washington,15.04,125577.0,119.81,,"Washington, Rhode Island"
-44001,Rhode Island,Bristol,9.68,48479.0,199.65,,"Bristol, Rhode Island"
-44003,Rhode Island,Kent,73.1,164292.0,444.96,,"Kent, Rhode Island"
-44005,Rhode Island,Newport,41.78,82082.0,508.95,,"Newport, Rhode Island"
-44007,Rhode Island,Providence,501.59,638931.0,785.04,,"Providence, Rhode Island"
-51610,Virginia,Falls Church,0.0,14617.0,0.0,,"Falls Church, Virginia"
-51091,Virginia,Highland,0.03,2190.0,11.6,,"Highland, Virginia"
-51119,Virginia,Middlesex,0.14,10582.0,13.59,,"Middlesex, Virginia"
-51021,Virginia,Bland,0.29,6280.0,46.48,,"Bland, Virginia"
-51530,Virginia,Buena Vista,0.41,6478.0,62.53,,"Buena Vista, Virginia"
-51720,Virginia,Norton,0.41,3981.0,102.67,,"Norton, Virginia"
-51169,Virginia,Scott,2.5,21566.0,116.12,,"Scott, Virginia"
-51600,Virginia,Fairfax City,4.16,24019.0,173.25,,"Fairfax City, Virginia"
-51051,Virginia,Dickenson,2.77,14318.0,193.23,,"Dickenson, Virginia"
-51009,Virginia,Amherst,6.14,31605.0,194.25,,"Amherst, Virginia"
-51103,Virginia,Lancaster,2.33,10603.0,219.4,,"Lancaster, Virginia"
-51580,Virginia,Covington,1.22,5538.0,220.95,,"Covington, Virginia"
-51037,Virginia,Charlotte,2.66,11880.0,223.66,,"Charlotte, Virginia"
-51001,Virginia,Accomack,8.09,32316.0,250.2,,"Accomack, Virginia"
-51678,Virginia,Lexington,1.87,7446.0,251.54,,"Lexington, Virginia"
-51167,Virginia,Russell,6.98,26586.0,262.37,,"Russell, Virginia"
-51155,Virginia,Pulaski,9.09,34027.0,267.02,,"Pulaski, Virginia"
-51105,Virginia,Lee,7.12,23423.0,303.92,,"Lee, Virginia"
-51133,Virginia,Northumberland,3.78,12095.0,312.63,,"Northumberland, Virginia"
-51173,Virginia,Smyth,9.47,30104.0,314.46,,"Smyth, Virginia"
-51195,Virginia,Wise,11.84,37383.0,316.63,,"Wise, Virginia"
-51163,Virginia,Rockbridge,7.21,22573.0,319.59,,"Rockbridge, Virginia"
-51063,Virginia,Floyd,5.53,15749.0,351.36,,"Floyd, Virginia"
-51115,Virginia,Mathews,3.18,8834.0,360.35,,"Mathews, Virginia"
-51099,Virginia,King George,9.82,26836.0,366.04,,"King George, Virginia"
-51735,Virginia,Poquoson,4.52,12271.0,368.26,,"Poquoson, Virginia"
-51131,Virginia,Northampton,4.47,11710.0,381.47,,"Northampton, Virginia"
-51031,Virginia,Campbell,21.42,54885.0,390.35,,"Campbell, Virginia"
-51033,Virginia,Caroline,12.26,30725.0,399.09,,"Caroline, Virginia"
-51197,Virginia,Wythe,12.0,28684.0,418.5,,"Wythe, Virginia"
-51191,Virginia,Washington,22.78,53740.0,423.83,,"Washington, Virginia"
-51137,Virginia,Orange,15.72,37051.0,424.21,,"Orange, Virginia"
-51113,Virginia,Madison,5.77,13261.0,435.21,,"Madison, Virginia"
-51185,Virginia,Tazewell,17.8,40595.0,438.55,,"Tazewell, Virginia"
-51141,Virginia,Patrick,7.79,17608.0,442.13,,"Patrick, Virginia"
-51015,Virginia,Augusta,33.85,75558.0,447.97,,"Augusta, Virginia"
-51750,Virginia,Radford,8.47,18249.0,464.21,,"Radford, Virginia"
-51125,Virginia,Nelson,7.02,14930.0,469.97,,"Nelson, Virginia"
-51520,Virginia,Bristol,8.19,16762.0,488.74,,"Bristol, Virginia"
-51127,Virginia,New Kent,11.39,23091.0,493.22,,"New Kent, Virginia"
-51071,Virginia,Giles,8.39,16720.0,501.54,,"Giles, Virginia"
-51011,Virginia,Appomattox,8.02,15911.0,503.98,,"Appomattox, Virginia"
-51181,Virginia,Surry,3.51,6422.0,547.1,,"Surry, Virginia"
-51017,Virginia,Bath,2.28,4147.0,549.02,,"Bath, Virginia"
-51036,Virginia,Charles City,3.86,6963.0,554.64,,"Charles City, Virginia"
-51145,Virginia,Powhatan,16.53,29652.0,557.35,,"Powhatan, Virginia"
-51019,Virginia,Bedford,44.91,78997.0,568.49,,"Bedford, Virginia"
-51085,Virginia,Hanover,67.0,107766.0,621.71,,"Hanover, Virginia"
-51117,Virginia,Mecklenburg,20.21,30587.0,660.7,,"Mecklenburg, Virginia"
-51680,Virginia,Lynchburg,54.5,82168.0,663.27,,"Lynchburg, Virginia"
-51075,Virginia,Goochland,15.76,23753.0,663.69,,"Goochland, Virginia"
-51121,Virginia,Montgomery,65.67,98535.0,666.49,,"Montgomery, Virginia"
-51199,Virginia,York,52.07,68280.0,762.57,,"York, Virginia"
-51097,Virginia,King and Queen,5.36,7025.0,763.25,,"King and Queen, Virginia"
-51179,Virginia,Stafford,120.86,152882.0,790.54,,"Stafford, Virginia"
-51013,Virginia,Arlington,187.26,236842.0,790.66,,"Arlington, Virginia"
-51045,Virginia,Craig,4.17,5131.0,813.01,,"Craig, Virginia"
-51059,Virginia,Fairfax,937.68,1147532.0,817.13,,"Fairfax, Virginia"
-51109,Virginia,Louisa,31.05,37591.0,825.9,,"Louisa, Virginia"
-51590,Virginia,Danville,34.02,40044.0,849.47,,"Danville, Virginia"
-51077,Virginia,Grayson,13.53,15550.0,870.21,,"Grayson, Virginia"
-51005,Virginia,Alleghany,13.2,14860.0,888.46,,"Alleghany, Virginia"
-51135,Virginia,Nottoway,13.95,15232.0,915.57,,"Nottoway, Virginia"
-51087,Virginia,Henrico,304.53,330818.0,920.54,,"Henrico, Virginia"
-51069,Virginia,Frederick,82.3,89313.0,921.51,,"Frederick, Virginia"
-51007,Virginia,Amelia,12.3,13145.0,935.95,,"Amelia, Virginia"
-51043,Virginia,Clarke,13.99,14619.0,956.84,,"Clarke, Virginia"
-51067,Virginia,Franklin,54.91,56042.0,979.74,,"Franklin, Virginia"
-51027,Virginia,Buchanan,20.95,21004.0,997.3,,"Buchanan, Virginia"
-51065,Virginia,Fluvanna,27.66,27270.0,1014.34,,"Fluvanna, Virginia"
-51143,Virginia,Pittsylvania,61.58,60354.0,1020.36,,"Pittsylvania, Virginia"
-51073,Virginia,Gloucester,38.59,37348.0,1033.24,,"Gloucester, Virginia"
-51053,Virginia,Dinwiddie,29.57,28544.0,1036.1,,"Dinwiddie, Virginia"
-51111,Virginia,Lunenburg,12.67,12196.0,1039.19,,"Lunenburg, Virginia"
-51187,Virginia,Warren,42.49,40164.0,1058.0,,"Warren, Virginia"
-51790,Virginia,Staunton,26.43,24932.0,1059.96,,"Staunton, Virginia"
-51570,Virginia,Colonial Heights,18.74,17370.0,1078.61,,"Colonial Heights, Virginia"
-51047,Virginia,Culpeper,58.01,52605.0,1102.71,,"Culpeper, Virginia"
-51061,Virginia,Fauquier,79.49,71222.0,1116.08,,"Fauquier, Virginia"
-51175,Virginia,Southampton,20.29,17631.0,1151.04,,"Southampton, Virginia"
-51177,Virginia,Spotsylvania,164.91,136215.0,1210.64,,"Spotsylvania, Virginia"
-51083,Virginia,Halifax,41.65,33911.0,1228.21,,"Halifax, Virginia"
-51049,Virginia,Cumberland,12.23,9932.0,1230.97,,"Cumberland, Virginia"
-51840,Virginia,Winchester,34.84,28078.0,1240.68,,"Winchester, Virginia"
-51149,Virginia,Prince George,49.65,38353.0,1294.56,,"Prince George, Virginia"
-51165,Virginia,Rockingham,106.39,81948.0,1298.29,,"Rockingham, Virginia"
-51161,Virginia,Roanoke,125.92,94186.0,1336.9,,"Roanoke, Virginia"
-51510,Virginia,Alexandria,218.81,159428.0,1372.46,,"Alexandria, Virginia"
-51630,Virginia,Fredericksburg,39.86,29036.0,1372.94,,"Fredericksburg, Virginia"
-51159,Virginia,Richmond,12.39,9023.0,1373.04,,"Richmond, Virginia"
-51057,Virginia,Essex,15.3,10953.0,1396.99,,"Essex, Virginia"
-51079,Virginia,Greene,27.76,19819.0,1400.43,,"Greene, Virginia"
-51760,Virginia,Richmond City,326.76,230436.0,1418.02,,"Richmond City, Virginia"
-51775,Virginia,Salem,37.77,25301.0,1492.64,,"Salem, Virginia"
-51041,Virginia,Chesterfield,540.13,352802.0,1530.99,,"Chesterfield, Virginia"
-51650,Virginia,Hampton,208.32,134510.0,1548.76,,"Hampton, Virginia"
-51660,Virginia,Harrisonburg,83.22,53016.0,1569.66,,"Harrisonburg, Virginia"
-51095,Virginia,James City,121.68,76523.0,1590.17,,"James City, Virginia"
-51029,Virginia,Buckingham,28.15,17148.0,1641.73,,"Buckingham, Virginia"
-51700,Virginia,Newport News,296.51,179225.0,1654.41,,"Newport News, Virginia"
-51171,Virginia,Shenandoah,72.18,43616.0,1654.79,,"Shenandoah, Virginia"
-51670,Virginia,Hopewell,37.91,22529.0,1682.85,,"Hopewell, Virginia"
-51810,Virginia,Virginia Beach,758.29,449974.0,1685.19,,"Virginia Beach, Virginia"
-51093,Virginia,Isle of Wight,62.72,37109.0,1690.21,,"Isle of Wight, Virginia"
-51101,Virginia,King William,29.13,17148.0,1698.79,,"King William, Virginia"
-51107,Virginia,Loudoun,723.72,413538.0,1750.06,,"Loudoun, Virginia"
-51153,Virginia,Prince William,849.33,470335.0,1805.81,,"Prince William, Virginia"
-51183,Virginia,Sussex,20.34,11159.0,1822.3,,"Sussex, Virginia"
-51550,Virginia,Chesapeake,446.32,244835.0,1822.93,,"Chesapeake, Virginia"
-51540,Virginia,Charlottesville,86.33,47266.0,1826.37,,"Charlottesville, Virginia"
-51025,Virginia,Brunswick,29.78,16231.0,1834.46,,"Brunswick, Virginia"
-51035,Virginia,Carroll,57.02,29791.0,1914.02,,"Carroll, Virginia"
-51139,Virginia,Page,45.76,23902.0,1914.66,,"Page, Virginia"
-51800,Virginia,Suffolk,189.77,92108.0,2060.31,,"Suffolk, Virginia"
-51003,Virginia,Albemarle,230.19,109330.0,2105.47,,"Albemarle, Virginia"
-51193,Virginia,Westmoreland,41.76,18015.0,2318.32,,"Westmoreland, Virginia"
-51830,Virginia,Williamsburg,35.54,14954.0,2376.62,,"Williamsburg, Virginia"
-51740,Virginia,Portsmouth,244.3,94398.0,2587.97,,"Portsmouth, Virginia"
-51770,Virginia,Roanoke City,267.83,99143.0,2701.48,,"Roanoke City, Virginia"
-51023,Virginia,Botetourt,91.4,33419.0,2735.07,,"Botetourt, Virginia"
-51081,Virginia,Greensville,31.4,11336.0,2770.01,,"Greensville, Virginia"
-51685,Virginia,Manassas Park,49.3,17478.0,2820.9,,"Manassas Park, Virginia"
-51157,Virginia,Rappahannock,21.44,7370.0,2908.83,,"Rappahannock, Virginia"
-51683,Virginia,Manassas,121.77,41085.0,2963.75,,"Manassas, Virginia"
-51089,Virginia,Henry,149.84,50557.0,2963.76,,"Henry, Virginia"
-51820,Virginia,Waynesboro,69.97,22630.0,3092.02,,"Waynesboro, Virginia"
-51710,Virginia,Norfolk,773.46,242742.0,3186.35,,"Norfolk, Virginia"
-51147,Virginia,Prince Edward,87.17,22802.0,3823.09,,"Prince Edward, Virginia"
-51620,Virginia,Franklin City,34.81,7967.0,4369.65,,"Franklin City, Virginia"
-51690,Virginia,Martinsville,59.25,12554.0,4719.79,,"Martinsville, Virginia"
-51730,Virginia,Petersburg,149.2,31346.0,4759.73,,"Petersburg, Virginia"
-51595,Virginia,Emporia,28.73,5346.0,5374.62,,"Emporia, Virginia"
-51640,Virginia,Galax,61.35,6347.0,9665.66,,"Galax, Virginia"
-54007,West Virginia,Braxton,0.0,13957.0,0.0,,"Braxton, West Virginia"
-54017,West Virginia,Doddridge,0.0,8448.0,0.0,,"Doddridge, West Virginia"
-54085,West Virginia,Ritchie,0.0,9554.0,0.0,,"Ritchie, West Virginia"
-54023,West Virginia,Grant,0.06,11568.0,4.89,,"Grant, West Virginia"
-54065,West Virginia,Morgan,0.12,17884.0,6.73,,"Morgan, West Virginia"
-54109,West Virginia,Wyoming,0.28,20394.0,13.61,,"Wyoming, West Virginia"
-54093,West Virginia,Tucker,0.23,6839.0,33.65,,"Tucker, West Virginia"
-54089,West Virginia,Summers,0.57,12573.0,45.1,,"Summers, West Virginia"
-54027,West Virginia,Hampshire,1.76,23175.0,76.11,,"Hampshire, West Virginia"
-54101,West Virginia,Webster,1.13,8114.0,139.24,,"Webster, West Virginia"
-54087,West Virginia,Roane,2.36,13688.0,172.77,,"Roane, West Virginia"
-54021,West Virginia,Gilmer,1.53,7823.0,195.93,,"Gilmer, West Virginia"
-54015,West Virginia,Clay,1.97,8508.0,231.57,,"Clay, West Virginia"
-54071,West Virginia,Pendleton,1.85,6969.0,266.13,,"Pendleton, West Virginia"
-54047,West Virginia,McDowell,4.8,17624.0,272.36,,"McDowell, West Virginia"
-54041,West Virginia,Lewis,4.41,15907.0,277.03,,"Lewis, West Virginia"
-54001,West Virginia,Barbour,4.71,16441.0,286.33,,"Barbour, West Virginia"
-54043,West Virginia,Lincoln,5.93,20409.0,290.7,,"Lincoln, West Virginia"
-54105,West Virginia,Wirt,1.85,5821.0,318.62,,"Wirt, West Virginia"
-54073,West Virginia,Pleasants,2.6,7460.0,349.11,,"Pleasants, West Virginia"
-54063,West Virginia,Monroe,4.71,13275.0,354.98,,"Monroe, West Virginia"
-54031,West Virginia,Hardy,4.9,13776.0,355.48,,"Hardy, West Virginia"
-54053,West Virginia,Mason,10.47,26516.0,395.02,,"Mason, West Virginia"
-54067,West Virginia,Nicholas,10.68,24496.0,436.05,,"Nicholas, West Virginia"
-54099,West Virginia,Wayne,17.28,39402.0,438.61,,"Wayne, West Virginia"
-54097,West Virginia,Upshur,10.63,24176.0,439.89,,"Upshur, West Virginia"
-54035,West Virginia,Jackson,13.68,28576.0,478.62,,"Jackson, West Virginia"
-54045,West Virginia,Logan,15.46,32019.0,482.92,,"Logan, West Virginia"
-54057,West Virginia,Mineral,13.4,26868.0,498.79,,"Mineral, West Virginia"
-54081,West Virginia,Raleigh,36.84,73361.0,502.16,,"Raleigh, West Virginia"
-54091,West Virginia,Taylor,9.31,16695.0,557.38,,"Taylor, West Virginia"
-54025,West Virginia,Greenbrier,21.95,34662.0,633.23,,"Greenbrier, West Virginia"
-54013,West Virginia,Calhoun,4.55,7109.0,640.54,,"Calhoun, West Virginia"
-54019,West Virginia,Fayette,29.07,42406.0,685.62,,"Fayette, West Virginia"
-54059,West Virginia,Mingo,16.17,23424.0,690.26,,"Mingo, West Virginia"
-54055,West Virginia,Mercer,44.49,58758.0,757.19,,"Mercer, West Virginia"
-54005,West Virginia,Boone,16.56,21457.0,771.79,,"Boone, West Virginia"
-54095,West Virginia,Tyler,6.67,8591.0,776.34,,"Tyler, West Virginia"
-54029,West Virginia,Hancock,23.02,28810.0,799.03,,"Hancock, West Virginia"
-54037,West Virginia,Jefferson,45.94,57146.0,803.93,,"Jefferson, West Virginia"
-54079,West Virginia,Putnam,45.99,56450.0,814.78,,"Putnam, West Virginia"
-54039,West Virginia,Kanawha,147.69,178124.0,829.15,,"Kanawha, West Virginia"
-54009,West Virginia,Brooke,20.85,21939.0,950.57,,"Brooke, West Virginia"
-54051,West Virginia,Marshall,31.67,30531.0,1037.45,,"Marshall, West Virginia"
-54003,West Virginia,Berkeley,125.65,119171.0,1054.39,,"Berkeley, West Virginia"
-54083,West Virginia,Randolph,32.82,28695.0,1143.65,,"Randolph, West Virginia"
-54077,West Virginia,Preston,38.7,33432.0,1157.44,,"Preston, West Virginia"
-54049,West Virginia,Marion,67.82,56072.0,1209.59,,"Marion, West Virginia"
-54011,West Virginia,Cabell,117.8,91945.0,1281.25,,"Cabell, West Virginia"
-54033,West Virginia,Harrison,88.96,67256.0,1322.74,,"Harrison, West Virginia"
-54069,West Virginia,Ohio,63.95,41411.0,1544.27,,"Ohio, West Virginia"
-54107,West Virginia,Wood,144.91,83518.0,1735.12,,"Wood, West Virginia"
-54103,West Virginia,Wetzel,31.91,15065.0,2118.21,,"Wetzel, West Virginia"
-54075,West Virginia,Pocahontas,20.92,8247.0,2537.29,,"Pocahontas, West Virginia"
-54061,West Virginia,Monongalia,481.04,105612.0,4554.78,,"Monongalia, West Virginia"
+FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full Name,Active Cases per Million (int)
+09001,Connecticut,Fairfield,414.35464959672,943332.0,439,2.0,"Fairfield, Connecticut",439.0
+09003,Connecticut,Hartford,472.7321990004,891720.0,530,2.0,"Hartford, Connecticut",530.0
+09005,Connecticut,Litchfield,33.91777528224,180333.0,188,1.0,"Litchfield, Connecticut",188.0
+09007,Connecticut,Middlesex,61.42173329136,162436.0,378,1.0,"Middlesex, Connecticut",378.0
+09009,Connecticut,New Haven,444.6147149452801,854757.0,520,2.0,"New Haven, Connecticut",520.0
+09011,Connecticut,New London,93.53994731808001,265206.0,353,1.0,"New London, Connecticut",353.0
+09013,Connecticut,Tolland,38.249470188240004,150721.0,254,1.0,"Tolland, Connecticut",254.0
+09015,Connecticut,Windham,47.85588918672,116782.0,410,2.0,"Windham, Connecticut",410.0
+10001,Delaware,Kent,253.39942258896002,180786.0,1402,3.0,"Kent, Delaware",1402.0
+10003,Delaware,New Castle,1004.5582733762399,558753.0,1798,3.0,"New Castle, Delaware",1798.0
+10005,Delaware,Sussex,576.24936783288,234225.0,2460,3.0,"Sussex, Delaware",2460.0
+11001,District of Columbia,District of Columbia,941.05829631024,705749.0,1333,3.0,"District of Columbia, District of Columbia",1333.0
+23001,Maine,Androscoggin,28.086024246239994,108277.0,259,1.0,"Androscoggin, Maine",259.0
+23003,Maine,Aroostook,1.9987722167999997,67055.0,30,1.0,"Aroostook, Maine",30.0
+23005,Maine,Cumberland,263.937811344,295003.0,895,3.0,"Cumberland, Maine",895.0
+23007,Maine,Franklin,4.13207632896,30199.0,137,1.0,"Franklin, Maine",137.0
+23009,Maine,Hancock,2.2266071690400002,54987.0,40,1.0,"Hancock, Maine",40.0
+23011,Maine,Kennebec,1.88654167656,122302.0,15,1.0,"Kennebec, Maine",15.0
+23013,Maine,Knox,0.67950857064,39772.0,17,1.0,"Knox, Maine",17.0
+23015,Maine,Lincoln,3.4799508311999996,34634.0,100,1.0,"Lincoln, Maine",100.0
+23017,Maine,Oxford,12.124035616799997,57975.0,209,1.0,"Oxford, Maine",209.0
+23019,Maine,Penobscot,21.043275564240002,152148.0,138,1.0,"Penobscot, Maine",138.0
+23021,Maine,Piscataquis,2.86535957592,16785.0,171,1.0,"Piscataquis, Maine",171.0
+23023,Maine,Sagadahoc,0.5297862549600003,35856.0,15,1.0,"Sagadahoc, Maine",15.0
+23025,Maine,Somerset,3.6743331815999998,50484.0,73,1.0,"Somerset, Maine",73.0
+23027,Maine,Waldo,4.47101969496,39715.0,113,1.0,"Waldo, Maine",113.0
+23029,Maine,Washington,3.1965925905599994,31379.0,102,1.0,"Washington, Maine",102.0
+23031,Maine,York,88.80789480792,207641.0,428,2.0,"York, Maine",428.0
+24001,Maryland,Allegany,22.764422766480003,70416.0,323,1.0,"Allegany, Maryland",323.0
+24003,Maryland,Anne Arundel,720.1743947085598,579234.0,1243,3.0,"Anne Arundel, Maryland",1243.0
+24005,Maryland,Baltimore,1474.8112901356799,827370.0,1783,3.0,"Baltimore, Maryland",1783.0
+24009,Maryland,Calvert,70.58999608392,92525.0,763,2.0,"Calvert, Maryland",763.0
+24011,Maryland,Caroline,33.06422102351999,33406.0,990,3.0,"Caroline, Maryland",990.0
+24013,Maryland,Carroll,145.95700605648003,168447.0,866,3.0,"Carroll, Maryland",866.0
+24015,Maryland,Cecil,73.7501186832,102855.0,717,2.0,"Cecil, Maryland",717.0
+24017,Maryland,Charles,211.0849780416,163257.0,1293,3.0,"Charles, Maryland",1293.0
+24019,Maryland,Dorchester,49.718090335919996,31929.0,1557,3.0,"Dorchester, Maryland",1557.0
+24021,Maryland,Frederick,177.12154582367998,259547.0,682,2.0,"Frederick, Maryland",682.0
+24023,Maryland,Garrett,28.347509191679993,29014.0,977,3.0,"Garrett, Maryland",977.0
+24025,Maryland,Harford,252.08147060975995,255441.0,987,3.0,"Harford, Maryland",987.0
+24027,Maryland,Howard,461.74975924392,325690.0,1418,3.0,"Howard, Maryland",1418.0
+24029,Maryland,Kent,8.534738238239997,19422.0,439,2.0,"Kent, Maryland",439.0
+24031,Maryland,Montgomery,1541.3418496351194,1050688.0,1467,3.0,"Montgomery, Maryland",1467.0
+24033,Maryland,Prince George's,1802.4440965996796,909327.0,1982,3.0,"Prince George's, Maryland",1982.0
+24035,Maryland,Queen Anne's,95.25595218119999,50381.0,1891,3.0,"Queen Anne's, Maryland",1891.0
+24037,Maryland,St. Mary's,124.19773282128001,113510.0,1094,3.0,"St. Mary's, Maryland",1094.0
+24039,Maryland,Somerset,24.604607613360002,25616.0,961,3.0,"Somerset, Maryland",961.0
+24041,Maryland,Talbot,86.65430998152002,37181.0,2331,3.0,"Talbot, Maryland",2331.0
+24043,Maryland,Washington,85.95867178152,151049.0,569,2.0,"Washington, Maryland",569.0
+24045,Maryland,Wicomico,112.11336292968001,103609.0,1082,3.0,"Wicomico, Maryland",1082.0
+24047,Maryland,Worcester,56.3073275544,52276.0,1077,3.0,"Worcester, Maryland",1077.0
+24510,Maryland,Baltimore City,1603.8771282609596,593490.0,2702,3.0,"Baltimore City, Maryland",2702.0
+25001,Massachusetts,Barnstable,65.39298613968,212990.0,307,1.0,"Barnstable, Massachusetts",307.0
+25003,Massachusetts,Berkshire,29.530326074160005,124944.0,236,1.0,"Berkshire, Massachusetts",236.0
+25005,Massachusetts,Bristol,421.8509351064,565217.0,746,2.0,"Bristol, Massachusetts",746.0
+25007,Massachusetts,Dukes,0.0,17332.0,0,1.0,"Dukes, Massachusetts",0.0
+25009,Massachusetts,Essex,563.5177082786399,789034.0,714,2.0,"Essex, Massachusetts",714.0
+25011,Massachusetts,Franklin,23.884783142640003,70180.0,340,1.0,"Franklin, Massachusetts",340.0
+25013,Massachusetts,Hampden,387.04161528384003,466372.0,830,3.0,"Hampden, Massachusetts",830.0
+25015,Massachusetts,Hampshire,64.86436896672001,160830.0,403,2.0,"Hampshire, Massachusetts",403.0
+25017,Massachusetts,Middlesex,908.80989896616,1611699.0,564,2.0,"Middlesex, Massachusetts",564.0
+25019,Massachusetts,Nantucket,0.0,11399.0,0,1.0,"Nantucket, Massachusetts",0.0
+25021,Massachusetts,Norfolk,490.44758846664007,706775.0,694,2.0,"Norfolk, Massachusetts",694.0
+25023,Massachusetts,Plymouth,210.80390835216005,521202.0,404,2.0,"Plymouth, Massachusetts",404.0
+25025,Massachusetts,Suffolk,797.7605241775201,803907.0,992,3.0,"Suffolk, Massachusetts",992.0
+25027,Massachusetts,Worcester,478.5210542047198,830622.0,576,2.0,"Worcester, Massachusetts",576.0
+33001,New Hampshire,Belknap,15.86189463888,61303.0,259,1.0,"Belknap, New Hampshire",259.0
+33003,New Hampshire,Carroll,13.923986770319999,48910.0,285,1.0,"Carroll, New Hampshire",285.0
+33005,New Hampshire,Cheshire,8.72730454992,76085.0,115,1.0,"Cheshire, New Hampshire",115.0
+33007,New Hampshire,Coos,6.69358051848,31563.0,212,1.0,"Coos, New Hampshire",212.0
+33009,New Hampshire,Grafton,11.378670168000001,89886.0,127,1.0,"Grafton, New Hampshire",127.0
+33011,New Hampshire,Hillsborough,254.15903994840005,417025.0,609,2.0,"Hillsborough, New Hampshire",609.0
+33013,New Hampshire,Merrimack,31.261389094800002,151391.0,206,1.0,"Merrimack, New Hampshire",206.0
+33015,New Hampshire,Rockingham,81.21583023816002,309769.0,262,1.0,"Rockingham, New Hampshire",262.0
+33017,New Hampshire,Strafford,15.475994820959999,130633.0,118,1.0,"Strafford, New Hampshire",118.0
+33019,New Hampshire,Sullivan,5.94632259,43146.0,138,1.0,"Sullivan, New Hampshire",138.0
+34001,New Jersey,Atlantic,246.10509866400002,263670.0,933,3.0,"Atlantic, New Jersey",933.0
+34003,New Jersey,Bergen,700.8018398496,932202.0,752,2.0,"Bergen, New Jersey",752.0
+34005,New Jersey,Burlington,311.53798897344,445349.0,700,2.0,"Burlington, New Jersey",700.0
+34007,New Jersey,Camden,566.03447528112,506471.0,1118,3.0,"Camden, New Jersey",1118.0
+34009,New Jersey,Cape May,34.891720812959996,92039.0,379,1.0,"Cape May, New Jersey",379.0
+34011,New Jersey,Cumberland,137.74088261976001,149527.0,921,3.0,"Cumberland, New Jersey",921.0
+34013,New Jersey,Essex,437.66013914663995,798975.0,548,2.0,"Essex, New Jersey",548.0
+34015,New Jersey,Gloucester,283.39838480064,291636.0,972,3.0,"Gloucester, New Jersey",972.0
+34017,New Jersey,Hudson,321.14640055248003,672391.0,478,2.0,"Hudson, New Jersey",478.0
+34019,New Jersey,Hunterdon,20.431430569680003,124371.0,164,1.0,"Hunterdon, New Jersey",164.0
+34021,New Jersey,Mercer,193.34223044519996,367430.0,526,2.0,"Mercer, New Jersey",526.0
+34023,New Jersey,Middlesex,387.96420018408,825062.0,470,2.0,"Middlesex, New Jersey",470.0
+34025,New Jersey,Monmouth,563.6894980252799,618795.0,911,3.0,"Monmouth, New Jersey",911.0
+34027,New Jersey,Morris,232.5704068584,491845.0,473,2.0,"Morris, New Jersey",473.0
+34029,New Jersey,Ocean,330.6402684626401,607186.0,545,2.0,"Ocean, New Jersey",545.0
+34031,New Jersey,Passaic,312.33202828728,501826.0,622,2.0,"Passaic, New Jersey",622.0
+34033,New Jersey,Salem,50.75709676152001,62385.0,814,3.0,"Salem, New Jersey",814.0
+34035,New Jersey,Somerset,216.93001401311997,328934.0,659,2.0,"Somerset, New Jersey",659.0
+34037,New Jersey,Sussex,45.55765081176001,140488.0,324,1.0,"Sussex, New Jersey",324.0
+34039,New Jersey,Union,217.79047309343994,556341.0,391,1.0,"Union, New Jersey",391.0
+34041,New Jersey,Warren,36.2345445948,105267.0,344,1.0,"Warren, New Jersey",344.0
+36001,New York,Albany,177.80121458736002,305506.0,582,2.0,"Albany, New York",582.0
+36003,New York,Allegany,8.249197170239999,46091.0,179,1.0,"Allegany, New York",179.0
+36005,New York,Bronx,1114.28987477784,1418207.0,786,2.0,"Bronx, New York",786.0
+36007,New York,Broome,180.55572037608002,190488.0,948,3.0,"Broome, New York",948.0
+36009,New York,Cattaraugus,24.26515857672,76117.0,319,1.0,"Cattaraugus, New York",319.0
+36011,New York,Cayuga,14.304912670559998,76576.0,187,1.0,"Cayuga, New York",187.0
+36013,New York,Chautauqua,74.63944166568001,126903.0,588,2.0,"Chautauqua, New York",588.0
+36015,New York,Chemung,6.52056415632,83456.0,78,1.0,"Chemung, New York",78.0
+36017,New York,Chenango,33.83191187232,47207.0,717,2.0,"Chenango, New York",717.0
+36019,New York,Clinton,12.002263599119997,80485.0,149,1.0,"Clinton, New York",149.0
+36021,New York,Columbia,30.059979373919997,59461.0,506,2.0,"Columbia, New York",506.0
+36023,New York,Cortland,17.94597952776,47581.0,377,1.0,"Cortland, New York",377.0
+36025,New York,Delaware,2.5082602125599998,44135.0,57,1.0,"Delaware, New York",57.0
+36027,New York,Dutchess,112.86207846935999,294218.0,384,1.0,"Dutchess, New York",384.0
+36029,New York,Erie,695.3254103085601,918702.0,757,2.0,"Erie, New York",757.0
+36031,New York,Essex,9.021594106319998,36885.0,245,1.0,"Essex, New York",245.0
+36033,New York,Franklin,8.296066950239998,50022.0,166,1.0,"Franklin, New York",166.0
+36035,New York,Fulton,13.31118647856,53383.0,249,1.0,"Fulton, New York",249.0
+36037,New York,Genesee,22.691262904080002,57280.0,396,1.0,"Genesee, New York",396.0
+36039,New York,Greene,9.439773067679997,47188.0,200,1.0,"Greene, New York",200.0
+36041,New York,Hamilton,0.023527561199999998,4416.0,5,1.0,"Hamilton, New York",5.0
+36043,New York,Herkimer,48.35832062448,61319.0,789,2.0,"Herkimer, New York",789.0
+36045,New York,Jefferson,16.7124732528,109834.0,152,1.0,"Jefferson, New York",152.0
+36047,New York,Kings,1751.6192371550399,2559903.0,684,2.0,"Kings, New York",684.0
+36049,New York,Lewis,2.6850365433600003,26296.0,102,1.0,"Lewis, New York",102.0
+36051,New York,Livingston,29.127127827599995,62914.0,463,2.0,"Livingston, New York",463.0
+36053,New York,Madison,28.37704134,70941.0,400,2.0,"Madison, New York",400.0
+36055,New York,Monroe,632.0193166752001,741770.0,852,3.0,"Monroe, New York",852.0
+36057,New York,Montgomery,28.56896144784,49221.0,580,2.0,"Montgomery, New York",580.0
+36059,New York,Nassau,822.2121078736801,1356924.0,606,2.0,"Nassau, New York",606.0
+36061,New York,New York,1173.9840327288,1628706.0,721,2.0,"New York, New York",721.0
+36063,New York,Niagara,144.58777416071996,209281.0,691,2.0,"Niagara, New York",691.0
+36065,New York,Oneida,286.7743206624,228671.0,1254,3.0,"Oneida, New York",1254.0
+36067,New York,Onondaga,449.97162966456,460528.0,977,3.0,"Onondaga, New York",977.0
+36069,New York,Ontario,57.968217293280006,109777.0,528,2.0,"Ontario, New York",528.0
+36071,New York,Orange,165.85064533007997,384940.0,431,2.0,"Orange, New York",431.0
+36073,New York,Orleans,8.8506915888,40352.0,219,1.0,"Orleans, New York",219.0
+36075,New York,Oswego,41.37992857272,117124.0,353,1.0,"Oswego, New York",353.0
+36077,New York,Otsego,7.971463275599998,59493.0,134,1.0,"Otsego, New York",134.0
+36079,New York,Putnam,64.42991386320001,98320.0,655,2.0,"Putnam, New York",655.0
+36081,New York,Queens,1688.2712832458399,2253858.0,749,2.0,"Queens, New York",749.0
+36083,New York,Rensselaer,112.88500577448,158714.0,711,2.0,"Rensselaer, New York",711.0
+36085,New York,Richmond,342.62076570504,476143.0,720,2.0,"Richmond, New York",720.0
+36087,New York,Rockland,186.11211864144002,325789.0,571,2.0,"Rockland, New York",571.0
+36089,New York,St. Lawrence,16.53478258176,107740.0,153,1.0,"St. Lawrence, New York",153.0
+36091,New York,Saratoga,95.90085651935998,229863.0,417,2.0,"Saratoga, New York",417.0
+36093,New York,Schenectady,95.23682454840001,155299.0,613,2.0,"Schenectady, New York",613.0
+36095,New York,Schoharie,6.3193031380799995,30999.0,204,1.0,"Schoharie, New York",204.0
+36097,New York,Schuyler,4.631921076239999,17807.0,260,1.0,"Schuyler, New York",260.0
+36099,New York,Seneca,7.72785559824,34016.0,227,1.0,"Seneca, New York",227.0
+36101,New York,Steuben,15.61004276976,95379.0,164,1.0,"Steuben, New York",164.0
+36103,New York,Suffolk,1137.35321661984,1476601.0,770,2.0,"Suffolk, New York",770.0
+36105,New York,Sullivan,20.422954584,75432.0,271,1.0,"Sullivan, New York",271.0
+36107,New York,Tioga,28.772454695279997,48203.0,597,2.0,"Tioga, New York",597.0
+36109,New York,Tompkins,16.534863848639997,102180.0,162,1.0,"Tompkins, New York",162.0
+36111,New York,Ulster,91.69067676768,177573.0,516,2.0,"Ulster, New York",516.0
+36113,New York,Warren,25.209413256479998,63944.0,394,1.0,"Warren, New York",394.0
+36115,New York,Washington,5.112406479839999,61204.0,84,1.0,"Washington, New York",84.0
+36117,New York,Wayne,59.67755592504,89918.0,664,2.0,"Wayne, New York",664.0
+36119,New York,Westchester,715.7333276750397,967506.0,740,2.0,"Westchester, New York",740.0
+36121,New York,Wyoming,11.378039788799999,39859.0,285,1.0,"Wyoming, New York",285.0
+36123,New York,Yates,2.57272703472,24913.0,103,1.0,"Yates, New York",103.0
+39001,Ohio,Adams,12.15612432336,27698.0,439,2.0,"Adams, Ohio",439.0
+39003,Ohio,Allen,164.8521926532,102351.0,1611,3.0,"Allen, Ohio",1611.0
+39005,Ohio,Ashland,26.869305185039995,53484.0,502,2.0,"Ashland, Ohio",502.0
+39007,Ohio,Ashtabula,49.41405114528001,97241.0,508,2.0,"Ashtabula, Ohio",508.0
+39009,Ohio,Athens,288.68325171288,65327.0,4419,3.0,"Athens, Ohio",4419.0
+39011,Ohio,Auglaize,18.564887077439998,45656.0,407,2.0,"Auglaize, Ohio",407.0
+39013,Ohio,Belmont,66.62725620456,67006.0,994,3.0,"Belmont, Ohio",994.0
+39015,Ohio,Brown,14.151461954639998,43432.0,326,1.0,"Brown, Ohio",326.0
+39017,Ohio,Butler,743.1471978907198,383134.0,1940,3.0,"Butler, Ohio",1940.0
+39019,Ohio,Carroll,32.57370709536001,26914.0,1210,3.0,"Carroll, Ohio",1210.0
+39021,Ohio,Champaign,34.150955697360004,38885.0,878,3.0,"Champaign, Ohio",878.0
+39023,Ohio,Clark,151.46204238816,134083.0,1130,3.0,"Clark, Ohio",1130.0
+39025,Ohio,Clermont,271.75803311208006,206428.0,1316,3.0,"Clermont, Ohio",1316.0
+39027,Ohio,Clinton,53.748341961360005,41968.0,1281,3.0,"Clinton, Ohio",1281.0
+39029,Ohio,Columbiana,304.43824163064005,101883.0,2988,3.0,"Columbiana, Ohio",2988.0
+39031,Ohio,Coshocton,82.53661970807997,36600.0,2255,3.0,"Coshocton, Ohio",2255.0
+39033,Ohio,Crawford,12.68028212064,41494.0,306,1.0,"Crawford, Ohio",306.0
+39035,Ohio,Cuyahoga,3799.5551385314398,1235072.0,3076,3.0,"Cuyahoga, Ohio",3076.0
+39037,Ohio,Darke,34.885677624,51113.0,683,2.0,"Darke, Ohio",683.0
+39039,Ohio,Defiance,12.068009094719999,38087.0,317,1.0,"Defiance, Ohio",317.0
+39041,Ohio,Delaware,434.7690044695199,209177.0,2078,3.0,"Delaware, Ohio",2078.0
+39043,Ohio,Erie,131.94495726144,74266.0,1777,3.0,"Erie, Ohio",1777.0
+39045,Ohio,Fairfield,370.36395411047994,157574.0,2350,3.0,"Fairfield, Ohio",2350.0
+39047,Ohio,Fayette,22.748497772399997,28525.0,797,2.0,"Fayette, Ohio",797.0
+39049,Ohio,Franklin,4861.511569260961,1316756.0,3692,3.0,"Franklin, Ohio",3692.0
+39051,Ohio,Fulton,15.779598326159999,42126.0,375,1.0,"Fulton, Ohio",375.0
+39053,Ohio,Gallia,10.451243162399999,29898.0,350,1.0,"Gallia, Ohio",350.0
+39055,Ohio,Geauga,66.49208863056,93649.0,710,2.0,"Geauga, Ohio",710.0
+39057,Ohio,Greene,241.91433943871996,168937.0,1432,3.0,"Greene, Ohio",1432.0
+39059,Ohio,Guernsey,30.258008005199997,38875.0,778,2.0,"Guernsey, Ohio",778.0
+39061,Ohio,Hamilton,2935.650907609919,817473.0,3591,3.0,"Hamilton, Ohio",3591.0
+39063,Ohio,Hancock,19.77792089808,75783.0,261,1.0,"Hancock, Ohio",261.0
+39065,Ohio,Hardin,14.791560113999997,31365.0,472,2.0,"Hardin, Ohio",472.0
+39067,Ohio,Harrison,2.13020770512,15040.0,142,1.0,"Harrison, Ohio",142.0
+39069,Ohio,Henry,17.0657624616,27006.0,632,2.0,"Henry, Ohio",632.0
+39071,Ohio,Highland,30.606905693279995,43161.0,709,2.0,"Highland, Ohio",709.0
+39073,Ohio,Hocking,12.171262083599997,28264.0,431,2.0,"Hocking, Ohio",431.0
+39075,Ohio,Holmes,87.93820032528001,43960.0,2000,3.0,"Holmes, Ohio",2000.0
+39077,Ohio,Huron,130.52560396704,58266.0,2240,3.0,"Huron, Ohio",2240.0
+39079,Ohio,Jackson,19.648909309679997,32413.0,606,2.0,"Jackson, Ohio",606.0
+39081,Ohio,Jefferson,88.06666487927998,65325.0,1348,3.0,"Jefferson, Ohio",1348.0
+39083,Ohio,Knox,22.467590379599994,62322.0,361,1.0,"Knox, Ohio",361.0
+39085,Ohio,Lake,303.82648965647996,230149.0,1320,3.0,"Lake, Ohio",1320.0
+39087,Ohio,Lawrence,51.90547039368001,59463.0,873,3.0,"Lawrence, Ohio",873.0
+39089,Ohio,Licking,289.02230418144,176862.0,1634,3.0,"Licking, Ohio",1634.0
+39091,Ohio,Logan,21.597802427039998,45672.0,473,2.0,"Logan, Ohio",473.0
+39093,Ohio,Lorain,402.2158536290401,309833.0,1298,3.0,"Lorain, Ohio",1298.0
+39095,Ohio,Lucas,781.917427986,428348.0,1825,3.0,"Lucas, Ohio",1825.0
+39097,Ohio,Madison,64.71837534912,44731.0,1447,3.0,"Madison, Ohio",1447.0
+39099,Ohio,Mahoning,351.4708963171199,228683.0,1537,3.0,"Mahoning, Ohio",1537.0
+39101,Ohio,Marion,53.54951411856,65093.0,823,3.0,"Marion, Ohio",823.0
+39103,Ohio,Medina,188.880492444,179746.0,1051,3.0,"Medina, Ohio",1051.0
+39105,Ohio,Meigs,3.39741303432,22907.0,148,1.0,"Meigs, Ohio",148.0
+39107,Ohio,Mercer,51.30141397176001,41172.0,1246,3.0,"Mercer, Ohio",1246.0
+39109,Ohio,Miami,117.55597895568002,106987.0,1099,3.0,"Miami, Ohio",1099.0
+39111,Ohio,Monroe,3.23727851112,13654.0,237,1.0,"Monroe, Ohio",237.0
+39113,Ohio,Montgomery,1341.0829524945602,531687.0,2522,3.0,"Montgomery, Ohio",2522.0
+39115,Ohio,Morgan,4.53088988664,14508.0,312,1.0,"Morgan, Ohio",312.0
+39117,Ohio,Morrow,24.542655876719998,35328.0,695,2.0,"Morrow, Ohio",695.0
+39119,Ohio,Muskingum,52.037044366800004,86215.0,604,2.0,"Muskingum, Ohio",604.0
+39121,Ohio,Noble,7.04428916472,14424.0,488,2.0,"Noble, Ohio",488.0
+39123,Ohio,Ottawa,162.34361905344005,40525.0,4006,3.0,"Ottawa, Ohio",4006.0
+39125,Ohio,Paulding,21.43809519024,18672.0,1148,3.0,"Paulding, Ohio",1148.0
+39127,Ohio,Perry,31.08611295144,36134.0,860,3.0,"Perry, Ohio",860.0
+39129,Ohio,Pickaway,87.68195574936001,58457.0,1500,3.0,"Pickaway, Ohio",1500.0
+39131,Ohio,Pike,13.750037177760001,27772.0,495,2.0,"Pike, Ohio",495.0
+39133,Ohio,Portage,153.19848834695998,162466.0,943,3.0,"Portage, Ohio",943.0
+39135,Ohio,Preble,53.64531043488,40882.0,1312,3.0,"Preble, Ohio",1312.0
+39137,Ohio,Putnam,45.991560049200004,33861.0,1358,3.0,"Putnam, Ohio",1358.0
+39139,Ohio,Richland,124.97192709047998,121154.0,1032,3.0,"Richland, Ohio",1032.0
+39141,Ohio,Ross,65.24781055464,76666.0,851,3.0,"Ross, Ohio",851.0
+39143,Ohio,Sandusky,96.54568891056,58518.0,1650,3.0,"Sandusky, Ohio",1650.0
+39145,Ohio,Scioto,73.09259084496,75314.0,971,3.0,"Scioto, Ohio",971.0
+39147,Ohio,Seneca,21.6633104316,55178.0,393,1.0,"Seneca, Ohio",393.0
+39149,Ohio,Shelby,25.763913185040003,48590.0,530,2.0,"Shelby, Ohio",530.0
+39151,Ohio,Stark,316.58557740648,370606.0,854,3.0,"Stark, Ohio",854.0
+39153,Ohio,Summit,611.15526318456,541013.0,1130,3.0,"Summit, Ohio",1130.0
+39155,Ohio,Trumbull,307.65361791960004,197974.0,1554,3.0,"Trumbull, Ohio",1554.0
+39157,Ohio,Tuscarawas,170.17155304704005,91987.0,1850,3.0,"Tuscarawas, Ohio",1850.0
+39159,Ohio,Union,70.08760513368,58988.0,1188,3.0,"Union, Ohio",1188.0
+39161,Ohio,Van Wert,32.973355059599996,28275.0,1166,3.0,"Van Wert, Ohio",1166.0
+39163,Ohio,Vinton,1.85466817344,13085.0,142,1.0,"Vinton, Ohio",142.0
+39165,Ohio,Warren,421.30342780200004,234602.0,1796,3.0,"Warren, Ohio",1796.0
+39167,Ohio,Washington,30.26558000928,59911.0,505,2.0,"Washington, Ohio",505.0
+39169,Ohio,Wayne,38.61701183184,115710.0,334,1.0,"Wayne, Ohio",334.0
+39171,Ohio,Williams,17.86285715688,36692.0,487,2.0,"Williams, Ohio",487.0
+39173,Ohio,Wood,203.42819756039995,130817.0,1555,3.0,"Wood, Ohio",1555.0
+39175,Ohio,Wyandot,16.44539960136,21772.0,755,2.0,"Wyandot, Ohio",755.0
+42001,Pennsylvania,Adams,104.04294395424,103009.0,1010,3.0,"Adams, Pennsylvania",1010.0
+42003,Pennsylvania,Allegheny,3175.1716581732,1216045.0,2611,3.0,"Allegheny, Pennsylvania",2611.0
+42005,Pennsylvania,Armstrong,18.214068366,64735.0,281,1.0,"Armstrong, Pennsylvania",281.0
+42007,Pennsylvania,Beaver,246.04142118599995,163929.0,1501,3.0,"Beaver, Pennsylvania",1501.0
+42009,Pennsylvania,Bedford,12.688110434879997,47888.0,265,1.0,"Bedford, Pennsylvania",265.0
+42011,Pennsylvania,Berks,270.39504367632,421164.0,642,2.0,"Berks, Pennsylvania",642.0
+42013,Pennsylvania,Blair,47.725370731199995,121829.0,392,1.0,"Blair, Pennsylvania",392.0
+42015,Pennsylvania,Bradford,4.36668526992,60323.0,72,1.0,"Bradford, Pennsylvania",72.0
+42017,Pennsylvania,Bucks,521.07558856152,628270.0,829,3.0,"Bucks, Pennsylvania",829.0
+42019,Pennsylvania,Butler,175.67740219272,187853.0,935,3.0,"Butler, Pennsylvania",935.0
+42021,Pennsylvania,Cambria,87.49472715815999,130192.0,672,2.0,"Cambria, Pennsylvania",672.0
+42023,Pennsylvania,Cameron,1.0265424107999999,4447.0,231,1.0,"Cameron, Pennsylvania",231.0
+42025,Pennsylvania,Carbon,30.08203147968,64182.0,469,2.0,"Carbon, Pennsylvania",469.0
+42027,Pennsylvania,Centre,67.71873829151998,162385.0,417,2.0,"Centre, Pennsylvania",417.0
+42029,Pennsylvania,Chester,469.59708269952,524989.0,894,3.0,"Chester, Pennsylvania",894.0
+42031,Pennsylvania,Clarion,40.041391426080004,38438.0,1042,3.0,"Clarion, Pennsylvania",1042.0
+42033,Pennsylvania,Clearfield,36.989720611199985,79255.0,467,2.0,"Clearfield, Pennsylvania",467.0
+42035,Pennsylvania,Clinton,29.136045285599998,38632.0,754,2.0,"Clinton, Pennsylvania",754.0
+42037,Pennsylvania,Columbia,25.250310278640004,64964.0,389,1.0,"Columbia, Pennsylvania",389.0
+42039,Pennsylvania,Crawford,28.235885172,84629.0,334,1.0,"Crawford, Pennsylvania",334.0
+42041,Pennsylvania,Cumberland,150.94721212151998,253370.0,596,2.0,"Cumberland, Pennsylvania",596.0
+42043,Pennsylvania,Dauphin,346.09899930239993,278299.0,1244,3.0,"Dauphin, Pennsylvania",1244.0
+42045,Pennsylvania,Delaware,548.58950571504,566747.0,968,3.0,"Delaware, Pennsylvania",968.0
+42047,Pennsylvania,Elk,20.510063408399997,29910.0,686,2.0,"Elk, Pennsylvania",686.0
+42049,Pennsylvania,Erie,154.65132483456003,269728.0,573,2.0,"Erie, Pennsylvania",573.0
+42051,Pennsylvania,Fayette,131.09586913991998,129274.0,1014,3.0,"Fayette, Pennsylvania",1014.0
+42053,Pennsylvania,Forest,0.0,7247.0,0,1.0,"Forest, Pennsylvania",0.0
+42055,Pennsylvania,Franklin,111.68409911808003,155027.0,720,2.0,"Franklin, Pennsylvania",720.0
+42057,Pennsylvania,Fulton,1.7397204079200002,14530.0,120,1.0,"Fulton, Pennsylvania",120.0
+42059,Pennsylvania,Greene,49.840661428080004,36233.0,1376,3.0,"Greene, Pennsylvania",1376.0
+42061,Pennsylvania,Huntingdon,17.62041656904,45144.0,390,1.0,"Huntingdon, Pennsylvania",390.0
+42063,Pennsylvania,Indiana,93.12156714912003,84073.0,1108,3.0,"Indiana, Pennsylvania",1108.0
+42065,Pennsylvania,Jefferson,22.70008644936,43425.0,523,2.0,"Jefferson, Pennsylvania",523.0
+42067,Pennsylvania,Juniata,7.103645787599999,24763.0,287,1.0,"Juniata, Pennsylvania",287.0
+42069,Pennsylvania,Lackawanna,96.380950524,209674.0,460,2.0,"Lackawanna, Pennsylvania",460.0
+42071,Pennsylvania,Lancaster,662.3751497942401,545724.0,1214,3.0,"Lancaster, Pennsylvania",1214.0
+42073,Pennsylvania,Lawrence,162.70062035112,85512.0,1903,3.0,"Lawrence, Pennsylvania",1903.0
+42075,Pennsylvania,Lebanon,173.76414569904,141793.0,1225,3.0,"Lebanon, Pennsylvania",1225.0
+42077,Pennsylvania,Lehigh,312.0177523267199,369318.0,845,3.0,"Lehigh, Pennsylvania",845.0
+42079,Pennsylvania,Luzerne,172.72643883912002,317417.0,544,2.0,"Luzerne, Pennsylvania",544.0
+42081,Pennsylvania,Lycoming,81.79314443711999,113299.0,722,2.0,"Lycoming, Pennsylvania",722.0
+42083,Pennsylvania,McKean,2.8129855603199996,40625.0,69,1.0,"McKean, Pennsylvania",69.0
+42085,Pennsylvania,Mercer,56.660942629439994,109424.0,518,2.0,"Mercer, Pennsylvania",518.0
+42087,Pennsylvania,Mifflin,18.799379636639998,46138.0,407,2.0,"Mifflin, Pennsylvania",407.0
+42089,Pennsylvania,Monroe,86.24291206464001,170271.0,507,2.0,"Monroe, Pennsylvania",507.0
+42091,Pennsylvania,Montgomery,650.1450077827199,830915.0,782,2.0,"Montgomery, Pennsylvania",782.0
+42093,Pennsylvania,Montour,9.84571457088,18230.0,540,2.0,"Montour, Pennsylvania",540.0
+42095,Pennsylvania,Northampton,210.78919878767996,305285.0,690,2.0,"Northampton, Pennsylvania",690.0
+42097,Pennsylvania,Northumberland,57.01531682688,90843.0,628,2.0,"Northumberland, Pennsylvania",628.0
+42099,Pennsylvania,Perry,15.99925999584,46272.0,346,1.0,"Perry, Pennsylvania",346.0
+42101,Pennsylvania,Philadelphia,2204.36068070472,1584064.0,1392,3.0,"Philadelphia, Pennsylvania",1392.0
+42103,Pennsylvania,Pike,11.12498078136,55809.0,199,1.0,"Pike, Pennsylvania",199.0
+42105,Pennsylvania,Potter,3.57173144376,16526.0,216,1.0,"Potter, Pennsylvania",216.0
+42107,Pennsylvania,Schuylkill,51.90068060328001,141359.0,367,1.0,"Schuylkill, Pennsylvania",367.0
+42109,Pennsylvania,Snyder,8.81931851592,40372.0,218,1.0,"Snyder, Pennsylvania",218.0
+42111,Pennsylvania,Somerset,38.28517820832,73447.0,521,2.0,"Somerset, Pennsylvania",521.0
+42113,Pennsylvania,Sullivan,4.23259928472,6066.0,698,2.0,"Sullivan, Pennsylvania",698.0
+42115,Pennsylvania,Susquehanna,22.124794034879997,40328.0,549,2.0,"Susquehanna, Pennsylvania",549.0
+42117,Pennsylvania,Tioga,6.590473969439999,40591.0,162,1.0,"Tioga, Pennsylvania",162.0
+42119,Pennsylvania,Union,12.701233172639997,44923.0,283,1.0,"Union, Pennsylvania",283.0
+42121,Pennsylvania,Venango,25.400062297439998,50668.0,501,2.0,"Venango, Pennsylvania",501.0
+42123,Pennsylvania,Warren,6.8730591192,39191.0,175,1.0,"Warren, Pennsylvania",175.0
+42125,Pennsylvania,Washington,336.6865767933601,206865.0,1628,3.0,"Washington, Pennsylvania",1628.0
+42127,Pennsylvania,Wayne,3.0047373988799997,51361.0,59,1.0,"Wayne, Pennsylvania",59.0
+42129,Pennsylvania,Westmoreland,481.4339940345599,348899.0,1380,3.0,"Westmoreland, Pennsylvania",1380.0
+42131,Pennsylvania,Wyoming,16.9441482576,26794.0,632,2.0,"Wyoming, Pennsylvania",632.0
+42133,Pennsylvania,York,552.20691970824,449058.0,1230,3.0,"York, Pennsylvania",1230.0
+44001,Rhode Island,Bristol,5.01980833488,48479.0,104,1.0,"Bristol, Rhode Island",104.0
+44003,Rhode Island,Kent,38.42894464848,164292.0,234,1.0,"Kent, Rhode Island",234.0
+44005,Rhode Island,Newport,22.09062177168,82082.0,269,1.0,"Newport, Rhode Island",269.0
+44007,Rhode Island,Providence,261.90282369527995,638931.0,410,2.0,"Providence, Rhode Island",410.0
+44009,Rhode Island,Washington,7.8813937596,125577.0,63,1.0,"Washington, Rhode Island",63.0
+50001,Vermont,Addison,0.16931328144,36777.0,5,4.0,"Addison, Vermont",5.0
+50003,Vermont,Bennington,3.1293219427200003,35470.0,88,4.0,"Bennington, Vermont",88.0
+50005,Vermont,Caledonia,4.2093813748799995,29993.0,140,4.0,"Caledonia, Vermont",140.0
+50007,Vermont,Chittenden,76.8647563956,163774.0,469,5.0,"Chittenden, Vermont",469.0
+50009,Vermont,Essex,2.7033509159999998,6163.0,439,5.0,"Essex, Vermont",439.0
+50011,Vermont,Franklin,3.9310353974399996,49402.0,80,4.0,"Franklin, Vermont",80.0
+50013,Vermont,Grand Isle,7.1456274748799995,7235.0,988,6.0,"Grand Isle, Vermont",988.0
+50015,Vermont,Lamoille,13.044155553119998,25362.0,514,5.0,"Lamoille, Vermont",514.0
+50017,Vermont,Orange,0.9163973275199999,28892.0,32,4.0,"Orange, Vermont",32.0
+50019,Vermont,Orleans,0.05867430504,27037.0,2,4.0,"Orleans, Vermont",2.0
+50021,Vermont,Rutland,10.96024514208,58191.0,188,4.0,"Rutland, Vermont",188.0
+50023,Vermont,Washington,2.99208736512,58409.0,51,4.0,"Washington, Vermont",51.0
+50025,Vermont,Windham,6.03710408664,42222.0,143,4.0,"Windham, Vermont",143.0
+50027,Vermont,Windsor,5.8588099464,55062.0,106,4.0,"Windsor, Vermont",106.0
+51001,Virginia,Accomack,1.28666317656,32316.0,40,1.0,"Accomack, Virginia",40.0
+51003,Virginia,Albemarle,245.59994756328,109330.0,2246,3.0,"Albemarle, Virginia",2246.0
+51005,Virginia,Alleghany,36.95131798368,14860.0,2487,3.0,"Alleghany, Virginia",2487.0
+51007,Virginia,Amelia,12.022568436000002,13145.0,915,3.0,"Amelia, Virginia",915.0
+51009,Virginia,Amherst,7.422660876959998,31605.0,235,1.0,"Amherst, Virginia",235.0
+51011,Virginia,Appomattox,12.52573918896,15911.0,787,2.0,"Appomattox, Virginia",787.0
+51013,Virginia,Arlington,232.28606539656,236842.0,981,3.0,"Arlington, Virginia",981.0
+51015,Virginia,Augusta,46.79140587672,75558.0,619,2.0,"Augusta, Virginia",619.0
+51017,Virginia,Bath,1.4284654802399999,4147.0,344,1.0,"Bath, Virginia",344.0
+51019,Virginia,Bedford,78.87068187384001,78997.0,998,3.0,"Bedford, Virginia",998.0
+51021,Virginia,Bland,1.9975217275200001,6280.0,318,1.0,"Bland, Virginia",318.0
+51023,Virginia,Botetourt,63.61789221144,33419.0,1904,3.0,"Botetourt, Virginia",1904.0
+51025,Virginia,Brunswick,63.23144657615998,16231.0,3896,3.0,"Brunswick, Virginia",3896.0
+51027,Virginia,Buchanan,21.415682137439997,21004.0,1020,3.0,"Buchanan, Virginia",1020.0
+51029,Virginia,Buckingham,25.315909620479996,17148.0,1476,3.0,"Buckingham, Virginia",1476.0
+51031,Virginia,Campbell,36.935244258,54885.0,673,2.0,"Campbell, Virginia",673.0
+51033,Virginia,Caroline,28.444101041040003,30725.0,926,3.0,"Caroline, Virginia",926.0
+51035,Virginia,Carroll,53.401108877999995,29791.0,1793,3.0,"Carroll, Virginia",1793.0
+51036,Virginia,Charles City,2.01837693456,6963.0,290,1.0,"Charles City, Virginia",290.0
+51037,Virginia,Charlotte,11.97479519664,11880.0,1008,3.0,"Charlotte, Virginia",1008.0
+51041,Virginia,Chesterfield,531.6415946781599,352802.0,1507,3.0,"Chesterfield, Virginia",1507.0
+51043,Virginia,Clarke,14.011440710399997,14619.0,958,3.0,"Clarke, Virginia",958.0
+51045,Virginia,Craig,2.3650138199999997,5131.0,461,2.0,"Craig, Virginia",461.0
+51047,Virginia,Culpeper,76.46040136008,52605.0,1453,3.0,"Culpeper, Virginia",1453.0
+51049,Virginia,Cumberland,11.639013006719997,9932.0,1172,3.0,"Cumberland, Virginia",1172.0
+51051,Virginia,Dickenson,3.70721679432,14318.0,259,1.0,"Dickenson, Virginia",259.0
+51053,Virginia,Dinwiddie,20.7070922976,28544.0,725,2.0,"Dinwiddie, Virginia",725.0
+51057,Virginia,Essex,10.433692902719999,10953.0,953,3.0,"Essex, Virginia",953.0
+51059,Virginia,Fairfax,1110.0657380200798,1147532.0,967,3.0,"Fairfax, Virginia",967.0
+51061,Virginia,Fauquier,125.40181182167996,71222.0,1761,3.0,"Fauquier, Virginia",1761.0
+51063,Virginia,Floyd,12.34440063264,15749.0,784,2.0,"Floyd, Virginia",784.0
+51065,Virginia,Fluvanna,42.35658268824,27270.0,1553,3.0,"Fluvanna, Virginia",1553.0
+51067,Virginia,Franklin,30.46033606824,56042.0,544,2.0,"Franklin, Virginia",544.0
+51069,Virginia,Frederick,87.64652063495997,89313.0,981,3.0,"Frederick, Virginia",981.0
+51071,Virginia,Giles,4.3773819648,16720.0,262,1.0,"Giles, Virginia",262.0
+51073,Virginia,Gloucester,35.715963621120004,37348.0,956,3.0,"Gloucester, Virginia",956.0
+51075,Virginia,Goochland,13.48018303056,23753.0,568,2.0,"Goochland, Virginia",568.0
+51077,Virginia,Grayson,9.448466584799998,15550.0,608,2.0,"Grayson, Virginia",608.0
+51079,Virginia,Greene,35.73915836472,19819.0,1803,3.0,"Greene, Virginia",1803.0
+51081,Virginia,Greensville,35.31561988536001,11336.0,3115,3.0,"Greensville, Virginia",3115.0
+51083,Virginia,Halifax,54.39343166544,33911.0,1604,3.0,"Halifax, Virginia",1604.0
+51085,Virginia,Hanover,89.37560071440001,107766.0,829,3.0,"Hanover, Virginia",829.0
+51087,Virginia,Henrico,516.1790992533599,330818.0,1560,3.0,"Henrico, Virginia",1560.0
+51089,Virginia,Henry,128.54633442072,50557.0,2543,3.0,"Henry, Virginia",2543.0
+51091,Virginia,Highland,0.023527561199999998,2190.0,11,1.0,"Highland, Virginia",11.0
+51093,Virginia,Isle of Wight,71.94309588312,37109.0,1939,3.0,"Isle of Wight, Virginia",1939.0
+51095,Virginia,James City,156.20737388208,76523.0,2041,3.0,"James City, Virginia",2041.0
+51097,Virginia,King and Queen,8.103351160319999,7025.0,1154,3.0,"King and Queen, Virginia",1154.0
+51099,Virginia,King George,11.7209102712,26836.0,437,2.0,"King George, Virginia",437.0
+51101,Virginia,King William,23.1710078448,17148.0,1351,3.0,"King William, Virginia",1351.0
+51103,Virginia,Lancaster,10.861788645839999,10603.0,1024,3.0,"Lancaster, Virginia",1024.0
+51105,Virginia,Lee,14.43133558776,23423.0,616,2.0,"Lee, Virginia",616.0
+51107,Virginia,Loudoun,645.2124343912801,413538.0,1560,3.0,"Loudoun, Virginia",1560.0
+51109,Virginia,Louisa,26.42395133952,37591.0,703,2.0,"Louisa, Virginia",703.0
+51111,Virginia,Lunenburg,10.89165027792,12196.0,893,3.0,"Lunenburg, Virginia",893.0
+51113,Virginia,Madison,7.7828247808799995,13261.0,587,2.0,"Madison, Virginia",587.0
+51115,Virginia,Mathews,2.0418355785599998,8834.0,231,1.0,"Mathews, Virginia",231.0
+51117,Virginia,Mecklenburg,33.7972642584,30587.0,1105,3.0,"Mecklenburg, Virginia",1105.0
+51119,Virginia,Middlesex,4.000663716719999,10582.0,378,1.0,"Middlesex, Virginia",378.0
+51121,Virginia,Montgomery,91.47249227856001,98535.0,928,3.0,"Montgomery, Virginia",928.0
+51125,Virginia,Nelson,10.290103500959999,14930.0,689,2.0,"Nelson, Virginia",689.0
+51127,Virginia,New Kent,32.25683067360001,23091.0,1397,3.0,"New Kent, Virginia",1397.0
+51131,Virginia,Northampton,6.2350000432799995,11710.0,532,2.0,"Northampton, Virginia",532.0
+51133,Virginia,Northumberland,24.71581707888,12095.0,2043,3.0,"Northumberland, Virginia",2043.0
+51135,Virginia,Nottoway,18.486054662159997,15232.0,1214,3.0,"Nottoway, Virginia",1214.0
+51137,Virginia,Orange,20.912973424319997,37051.0,564,2.0,"Orange, Virginia",564.0
+51139,Virginia,Page,41.9034429432,23902.0,1753,3.0,"Page, Virginia",1753.0
+51141,Virginia,Patrick,3.9716662171199992,17608.0,226,1.0,"Patrick, Virginia",226.0
+51143,Virginia,Pittsylvania,92.78997590088001,60354.0,1537,3.0,"Pittsylvania, Virginia",1537.0
+51145,Virginia,Powhatan,21.174240216239998,29652.0,714,2.0,"Powhatan, Virginia",714.0
+51147,Virginia,Prince Edward,60.71131462896001,22802.0,2663,3.0,"Prince Edward, Virginia",2663.0
+51149,Virginia,Prince George,52.06129347984001,38353.0,1357,3.0,"Prince George, Virginia",1357.0
+51153,Virginia,Prince William,810.36049088328,470335.0,1723,3.0,"Prince William, Virginia",1723.0
+51155,Virginia,Pulaski,15.04585315968,34027.0,442,2.0,"Pulaski, Virginia",442.0
+51157,Virginia,Rappahannock,14.50313402976,7370.0,1968,3.0,"Rappahannock, Virginia",1968.0
+51159,Virginia,Richmond,24.402753898319997,9023.0,2705,3.0,"Richmond, Virginia",2705.0
+51161,Virginia,Roanoke,128.06528715744,94186.0,1360,3.0,"Roanoke, Virginia",1360.0
+51163,Virginia,Rockbridge,8.30816733648,22573.0,368,1.0,"Rockbridge, Virginia",368.0
+51165,Virginia,Rockingham,129.33038368272,81948.0,1578,3.0,"Rockingham, Virginia",1578.0
+51167,Virginia,Russell,20.256690951840003,26586.0,762,2.0,"Russell, Virginia",762.0
+51169,Virginia,Scott,12.98448984528,21566.0,602,2.0,"Scott, Virginia",602.0
+51171,Virginia,Shenandoah,63.8504806176,43616.0,1464,3.0,"Shenandoah, Virginia",1464.0
+51173,Virginia,Smyth,11.532669765359998,30104.0,383,1.0,"Smyth, Virginia",383.0
+51175,Virginia,Southampton,47.33642784527999,17631.0,2685,3.0,"Southampton, Virginia",2685.0
+51177,Virginia,Spotsylvania,136.94666766144,136215.0,1005,3.0,"Spotsylvania, Virginia",1005.0
+51179,Virginia,Stafford,125.2341433776,152882.0,819,3.0,"Stafford, Virginia",819.0
+51181,Virginia,Surry,6.28970885784,6422.0,979,3.0,"Surry, Virginia",979.0
+51183,Virginia,Sussex,19.29649143048,11159.0,1729,3.0,"Sussex, Virginia",1729.0
+51185,Virginia,Tazewell,25.733197187039995,40595.0,634,2.0,"Tazewell, Virginia",634.0
+51187,Virginia,Warren,44.86106652888001,40164.0,1117,3.0,"Warren, Virginia",1117.0
+51191,Virginia,Washington,44.46653579808,53740.0,827,3.0,"Washington, Virginia",827.0
+51193,Virginia,Westmoreland,136.81439001768,18015.0,7594,3.0,"Westmoreland, Virginia",7594.0
+51195,Virginia,Wise,19.34792294328,37383.0,518,2.0,"Wise, Virginia",518.0
+51197,Virginia,Wythe,10.910934763679998,28684.0,380,1.0,"Wythe, Virginia",380.0
+51199,Virginia,York,92.6298523152,68280.0,1357,3.0,"York, Virginia",1357.0
+51510,Virginia,Alexandria,197.90732160528003,159428.0,1241,3.0,"Alexandria, Virginia",1241.0
+51520,Virginia,Bristol,15.29727295944,16762.0,913,3.0,"Bristol, Virginia",913.0
+51530,Virginia,Buena Vista,17.141947073759997,6478.0,2646,3.0,"Buena Vista, Virginia",2646.0
+51540,Virginia,Charlottesville,122.78514169848,47266.0,2598,3.0,"Charlottesville, Virginia",2598.0
+51550,Virginia,Chesapeake,716.16931007472,244835.0,2925,3.0,"Chesapeake, Virginia",2925.0
+51570,Virginia,Colonial Heights,24.817846325039998,17370.0,1429,3.0,"Colonial Heights, Virginia",1429.0
+51580,Virginia,Covington,0.6412844887199999,5538.0,116,1.0,"Covington, Virginia",116.0
+51590,Virginia,Danville,98.65321587024,40044.0,2464,3.0,"Danville, Virginia",2464.0
+51595,Virginia,Emporia,13.90308126288,5346.0,2601,3.0,"Emporia, Virginia",2601.0
+51600,Virginia,Fairfax City,4.770722835599999,24019.0,199,1.0,"Fairfax City, Virginia",199.0
+51610,Virginia,Falls Church,0.0,14617.0,0,1.0,"Falls Church, Virginia",0.0
+51620,Virginia,Franklin City,45.23404539528,7967.0,5678,3.0,"Franklin City, Virginia",5678.0
+51630,Virginia,Fredericksburg,68.40714878592,29036.0,2356,3.0,"Fredericksburg, Virginia",2356.0
+51640,Virginia,Galax,47.75995910016,6347.0,7525,3.0,"Galax, Virginia",7525.0
+51650,Virginia,Hampton,386.90552292624,134510.0,2876,3.0,"Hampton, Virginia",2876.0
+51660,Virginia,Harrisonburg,75.9823046424,53016.0,1433,3.0,"Harrisonburg, Virginia",1433.0
+51670,Virginia,Hopewell,58.749700414559996,22529.0,2608,3.0,"Hopewell, Virginia",2608.0
+51678,Virginia,Lexington,15.827765887439998,7446.0,2126,3.0,"Lexington, Virginia",2126.0
+51680,Virginia,Lynchburg,81.35817311688,82168.0,990,3.0,"Lynchburg, Virginia",990.0
+51683,Virginia,Manassas,127.97258883335999,41085.0,3115,3.0,"Manassas, Virginia",3115.0
+51685,Virginia,Manassas Park,51.016942964639995,17478.0,2919,3.0,"Manassas Park, Virginia",2919.0
+51690,Virginia,Martinsville,50.690405638319994,12554.0,4038,3.0,"Martinsville, Virginia",4038.0
+51700,Virginia,Newport News,529.76661543936,179225.0,2956,3.0,"Newport News, Virginia",2956.0
+51710,Virginia,Norfolk,1099.3620555384,242742.0,4529,3.0,"Norfolk, Virginia",4529.0
+51720,Virginia,Norton,0.20141863872000002,3981.0,51,1.0,"Norton, Virginia",51.0
+51730,Virginia,Petersburg,127.58347467143999,31346.0,4070,3.0,"Petersburg, Virginia",4070.0
+51735,Virginia,Poquoson,7.46347102608,12271.0,608,2.0,"Poquoson, Virginia",608.0
+51740,Virginia,Portsmouth,376.6298487979199,94398.0,3990,3.0,"Portsmouth, Virginia",3990.0
+51750,Virginia,Radford,7.440749213519999,18249.0,408,2.0,"Radford, Virginia",408.0
+51760,Virginia,Richmond City,391.3839655943999,230436.0,1698,3.0,"Richmond City, Virginia",1698.0
+51770,Virginia,Roanoke City,254.46051262008,99143.0,2567,3.0,"Roanoke City, Virginia",2567.0
+51775,Virginia,Salem,46.992358722480006,25301.0,1857,3.0,"Salem, Virginia",1857.0
+51790,Virginia,Staunton,42.126930374160004,24932.0,1690,3.0,"Staunton, Virginia",1690.0
+51800,Virginia,Suffolk,260.93260192464,92108.0,2833,3.0,"Suffolk, Virginia",2833.0
+51810,Virginia,Virginia Beach,1371.2738486697597,449974.0,3047,3.0,"Virginia Beach, Virginia",3047.0
+51820,Virginia,Waynesboro,64.22923593504,22630.0,2838,3.0,"Waynesboro, Virginia",2838.0
+51830,Virginia,Williamsburg,29.934856354079997,14954.0,2002,3.0,"Williamsburg, Virginia",2002.0
+51840,Virginia,Winchester,66.45032983536001,28078.0,2367,3.0,"Winchester, Virginia",2367.0
+54001,West Virginia,Barbour,8.932600236959999,16441.0,543,2.0,"Barbour, West Virginia",543.0
+54003,West Virginia,Berkeley,115.02895839696001,119171.0,965,3.0,"Berkeley, West Virginia",965.0
+54005,West Virginia,Boone,20.173885738320003,21457.0,940,3.0,"Boone, West Virginia",940.0
+54007,West Virginia,Braxton,3.8130272548799993,13957.0,273,1.0,"Braxton, West Virginia",273.0
+54009,West Virginia,Brooke,31.176520445999994,21939.0,1421,3.0,"Brooke, West Virginia",1421.0
+54011,West Virginia,Cabell,92.51349910896002,91945.0,1006,3.0,"Cabell, West Virginia",1006.0
+54013,West Virginia,Calhoun,2.8569309604799997,7109.0,402,2.0,"Calhoun, West Virginia",402.0
+54015,West Virginia,Clay,3.14359529784,8508.0,369,1.0,"Clay, West Virginia",369.0
+54017,West Virginia,Doddridge,0.0,8448.0,0,1.0,"Doddridge, West Virginia",0.0
+54019,West Virginia,Fayette,28.89425645184,42406.0,681,2.0,"Fayette, West Virginia",681.0
+54021,West Virginia,Gilmer,0.7822410396000001,7823.0,100,1.0,"Gilmer, West Virginia",100.0
+54023,West Virginia,Grant,12.6407963688,11568.0,1093,3.0,"Grant, West Virginia",1093.0
+54025,West Virginia,Greenbrier,18.136440811919996,34662.0,523,2.0,"Greenbrier, West Virginia",523.0
+54027,West Virginia,Hampshire,0.80356921416,23175.0,35,1.0,"Hampshire, West Virginia",35.0
+54029,West Virginia,Hancock,32.32348398384,28810.0,1122,3.0,"Hancock, West Virginia",1122.0
+54031,West Virginia,Hardy,5.06335437336,13776.0,368,1.0,"Hardy, West Virginia",368.0
+54033,West Virginia,Harrison,92.31489719807999,67256.0,1373,3.0,"Harrison, West Virginia",1373.0
+54035,West Virginia,Jackson,6.537262673039999,28576.0,229,1.0,"Jackson, West Virginia",229.0
+54037,West Virginia,Jefferson,39.68260387872,57146.0,694,2.0,"Jefferson, West Virginia",694.0
+54039,West Virginia,Kanawha,191.96962178928004,178124.0,1078,3.0,"Kanawha, West Virginia",1078.0
+54041,West Virginia,Lewis,6.169291128959999,15907.0,388,1.0,"Lewis, West Virginia",388.0
+54043,West Virginia,Lincoln,1.3418282258399994,20409.0,66,1.0,"Lincoln, West Virginia",66.0
+54045,West Virginia,Logan,25.45371136872,32019.0,795,2.0,"Logan, West Virginia",795.0
+54047,West Virginia,McDowell,3.2708913115200002,17624.0,186,1.0,"McDowell, West Virginia",186.0
+54049,West Virginia,Marion,65.74661782056,56072.0,1173,3.0,"Marion, West Virginia",1173.0
+54051,West Virginia,Marshall,42.93577991688,30531.0,1406,3.0,"Marshall, West Virginia",1406.0
+54053,West Virginia,Mason,10.796650592639999,26516.0,407,2.0,"Mason, West Virginia",407.0
+54055,West Virginia,Mercer,29.510528283840003,58758.0,502,2.0,"Mercer, West Virginia",502.0
+54057,West Virginia,Mineral,20.73926019504,26868.0,772,2.0,"Mineral, West Virginia",772.0
+54059,West Virginia,Mingo,17.51545971072,23424.0,748,2.0,"Mingo, West Virginia",748.0
+54061,West Virginia,Monongalia,600.9656371008,105612.0,5690,3.0,"Monongalia, West Virginia",5690.0
+54063,West Virginia,Monroe,2.3856800529599993,13275.0,180,1.0,"Monroe, West Virginia",180.0
+54065,West Virginia,Morgan,0.05867430504,17884.0,3,1.0,"Morgan, West Virginia",3.0
+54067,West Virginia,Nicholas,14.096344123920002,24496.0,575,2.0,"Nicholas, West Virginia",575.0
+54069,West Virginia,Ohio,87.51451098528001,41411.0,2113,3.0,"Ohio, West Virginia",2113.0
+54071,West Virginia,Pendleton,4.77724160712,6969.0,685,2.0,"Pendleton, West Virginia",685.0
+54073,West Virginia,Pleasants,0.0,7460.0,0,1.0,"Pleasants, West Virginia",0.0
+54075,West Virginia,Pocahontas,14.36291410344,8247.0,1742,3.0,"Pocahontas, West Virginia",1742.0
+54077,West Virginia,Preston,40.4367190008,33432.0,1210,3.0,"Preston, West Virginia",1210.0
+54079,West Virginia,Putnam,55.07321325839999,56450.0,976,3.0,"Putnam, West Virginia",976.0
+54081,West Virginia,Raleigh,53.241401295360006,73361.0,726,2.0,"Raleigh, West Virginia",726.0
+54083,West Virginia,Randolph,46.659631934640004,28695.0,1626,3.0,"Randolph, West Virginia",1626.0
+54085,West Virginia,Ritchie,0.0,9554.0,0,1.0,"Ritchie, West Virginia",0.0
+54087,West Virginia,Roane,1.6136490098399998,13688.0,118,1.0,"Roane, West Virginia",118.0
+54089,West Virginia,Summers,0.28905896663999997,12573.0,23,1.0,"Summers, West Virginia",23.0
+54091,West Virginia,Taylor,11.14793274888,16695.0,668,2.0,"Taylor, West Virginia",668.0
+54093,West Virginia,Tucker,0.12038007863999999,6839.0,18,1.0,"Tucker, West Virginia",18.0
+54095,West Virginia,Tyler,9.801565759439999,8591.0,1141,3.0,"Tyler, West Virginia",1141.0
+54097,West Virginia,Upshur,28.518749562719997,24176.0,1180,3.0,"Upshur, West Virginia",1180.0
+54099,West Virginia,Wayne,25.407548968320004,39402.0,645,2.0,"Wayne, West Virginia",645.0
+54101,West Virginia,Webster,0.67239668136,8114.0,83,1.0,"Webster, West Virginia",83.0
+54103,West Virginia,Wetzel,41.95326815975999,15065.0,2785,3.0,"Wetzel, West Virginia",2785.0
+54105,West Virginia,Wirt,2.9225734336799998,5821.0,502,2.0,"Wirt, West Virginia",502.0
+54107,West Virginia,Wood,138.532731024,83518.0,1659,3.0,"Wood, West Virginia",1659.0
+54109,West Virginia,Wyoming,0.10760750784,20394.0,5,1.0,"Wyoming, West Virginia",5.0
