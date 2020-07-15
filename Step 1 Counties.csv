@@ -1,522 +1,522 @@
-FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full Name,Active Cases per Million (int)
-09001,Connecticut,Fairfield,414.35464959672,943332.0,439,2.0,"Fairfield, Connecticut",439.0
-09003,Connecticut,Hartford,472.7321990004,891720.0,530,2.0,"Hartford, Connecticut",530.0
-09005,Connecticut,Litchfield,33.91777528224,180333.0,188,1.0,"Litchfield, Connecticut",188.0
-09007,Connecticut,Middlesex,61.42173329136,162436.0,378,1.0,"Middlesex, Connecticut",378.0
-09009,Connecticut,New Haven,444.6147149452801,854757.0,520,2.0,"New Haven, Connecticut",520.0
-09011,Connecticut,New London,93.53994731808001,265206.0,353,1.0,"New London, Connecticut",353.0
-09013,Connecticut,Tolland,38.249470188240004,150721.0,254,1.0,"Tolland, Connecticut",254.0
-09015,Connecticut,Windham,47.85588918672,116782.0,410,2.0,"Windham, Connecticut",410.0
-10001,Delaware,Kent,253.39942258896002,180786.0,1402,3.0,"Kent, Delaware",1402.0
-10003,Delaware,New Castle,1004.5582733762399,558753.0,1798,3.0,"New Castle, Delaware",1798.0
-10005,Delaware,Sussex,576.24936783288,234225.0,2460,3.0,"Sussex, Delaware",2460.0
-11001,District of Columbia,District of Columbia,941.05829631024,705749.0,1333,3.0,"District of Columbia, District of Columbia",1333.0
-23001,Maine,Androscoggin,28.086024246239994,108277.0,259,1.0,"Androscoggin, Maine",259.0
-23003,Maine,Aroostook,1.9987722167999997,67055.0,30,1.0,"Aroostook, Maine",30.0
-23005,Maine,Cumberland,263.937811344,295003.0,895,3.0,"Cumberland, Maine",895.0
-23007,Maine,Franklin,4.13207632896,30199.0,137,1.0,"Franklin, Maine",137.0
-23009,Maine,Hancock,2.2266071690400002,54987.0,40,1.0,"Hancock, Maine",40.0
-23011,Maine,Kennebec,1.88654167656,122302.0,15,1.0,"Kennebec, Maine",15.0
-23013,Maine,Knox,0.67950857064,39772.0,17,1.0,"Knox, Maine",17.0
-23015,Maine,Lincoln,3.4799508311999996,34634.0,100,1.0,"Lincoln, Maine",100.0
-23017,Maine,Oxford,12.124035616799997,57975.0,209,1.0,"Oxford, Maine",209.0
-23019,Maine,Penobscot,21.043275564240002,152148.0,138,1.0,"Penobscot, Maine",138.0
-23021,Maine,Piscataquis,2.86535957592,16785.0,171,1.0,"Piscataquis, Maine",171.0
-23023,Maine,Sagadahoc,0.5297862549600003,35856.0,15,1.0,"Sagadahoc, Maine",15.0
-23025,Maine,Somerset,3.6743331815999998,50484.0,73,1.0,"Somerset, Maine",73.0
-23027,Maine,Waldo,4.47101969496,39715.0,113,1.0,"Waldo, Maine",113.0
-23029,Maine,Washington,3.1965925905599994,31379.0,102,1.0,"Washington, Maine",102.0
-23031,Maine,York,88.80789480792,207641.0,428,2.0,"York, Maine",428.0
-24001,Maryland,Allegany,22.764422766480003,70416.0,323,1.0,"Allegany, Maryland",323.0
-24003,Maryland,Anne Arundel,720.1743947085598,579234.0,1243,3.0,"Anne Arundel, Maryland",1243.0
-24005,Maryland,Baltimore,1474.8112901356799,827370.0,1783,3.0,"Baltimore, Maryland",1783.0
-24009,Maryland,Calvert,70.58999608392,92525.0,763,2.0,"Calvert, Maryland",763.0
-24011,Maryland,Caroline,33.06422102351999,33406.0,990,3.0,"Caroline, Maryland",990.0
-24013,Maryland,Carroll,145.95700605648003,168447.0,866,3.0,"Carroll, Maryland",866.0
-24015,Maryland,Cecil,73.7501186832,102855.0,717,2.0,"Cecil, Maryland",717.0
-24017,Maryland,Charles,211.0849780416,163257.0,1293,3.0,"Charles, Maryland",1293.0
-24019,Maryland,Dorchester,49.718090335919996,31929.0,1557,3.0,"Dorchester, Maryland",1557.0
-24021,Maryland,Frederick,177.12154582367998,259547.0,682,2.0,"Frederick, Maryland",682.0
-24023,Maryland,Garrett,28.347509191679993,29014.0,977,3.0,"Garrett, Maryland",977.0
-24025,Maryland,Harford,252.08147060975995,255441.0,987,3.0,"Harford, Maryland",987.0
-24027,Maryland,Howard,461.74975924392,325690.0,1418,3.0,"Howard, Maryland",1418.0
-24029,Maryland,Kent,8.534738238239997,19422.0,439,2.0,"Kent, Maryland",439.0
-24031,Maryland,Montgomery,1541.3418496351194,1050688.0,1467,3.0,"Montgomery, Maryland",1467.0
-24033,Maryland,Prince George's,1802.4440965996796,909327.0,1982,3.0,"Prince George's, Maryland",1982.0
-24035,Maryland,Queen Anne's,95.25595218119999,50381.0,1891,3.0,"Queen Anne's, Maryland",1891.0
-24037,Maryland,St. Mary's,124.19773282128001,113510.0,1094,3.0,"St. Mary's, Maryland",1094.0
-24039,Maryland,Somerset,24.604607613360002,25616.0,961,3.0,"Somerset, Maryland",961.0
-24041,Maryland,Talbot,86.65430998152002,37181.0,2331,3.0,"Talbot, Maryland",2331.0
-24043,Maryland,Washington,85.95867178152,151049.0,569,2.0,"Washington, Maryland",569.0
-24045,Maryland,Wicomico,112.11336292968001,103609.0,1082,3.0,"Wicomico, Maryland",1082.0
-24047,Maryland,Worcester,56.3073275544,52276.0,1077,3.0,"Worcester, Maryland",1077.0
-24510,Maryland,Baltimore City,1603.8771282609596,593490.0,2702,3.0,"Baltimore City, Maryland",2702.0
-25001,Massachusetts,Barnstable,65.39298613968,212990.0,307,1.0,"Barnstable, Massachusetts",307.0
-25003,Massachusetts,Berkshire,29.530326074160005,124944.0,236,1.0,"Berkshire, Massachusetts",236.0
-25005,Massachusetts,Bristol,421.8509351064,565217.0,746,2.0,"Bristol, Massachusetts",746.0
-25007,Massachusetts,Dukes,0.0,17332.0,0,1.0,"Dukes, Massachusetts",0.0
-25009,Massachusetts,Essex,563.5177082786399,789034.0,714,2.0,"Essex, Massachusetts",714.0
-25011,Massachusetts,Franklin,23.884783142640003,70180.0,340,1.0,"Franklin, Massachusetts",340.0
-25013,Massachusetts,Hampden,387.04161528384003,466372.0,830,3.0,"Hampden, Massachusetts",830.0
-25015,Massachusetts,Hampshire,64.86436896672001,160830.0,403,2.0,"Hampshire, Massachusetts",403.0
-25017,Massachusetts,Middlesex,908.80989896616,1611699.0,564,2.0,"Middlesex, Massachusetts",564.0
-25019,Massachusetts,Nantucket,0.0,11399.0,0,1.0,"Nantucket, Massachusetts",0.0
-25021,Massachusetts,Norfolk,490.44758846664007,706775.0,694,2.0,"Norfolk, Massachusetts",694.0
-25023,Massachusetts,Plymouth,210.80390835216005,521202.0,404,2.0,"Plymouth, Massachusetts",404.0
-25025,Massachusetts,Suffolk,797.7605241775201,803907.0,992,3.0,"Suffolk, Massachusetts",992.0
-25027,Massachusetts,Worcester,478.5210542047198,830622.0,576,2.0,"Worcester, Massachusetts",576.0
-33001,New Hampshire,Belknap,15.86189463888,61303.0,259,1.0,"Belknap, New Hampshire",259.0
-33003,New Hampshire,Carroll,13.923986770319999,48910.0,285,1.0,"Carroll, New Hampshire",285.0
-33005,New Hampshire,Cheshire,8.72730454992,76085.0,115,1.0,"Cheshire, New Hampshire",115.0
-33007,New Hampshire,Coos,6.69358051848,31563.0,212,1.0,"Coos, New Hampshire",212.0
-33009,New Hampshire,Grafton,11.378670168000001,89886.0,127,1.0,"Grafton, New Hampshire",127.0
-33011,New Hampshire,Hillsborough,254.15903994840005,417025.0,609,2.0,"Hillsborough, New Hampshire",609.0
-33013,New Hampshire,Merrimack,31.261389094800002,151391.0,206,1.0,"Merrimack, New Hampshire",206.0
-33015,New Hampshire,Rockingham,81.21583023816002,309769.0,262,1.0,"Rockingham, New Hampshire",262.0
-33017,New Hampshire,Strafford,15.475994820959999,130633.0,118,1.0,"Strafford, New Hampshire",118.0
-33019,New Hampshire,Sullivan,5.94632259,43146.0,138,1.0,"Sullivan, New Hampshire",138.0
-34001,New Jersey,Atlantic,246.10509866400002,263670.0,933,3.0,"Atlantic, New Jersey",933.0
-34003,New Jersey,Bergen,700.8018398496,932202.0,752,2.0,"Bergen, New Jersey",752.0
-34005,New Jersey,Burlington,311.53798897344,445349.0,700,2.0,"Burlington, New Jersey",700.0
-34007,New Jersey,Camden,566.03447528112,506471.0,1118,3.0,"Camden, New Jersey",1118.0
-34009,New Jersey,Cape May,34.891720812959996,92039.0,379,1.0,"Cape May, New Jersey",379.0
-34011,New Jersey,Cumberland,137.74088261976001,149527.0,921,3.0,"Cumberland, New Jersey",921.0
-34013,New Jersey,Essex,437.66013914663995,798975.0,548,2.0,"Essex, New Jersey",548.0
-34015,New Jersey,Gloucester,283.39838480064,291636.0,972,3.0,"Gloucester, New Jersey",972.0
-34017,New Jersey,Hudson,321.14640055248003,672391.0,478,2.0,"Hudson, New Jersey",478.0
-34019,New Jersey,Hunterdon,20.431430569680003,124371.0,164,1.0,"Hunterdon, New Jersey",164.0
-34021,New Jersey,Mercer,193.34223044519996,367430.0,526,2.0,"Mercer, New Jersey",526.0
-34023,New Jersey,Middlesex,387.96420018408,825062.0,470,2.0,"Middlesex, New Jersey",470.0
-34025,New Jersey,Monmouth,563.6894980252799,618795.0,911,3.0,"Monmouth, New Jersey",911.0
-34027,New Jersey,Morris,232.5704068584,491845.0,473,2.0,"Morris, New Jersey",473.0
-34029,New Jersey,Ocean,330.6402684626401,607186.0,545,2.0,"Ocean, New Jersey",545.0
-34031,New Jersey,Passaic,312.33202828728,501826.0,622,2.0,"Passaic, New Jersey",622.0
-34033,New Jersey,Salem,50.75709676152001,62385.0,814,3.0,"Salem, New Jersey",814.0
-34035,New Jersey,Somerset,216.93001401311997,328934.0,659,2.0,"Somerset, New Jersey",659.0
-34037,New Jersey,Sussex,45.55765081176001,140488.0,324,1.0,"Sussex, New Jersey",324.0
-34039,New Jersey,Union,217.79047309343994,556341.0,391,1.0,"Union, New Jersey",391.0
-34041,New Jersey,Warren,36.2345445948,105267.0,344,1.0,"Warren, New Jersey",344.0
-36001,New York,Albany,177.80121458736002,305506.0,582,2.0,"Albany, New York",582.0
-36003,New York,Allegany,8.249197170239999,46091.0,179,1.0,"Allegany, New York",179.0
-36005,New York,Bronx,1114.28987477784,1418207.0,786,2.0,"Bronx, New York",786.0
-36007,New York,Broome,180.55572037608002,190488.0,948,3.0,"Broome, New York",948.0
-36009,New York,Cattaraugus,24.26515857672,76117.0,319,1.0,"Cattaraugus, New York",319.0
-36011,New York,Cayuga,14.304912670559998,76576.0,187,1.0,"Cayuga, New York",187.0
-36013,New York,Chautauqua,74.63944166568001,126903.0,588,2.0,"Chautauqua, New York",588.0
-36015,New York,Chemung,6.52056415632,83456.0,78,1.0,"Chemung, New York",78.0
-36017,New York,Chenango,33.83191187232,47207.0,717,2.0,"Chenango, New York",717.0
-36019,New York,Clinton,12.002263599119997,80485.0,149,1.0,"Clinton, New York",149.0
-36021,New York,Columbia,30.059979373919997,59461.0,506,2.0,"Columbia, New York",506.0
-36023,New York,Cortland,17.94597952776,47581.0,377,1.0,"Cortland, New York",377.0
-36025,New York,Delaware,2.5082602125599998,44135.0,57,1.0,"Delaware, New York",57.0
-36027,New York,Dutchess,112.86207846935999,294218.0,384,1.0,"Dutchess, New York",384.0
-36029,New York,Erie,695.3254103085601,918702.0,757,2.0,"Erie, New York",757.0
-36031,New York,Essex,9.021594106319998,36885.0,245,1.0,"Essex, New York",245.0
-36033,New York,Franklin,8.296066950239998,50022.0,166,1.0,"Franklin, New York",166.0
-36035,New York,Fulton,13.31118647856,53383.0,249,1.0,"Fulton, New York",249.0
-36037,New York,Genesee,22.691262904080002,57280.0,396,1.0,"Genesee, New York",396.0
-36039,New York,Greene,9.439773067679997,47188.0,200,1.0,"Greene, New York",200.0
-36041,New York,Hamilton,0.023527561199999998,4416.0,5,1.0,"Hamilton, New York",5.0
-36043,New York,Herkimer,48.35832062448,61319.0,789,2.0,"Herkimer, New York",789.0
-36045,New York,Jefferson,16.7124732528,109834.0,152,1.0,"Jefferson, New York",152.0
-36047,New York,Kings,1751.6192371550399,2559903.0,684,2.0,"Kings, New York",684.0
-36049,New York,Lewis,2.6850365433600003,26296.0,102,1.0,"Lewis, New York",102.0
-36051,New York,Livingston,29.127127827599995,62914.0,463,2.0,"Livingston, New York",463.0
-36053,New York,Madison,28.37704134,70941.0,400,2.0,"Madison, New York",400.0
-36055,New York,Monroe,632.0193166752001,741770.0,852,3.0,"Monroe, New York",852.0
-36057,New York,Montgomery,28.56896144784,49221.0,580,2.0,"Montgomery, New York",580.0
-36059,New York,Nassau,822.2121078736801,1356924.0,606,2.0,"Nassau, New York",606.0
-36061,New York,New York,1173.9840327288,1628706.0,721,2.0,"New York, New York",721.0
-36063,New York,Niagara,144.58777416071996,209281.0,691,2.0,"Niagara, New York",691.0
-36065,New York,Oneida,286.7743206624,228671.0,1254,3.0,"Oneida, New York",1254.0
-36067,New York,Onondaga,449.97162966456,460528.0,977,3.0,"Onondaga, New York",977.0
-36069,New York,Ontario,57.968217293280006,109777.0,528,2.0,"Ontario, New York",528.0
-36071,New York,Orange,165.85064533007997,384940.0,431,2.0,"Orange, New York",431.0
-36073,New York,Orleans,8.8506915888,40352.0,219,1.0,"Orleans, New York",219.0
-36075,New York,Oswego,41.37992857272,117124.0,353,1.0,"Oswego, New York",353.0
-36077,New York,Otsego,7.971463275599998,59493.0,134,1.0,"Otsego, New York",134.0
-36079,New York,Putnam,64.42991386320001,98320.0,655,2.0,"Putnam, New York",655.0
-36081,New York,Queens,1688.2712832458399,2253858.0,749,2.0,"Queens, New York",749.0
-36083,New York,Rensselaer,112.88500577448,158714.0,711,2.0,"Rensselaer, New York",711.0
-36085,New York,Richmond,342.62076570504,476143.0,720,2.0,"Richmond, New York",720.0
-36087,New York,Rockland,186.11211864144002,325789.0,571,2.0,"Rockland, New York",571.0
-36089,New York,St. Lawrence,16.53478258176,107740.0,153,1.0,"St. Lawrence, New York",153.0
-36091,New York,Saratoga,95.90085651935998,229863.0,417,2.0,"Saratoga, New York",417.0
-36093,New York,Schenectady,95.23682454840001,155299.0,613,2.0,"Schenectady, New York",613.0
-36095,New York,Schoharie,6.3193031380799995,30999.0,204,1.0,"Schoharie, New York",204.0
-36097,New York,Schuyler,4.631921076239999,17807.0,260,1.0,"Schuyler, New York",260.0
-36099,New York,Seneca,7.72785559824,34016.0,227,1.0,"Seneca, New York",227.0
-36101,New York,Steuben,15.61004276976,95379.0,164,1.0,"Steuben, New York",164.0
-36103,New York,Suffolk,1137.35321661984,1476601.0,770,2.0,"Suffolk, New York",770.0
-36105,New York,Sullivan,20.422954584,75432.0,271,1.0,"Sullivan, New York",271.0
-36107,New York,Tioga,28.772454695279997,48203.0,597,2.0,"Tioga, New York",597.0
-36109,New York,Tompkins,16.534863848639997,102180.0,162,1.0,"Tompkins, New York",162.0
-36111,New York,Ulster,91.69067676768,177573.0,516,2.0,"Ulster, New York",516.0
-36113,New York,Warren,25.209413256479998,63944.0,394,1.0,"Warren, New York",394.0
-36115,New York,Washington,5.112406479839999,61204.0,84,1.0,"Washington, New York",84.0
-36117,New York,Wayne,59.67755592504,89918.0,664,2.0,"Wayne, New York",664.0
-36119,New York,Westchester,715.7333276750397,967506.0,740,2.0,"Westchester, New York",740.0
-36121,New York,Wyoming,11.378039788799999,39859.0,285,1.0,"Wyoming, New York",285.0
-36123,New York,Yates,2.57272703472,24913.0,103,1.0,"Yates, New York",103.0
-39001,Ohio,Adams,12.15612432336,27698.0,439,2.0,"Adams, Ohio",439.0
-39003,Ohio,Allen,164.8521926532,102351.0,1611,3.0,"Allen, Ohio",1611.0
-39005,Ohio,Ashland,26.869305185039995,53484.0,502,2.0,"Ashland, Ohio",502.0
-39007,Ohio,Ashtabula,49.41405114528001,97241.0,508,2.0,"Ashtabula, Ohio",508.0
-39009,Ohio,Athens,288.68325171288,65327.0,4419,3.0,"Athens, Ohio",4419.0
-39011,Ohio,Auglaize,18.564887077439998,45656.0,407,2.0,"Auglaize, Ohio",407.0
-39013,Ohio,Belmont,66.62725620456,67006.0,994,3.0,"Belmont, Ohio",994.0
-39015,Ohio,Brown,14.151461954639998,43432.0,326,1.0,"Brown, Ohio",326.0
-39017,Ohio,Butler,743.1471978907198,383134.0,1940,3.0,"Butler, Ohio",1940.0
-39019,Ohio,Carroll,32.57370709536001,26914.0,1210,3.0,"Carroll, Ohio",1210.0
-39021,Ohio,Champaign,34.150955697360004,38885.0,878,3.0,"Champaign, Ohio",878.0
-39023,Ohio,Clark,151.46204238816,134083.0,1130,3.0,"Clark, Ohio",1130.0
-39025,Ohio,Clermont,271.75803311208006,206428.0,1316,3.0,"Clermont, Ohio",1316.0
-39027,Ohio,Clinton,53.748341961360005,41968.0,1281,3.0,"Clinton, Ohio",1281.0
-39029,Ohio,Columbiana,304.43824163064005,101883.0,2988,3.0,"Columbiana, Ohio",2988.0
-39031,Ohio,Coshocton,82.53661970807997,36600.0,2255,3.0,"Coshocton, Ohio",2255.0
-39033,Ohio,Crawford,12.68028212064,41494.0,306,1.0,"Crawford, Ohio",306.0
-39035,Ohio,Cuyahoga,3799.5551385314398,1235072.0,3076,3.0,"Cuyahoga, Ohio",3076.0
-39037,Ohio,Darke,34.885677624,51113.0,683,2.0,"Darke, Ohio",683.0
-39039,Ohio,Defiance,12.068009094719999,38087.0,317,1.0,"Defiance, Ohio",317.0
-39041,Ohio,Delaware,434.7690044695199,209177.0,2078,3.0,"Delaware, Ohio",2078.0
-39043,Ohio,Erie,131.94495726144,74266.0,1777,3.0,"Erie, Ohio",1777.0
-39045,Ohio,Fairfield,370.36395411047994,157574.0,2350,3.0,"Fairfield, Ohio",2350.0
-39047,Ohio,Fayette,22.748497772399997,28525.0,797,2.0,"Fayette, Ohio",797.0
-39049,Ohio,Franklin,4861.511569260961,1316756.0,3692,3.0,"Franklin, Ohio",3692.0
-39051,Ohio,Fulton,15.779598326159999,42126.0,375,1.0,"Fulton, Ohio",375.0
-39053,Ohio,Gallia,10.451243162399999,29898.0,350,1.0,"Gallia, Ohio",350.0
-39055,Ohio,Geauga,66.49208863056,93649.0,710,2.0,"Geauga, Ohio",710.0
-39057,Ohio,Greene,241.91433943871996,168937.0,1432,3.0,"Greene, Ohio",1432.0
-39059,Ohio,Guernsey,30.258008005199997,38875.0,778,2.0,"Guernsey, Ohio",778.0
-39061,Ohio,Hamilton,2935.650907609919,817473.0,3591,3.0,"Hamilton, Ohio",3591.0
-39063,Ohio,Hancock,19.77792089808,75783.0,261,1.0,"Hancock, Ohio",261.0
-39065,Ohio,Hardin,14.791560113999997,31365.0,472,2.0,"Hardin, Ohio",472.0
-39067,Ohio,Harrison,2.13020770512,15040.0,142,1.0,"Harrison, Ohio",142.0
-39069,Ohio,Henry,17.0657624616,27006.0,632,2.0,"Henry, Ohio",632.0
-39071,Ohio,Highland,30.606905693279995,43161.0,709,2.0,"Highland, Ohio",709.0
-39073,Ohio,Hocking,12.171262083599997,28264.0,431,2.0,"Hocking, Ohio",431.0
-39075,Ohio,Holmes,87.93820032528001,43960.0,2000,3.0,"Holmes, Ohio",2000.0
-39077,Ohio,Huron,130.52560396704,58266.0,2240,3.0,"Huron, Ohio",2240.0
-39079,Ohio,Jackson,19.648909309679997,32413.0,606,2.0,"Jackson, Ohio",606.0
-39081,Ohio,Jefferson,88.06666487927998,65325.0,1348,3.0,"Jefferson, Ohio",1348.0
-39083,Ohio,Knox,22.467590379599994,62322.0,361,1.0,"Knox, Ohio",361.0
-39085,Ohio,Lake,303.82648965647996,230149.0,1320,3.0,"Lake, Ohio",1320.0
-39087,Ohio,Lawrence,51.90547039368001,59463.0,873,3.0,"Lawrence, Ohio",873.0
-39089,Ohio,Licking,289.02230418144,176862.0,1634,3.0,"Licking, Ohio",1634.0
-39091,Ohio,Logan,21.597802427039998,45672.0,473,2.0,"Logan, Ohio",473.0
-39093,Ohio,Lorain,402.2158536290401,309833.0,1298,3.0,"Lorain, Ohio",1298.0
-39095,Ohio,Lucas,781.917427986,428348.0,1825,3.0,"Lucas, Ohio",1825.0
-39097,Ohio,Madison,64.71837534912,44731.0,1447,3.0,"Madison, Ohio",1447.0
-39099,Ohio,Mahoning,351.4708963171199,228683.0,1537,3.0,"Mahoning, Ohio",1537.0
-39101,Ohio,Marion,53.54951411856,65093.0,823,3.0,"Marion, Ohio",823.0
-39103,Ohio,Medina,188.880492444,179746.0,1051,3.0,"Medina, Ohio",1051.0
-39105,Ohio,Meigs,3.39741303432,22907.0,148,1.0,"Meigs, Ohio",148.0
-39107,Ohio,Mercer,51.30141397176001,41172.0,1246,3.0,"Mercer, Ohio",1246.0
-39109,Ohio,Miami,117.55597895568002,106987.0,1099,3.0,"Miami, Ohio",1099.0
-39111,Ohio,Monroe,3.23727851112,13654.0,237,1.0,"Monroe, Ohio",237.0
-39113,Ohio,Montgomery,1341.0829524945602,531687.0,2522,3.0,"Montgomery, Ohio",2522.0
-39115,Ohio,Morgan,4.53088988664,14508.0,312,1.0,"Morgan, Ohio",312.0
-39117,Ohio,Morrow,24.542655876719998,35328.0,695,2.0,"Morrow, Ohio",695.0
-39119,Ohio,Muskingum,52.037044366800004,86215.0,604,2.0,"Muskingum, Ohio",604.0
-39121,Ohio,Noble,7.04428916472,14424.0,488,2.0,"Noble, Ohio",488.0
-39123,Ohio,Ottawa,162.34361905344005,40525.0,4006,3.0,"Ottawa, Ohio",4006.0
-39125,Ohio,Paulding,21.43809519024,18672.0,1148,3.0,"Paulding, Ohio",1148.0
-39127,Ohio,Perry,31.08611295144,36134.0,860,3.0,"Perry, Ohio",860.0
-39129,Ohio,Pickaway,87.68195574936001,58457.0,1500,3.0,"Pickaway, Ohio",1500.0
-39131,Ohio,Pike,13.750037177760001,27772.0,495,2.0,"Pike, Ohio",495.0
-39133,Ohio,Portage,153.19848834695998,162466.0,943,3.0,"Portage, Ohio",943.0
-39135,Ohio,Preble,53.64531043488,40882.0,1312,3.0,"Preble, Ohio",1312.0
-39137,Ohio,Putnam,45.991560049200004,33861.0,1358,3.0,"Putnam, Ohio",1358.0
-39139,Ohio,Richland,124.97192709047998,121154.0,1032,3.0,"Richland, Ohio",1032.0
-39141,Ohio,Ross,65.24781055464,76666.0,851,3.0,"Ross, Ohio",851.0
-39143,Ohio,Sandusky,96.54568891056,58518.0,1650,3.0,"Sandusky, Ohio",1650.0
-39145,Ohio,Scioto,73.09259084496,75314.0,971,3.0,"Scioto, Ohio",971.0
-39147,Ohio,Seneca,21.6633104316,55178.0,393,1.0,"Seneca, Ohio",393.0
-39149,Ohio,Shelby,25.763913185040003,48590.0,530,2.0,"Shelby, Ohio",530.0
-39151,Ohio,Stark,316.58557740648,370606.0,854,3.0,"Stark, Ohio",854.0
-39153,Ohio,Summit,611.15526318456,541013.0,1130,3.0,"Summit, Ohio",1130.0
-39155,Ohio,Trumbull,307.65361791960004,197974.0,1554,3.0,"Trumbull, Ohio",1554.0
-39157,Ohio,Tuscarawas,170.17155304704005,91987.0,1850,3.0,"Tuscarawas, Ohio",1850.0
-39159,Ohio,Union,70.08760513368,58988.0,1188,3.0,"Union, Ohio",1188.0
-39161,Ohio,Van Wert,32.973355059599996,28275.0,1166,3.0,"Van Wert, Ohio",1166.0
-39163,Ohio,Vinton,1.85466817344,13085.0,142,1.0,"Vinton, Ohio",142.0
-39165,Ohio,Warren,421.30342780200004,234602.0,1796,3.0,"Warren, Ohio",1796.0
-39167,Ohio,Washington,30.26558000928,59911.0,505,2.0,"Washington, Ohio",505.0
-39169,Ohio,Wayne,38.61701183184,115710.0,334,1.0,"Wayne, Ohio",334.0
-39171,Ohio,Williams,17.86285715688,36692.0,487,2.0,"Williams, Ohio",487.0
-39173,Ohio,Wood,203.42819756039995,130817.0,1555,3.0,"Wood, Ohio",1555.0
-39175,Ohio,Wyandot,16.44539960136,21772.0,755,2.0,"Wyandot, Ohio",755.0
-42001,Pennsylvania,Adams,104.04294395424,103009.0,1010,3.0,"Adams, Pennsylvania",1010.0
-42003,Pennsylvania,Allegheny,3175.1716581732,1216045.0,2611,3.0,"Allegheny, Pennsylvania",2611.0
-42005,Pennsylvania,Armstrong,18.214068366,64735.0,281,1.0,"Armstrong, Pennsylvania",281.0
-42007,Pennsylvania,Beaver,246.04142118599995,163929.0,1501,3.0,"Beaver, Pennsylvania",1501.0
-42009,Pennsylvania,Bedford,12.688110434879997,47888.0,265,1.0,"Bedford, Pennsylvania",265.0
-42011,Pennsylvania,Berks,270.39504367632,421164.0,642,2.0,"Berks, Pennsylvania",642.0
-42013,Pennsylvania,Blair,47.725370731199995,121829.0,392,1.0,"Blair, Pennsylvania",392.0
-42015,Pennsylvania,Bradford,4.36668526992,60323.0,72,1.0,"Bradford, Pennsylvania",72.0
-42017,Pennsylvania,Bucks,521.07558856152,628270.0,829,3.0,"Bucks, Pennsylvania",829.0
-42019,Pennsylvania,Butler,175.67740219272,187853.0,935,3.0,"Butler, Pennsylvania",935.0
-42021,Pennsylvania,Cambria,87.49472715815999,130192.0,672,2.0,"Cambria, Pennsylvania",672.0
-42023,Pennsylvania,Cameron,1.0265424107999999,4447.0,231,1.0,"Cameron, Pennsylvania",231.0
-42025,Pennsylvania,Carbon,30.08203147968,64182.0,469,2.0,"Carbon, Pennsylvania",469.0
-42027,Pennsylvania,Centre,67.71873829151998,162385.0,417,2.0,"Centre, Pennsylvania",417.0
-42029,Pennsylvania,Chester,469.59708269952,524989.0,894,3.0,"Chester, Pennsylvania",894.0
-42031,Pennsylvania,Clarion,40.041391426080004,38438.0,1042,3.0,"Clarion, Pennsylvania",1042.0
-42033,Pennsylvania,Clearfield,36.989720611199985,79255.0,467,2.0,"Clearfield, Pennsylvania",467.0
-42035,Pennsylvania,Clinton,29.136045285599998,38632.0,754,2.0,"Clinton, Pennsylvania",754.0
-42037,Pennsylvania,Columbia,25.250310278640004,64964.0,389,1.0,"Columbia, Pennsylvania",389.0
-42039,Pennsylvania,Crawford,28.235885172,84629.0,334,1.0,"Crawford, Pennsylvania",334.0
-42041,Pennsylvania,Cumberland,150.94721212151998,253370.0,596,2.0,"Cumberland, Pennsylvania",596.0
-42043,Pennsylvania,Dauphin,346.09899930239993,278299.0,1244,3.0,"Dauphin, Pennsylvania",1244.0
-42045,Pennsylvania,Delaware,548.58950571504,566747.0,968,3.0,"Delaware, Pennsylvania",968.0
-42047,Pennsylvania,Elk,20.510063408399997,29910.0,686,2.0,"Elk, Pennsylvania",686.0
-42049,Pennsylvania,Erie,154.65132483456003,269728.0,573,2.0,"Erie, Pennsylvania",573.0
-42051,Pennsylvania,Fayette,131.09586913991998,129274.0,1014,3.0,"Fayette, Pennsylvania",1014.0
-42053,Pennsylvania,Forest,0.0,7247.0,0,1.0,"Forest, Pennsylvania",0.0
-42055,Pennsylvania,Franklin,111.68409911808003,155027.0,720,2.0,"Franklin, Pennsylvania",720.0
-42057,Pennsylvania,Fulton,1.7397204079200002,14530.0,120,1.0,"Fulton, Pennsylvania",120.0
-42059,Pennsylvania,Greene,49.840661428080004,36233.0,1376,3.0,"Greene, Pennsylvania",1376.0
-42061,Pennsylvania,Huntingdon,17.62041656904,45144.0,390,1.0,"Huntingdon, Pennsylvania",390.0
-42063,Pennsylvania,Indiana,93.12156714912003,84073.0,1108,3.0,"Indiana, Pennsylvania",1108.0
-42065,Pennsylvania,Jefferson,22.70008644936,43425.0,523,2.0,"Jefferson, Pennsylvania",523.0
-42067,Pennsylvania,Juniata,7.103645787599999,24763.0,287,1.0,"Juniata, Pennsylvania",287.0
-42069,Pennsylvania,Lackawanna,96.380950524,209674.0,460,2.0,"Lackawanna, Pennsylvania",460.0
-42071,Pennsylvania,Lancaster,662.3751497942401,545724.0,1214,3.0,"Lancaster, Pennsylvania",1214.0
-42073,Pennsylvania,Lawrence,162.70062035112,85512.0,1903,3.0,"Lawrence, Pennsylvania",1903.0
-42075,Pennsylvania,Lebanon,173.76414569904,141793.0,1225,3.0,"Lebanon, Pennsylvania",1225.0
-42077,Pennsylvania,Lehigh,312.0177523267199,369318.0,845,3.0,"Lehigh, Pennsylvania",845.0
-42079,Pennsylvania,Luzerne,172.72643883912002,317417.0,544,2.0,"Luzerne, Pennsylvania",544.0
-42081,Pennsylvania,Lycoming,81.79314443711999,113299.0,722,2.0,"Lycoming, Pennsylvania",722.0
-42083,Pennsylvania,McKean,2.8129855603199996,40625.0,69,1.0,"McKean, Pennsylvania",69.0
-42085,Pennsylvania,Mercer,56.660942629439994,109424.0,518,2.0,"Mercer, Pennsylvania",518.0
-42087,Pennsylvania,Mifflin,18.799379636639998,46138.0,407,2.0,"Mifflin, Pennsylvania",407.0
-42089,Pennsylvania,Monroe,86.24291206464001,170271.0,507,2.0,"Monroe, Pennsylvania",507.0
-42091,Pennsylvania,Montgomery,650.1450077827199,830915.0,782,2.0,"Montgomery, Pennsylvania",782.0
-42093,Pennsylvania,Montour,9.84571457088,18230.0,540,2.0,"Montour, Pennsylvania",540.0
-42095,Pennsylvania,Northampton,210.78919878767996,305285.0,690,2.0,"Northampton, Pennsylvania",690.0
-42097,Pennsylvania,Northumberland,57.01531682688,90843.0,628,2.0,"Northumberland, Pennsylvania",628.0
-42099,Pennsylvania,Perry,15.99925999584,46272.0,346,1.0,"Perry, Pennsylvania",346.0
-42101,Pennsylvania,Philadelphia,2204.36068070472,1584064.0,1392,3.0,"Philadelphia, Pennsylvania",1392.0
-42103,Pennsylvania,Pike,11.12498078136,55809.0,199,1.0,"Pike, Pennsylvania",199.0
-42105,Pennsylvania,Potter,3.57173144376,16526.0,216,1.0,"Potter, Pennsylvania",216.0
-42107,Pennsylvania,Schuylkill,51.90068060328001,141359.0,367,1.0,"Schuylkill, Pennsylvania",367.0
-42109,Pennsylvania,Snyder,8.81931851592,40372.0,218,1.0,"Snyder, Pennsylvania",218.0
-42111,Pennsylvania,Somerset,38.28517820832,73447.0,521,2.0,"Somerset, Pennsylvania",521.0
-42113,Pennsylvania,Sullivan,4.23259928472,6066.0,698,2.0,"Sullivan, Pennsylvania",698.0
-42115,Pennsylvania,Susquehanna,22.124794034879997,40328.0,549,2.0,"Susquehanna, Pennsylvania",549.0
-42117,Pennsylvania,Tioga,6.590473969439999,40591.0,162,1.0,"Tioga, Pennsylvania",162.0
-42119,Pennsylvania,Union,12.701233172639997,44923.0,283,1.0,"Union, Pennsylvania",283.0
-42121,Pennsylvania,Venango,25.400062297439998,50668.0,501,2.0,"Venango, Pennsylvania",501.0
-42123,Pennsylvania,Warren,6.8730591192,39191.0,175,1.0,"Warren, Pennsylvania",175.0
-42125,Pennsylvania,Washington,336.6865767933601,206865.0,1628,3.0,"Washington, Pennsylvania",1628.0
-42127,Pennsylvania,Wayne,3.0047373988799997,51361.0,59,1.0,"Wayne, Pennsylvania",59.0
-42129,Pennsylvania,Westmoreland,481.4339940345599,348899.0,1380,3.0,"Westmoreland, Pennsylvania",1380.0
-42131,Pennsylvania,Wyoming,16.9441482576,26794.0,632,2.0,"Wyoming, Pennsylvania",632.0
-42133,Pennsylvania,York,552.20691970824,449058.0,1230,3.0,"York, Pennsylvania",1230.0
-44001,Rhode Island,Bristol,5.01980833488,48479.0,104,1.0,"Bristol, Rhode Island",104.0
-44003,Rhode Island,Kent,38.42894464848,164292.0,234,1.0,"Kent, Rhode Island",234.0
-44005,Rhode Island,Newport,22.09062177168,82082.0,269,1.0,"Newport, Rhode Island",269.0
-44007,Rhode Island,Providence,261.90282369527995,638931.0,410,2.0,"Providence, Rhode Island",410.0
-44009,Rhode Island,Washington,7.8813937596,125577.0,63,1.0,"Washington, Rhode Island",63.0
-50001,Vermont,Addison,0.16931328144,36777.0,5,4.0,"Addison, Vermont",5.0
-50003,Vermont,Bennington,3.1293219427200003,35470.0,88,4.0,"Bennington, Vermont",88.0
-50005,Vermont,Caledonia,4.2093813748799995,29993.0,140,4.0,"Caledonia, Vermont",140.0
-50007,Vermont,Chittenden,76.8647563956,163774.0,469,5.0,"Chittenden, Vermont",469.0
-50009,Vermont,Essex,2.7033509159999998,6163.0,439,5.0,"Essex, Vermont",439.0
-50011,Vermont,Franklin,3.9310353974399996,49402.0,80,4.0,"Franklin, Vermont",80.0
-50013,Vermont,Grand Isle,7.1456274748799995,7235.0,988,6.0,"Grand Isle, Vermont",988.0
-50015,Vermont,Lamoille,13.044155553119998,25362.0,514,5.0,"Lamoille, Vermont",514.0
-50017,Vermont,Orange,0.9163973275199999,28892.0,32,4.0,"Orange, Vermont",32.0
-50019,Vermont,Orleans,0.05867430504,27037.0,2,4.0,"Orleans, Vermont",2.0
-50021,Vermont,Rutland,10.96024514208,58191.0,188,4.0,"Rutland, Vermont",188.0
-50023,Vermont,Washington,2.99208736512,58409.0,51,4.0,"Washington, Vermont",51.0
-50025,Vermont,Windham,6.03710408664,42222.0,143,4.0,"Windham, Vermont",143.0
-50027,Vermont,Windsor,5.8588099464,55062.0,106,4.0,"Windsor, Vermont",106.0
-51001,Virginia,Accomack,1.28666317656,32316.0,40,1.0,"Accomack, Virginia",40.0
-51003,Virginia,Albemarle,245.59994756328,109330.0,2246,3.0,"Albemarle, Virginia",2246.0
-51005,Virginia,Alleghany,36.95131798368,14860.0,2487,3.0,"Alleghany, Virginia",2487.0
-51007,Virginia,Amelia,12.022568436000002,13145.0,915,3.0,"Amelia, Virginia",915.0
-51009,Virginia,Amherst,7.422660876959998,31605.0,235,1.0,"Amherst, Virginia",235.0
-51011,Virginia,Appomattox,12.52573918896,15911.0,787,2.0,"Appomattox, Virginia",787.0
-51013,Virginia,Arlington,232.28606539656,236842.0,981,3.0,"Arlington, Virginia",981.0
-51015,Virginia,Augusta,46.79140587672,75558.0,619,2.0,"Augusta, Virginia",619.0
-51017,Virginia,Bath,1.4284654802399999,4147.0,344,1.0,"Bath, Virginia",344.0
-51019,Virginia,Bedford,78.87068187384001,78997.0,998,3.0,"Bedford, Virginia",998.0
-51021,Virginia,Bland,1.9975217275200001,6280.0,318,1.0,"Bland, Virginia",318.0
-51023,Virginia,Botetourt,63.61789221144,33419.0,1904,3.0,"Botetourt, Virginia",1904.0
-51025,Virginia,Brunswick,63.23144657615998,16231.0,3896,3.0,"Brunswick, Virginia",3896.0
-51027,Virginia,Buchanan,21.415682137439997,21004.0,1020,3.0,"Buchanan, Virginia",1020.0
-51029,Virginia,Buckingham,25.315909620479996,17148.0,1476,3.0,"Buckingham, Virginia",1476.0
-51031,Virginia,Campbell,36.935244258,54885.0,673,2.0,"Campbell, Virginia",673.0
-51033,Virginia,Caroline,28.444101041040003,30725.0,926,3.0,"Caroline, Virginia",926.0
-51035,Virginia,Carroll,53.401108877999995,29791.0,1793,3.0,"Carroll, Virginia",1793.0
-51036,Virginia,Charles City,2.01837693456,6963.0,290,1.0,"Charles City, Virginia",290.0
-51037,Virginia,Charlotte,11.97479519664,11880.0,1008,3.0,"Charlotte, Virginia",1008.0
-51041,Virginia,Chesterfield,531.6415946781599,352802.0,1507,3.0,"Chesterfield, Virginia",1507.0
-51043,Virginia,Clarke,14.011440710399997,14619.0,958,3.0,"Clarke, Virginia",958.0
-51045,Virginia,Craig,2.3650138199999997,5131.0,461,2.0,"Craig, Virginia",461.0
-51047,Virginia,Culpeper,76.46040136008,52605.0,1453,3.0,"Culpeper, Virginia",1453.0
-51049,Virginia,Cumberland,11.639013006719997,9932.0,1172,3.0,"Cumberland, Virginia",1172.0
-51051,Virginia,Dickenson,3.70721679432,14318.0,259,1.0,"Dickenson, Virginia",259.0
-51053,Virginia,Dinwiddie,20.7070922976,28544.0,725,2.0,"Dinwiddie, Virginia",725.0
-51057,Virginia,Essex,10.433692902719999,10953.0,953,3.0,"Essex, Virginia",953.0
-51059,Virginia,Fairfax,1110.0657380200798,1147532.0,967,3.0,"Fairfax, Virginia",967.0
-51061,Virginia,Fauquier,125.40181182167996,71222.0,1761,3.0,"Fauquier, Virginia",1761.0
-51063,Virginia,Floyd,12.34440063264,15749.0,784,2.0,"Floyd, Virginia",784.0
-51065,Virginia,Fluvanna,42.35658268824,27270.0,1553,3.0,"Fluvanna, Virginia",1553.0
-51067,Virginia,Franklin,30.46033606824,56042.0,544,2.0,"Franklin, Virginia",544.0
-51069,Virginia,Frederick,87.64652063495997,89313.0,981,3.0,"Frederick, Virginia",981.0
-51071,Virginia,Giles,4.3773819648,16720.0,262,1.0,"Giles, Virginia",262.0
-51073,Virginia,Gloucester,35.715963621120004,37348.0,956,3.0,"Gloucester, Virginia",956.0
-51075,Virginia,Goochland,13.48018303056,23753.0,568,2.0,"Goochland, Virginia",568.0
-51077,Virginia,Grayson,9.448466584799998,15550.0,608,2.0,"Grayson, Virginia",608.0
-51079,Virginia,Greene,35.73915836472,19819.0,1803,3.0,"Greene, Virginia",1803.0
-51081,Virginia,Greensville,35.31561988536001,11336.0,3115,3.0,"Greensville, Virginia",3115.0
-51083,Virginia,Halifax,54.39343166544,33911.0,1604,3.0,"Halifax, Virginia",1604.0
-51085,Virginia,Hanover,89.37560071440001,107766.0,829,3.0,"Hanover, Virginia",829.0
-51087,Virginia,Henrico,516.1790992533599,330818.0,1560,3.0,"Henrico, Virginia",1560.0
-51089,Virginia,Henry,128.54633442072,50557.0,2543,3.0,"Henry, Virginia",2543.0
-51091,Virginia,Highland,0.023527561199999998,2190.0,11,1.0,"Highland, Virginia",11.0
-51093,Virginia,Isle of Wight,71.94309588312,37109.0,1939,3.0,"Isle of Wight, Virginia",1939.0
-51095,Virginia,James City,156.20737388208,76523.0,2041,3.0,"James City, Virginia",2041.0
-51097,Virginia,King and Queen,8.103351160319999,7025.0,1154,3.0,"King and Queen, Virginia",1154.0
-51099,Virginia,King George,11.7209102712,26836.0,437,2.0,"King George, Virginia",437.0
-51101,Virginia,King William,23.1710078448,17148.0,1351,3.0,"King William, Virginia",1351.0
-51103,Virginia,Lancaster,10.861788645839999,10603.0,1024,3.0,"Lancaster, Virginia",1024.0
-51105,Virginia,Lee,14.43133558776,23423.0,616,2.0,"Lee, Virginia",616.0
-51107,Virginia,Loudoun,645.2124343912801,413538.0,1560,3.0,"Loudoun, Virginia",1560.0
-51109,Virginia,Louisa,26.42395133952,37591.0,703,2.0,"Louisa, Virginia",703.0
-51111,Virginia,Lunenburg,10.89165027792,12196.0,893,3.0,"Lunenburg, Virginia",893.0
-51113,Virginia,Madison,7.7828247808799995,13261.0,587,2.0,"Madison, Virginia",587.0
-51115,Virginia,Mathews,2.0418355785599998,8834.0,231,1.0,"Mathews, Virginia",231.0
-51117,Virginia,Mecklenburg,33.7972642584,30587.0,1105,3.0,"Mecklenburg, Virginia",1105.0
-51119,Virginia,Middlesex,4.000663716719999,10582.0,378,1.0,"Middlesex, Virginia",378.0
-51121,Virginia,Montgomery,91.47249227856001,98535.0,928,3.0,"Montgomery, Virginia",928.0
-51125,Virginia,Nelson,10.290103500959999,14930.0,689,2.0,"Nelson, Virginia",689.0
-51127,Virginia,New Kent,32.25683067360001,23091.0,1397,3.0,"New Kent, Virginia",1397.0
-51131,Virginia,Northampton,6.2350000432799995,11710.0,532,2.0,"Northampton, Virginia",532.0
-51133,Virginia,Northumberland,24.71581707888,12095.0,2043,3.0,"Northumberland, Virginia",2043.0
-51135,Virginia,Nottoway,18.486054662159997,15232.0,1214,3.0,"Nottoway, Virginia",1214.0
-51137,Virginia,Orange,20.912973424319997,37051.0,564,2.0,"Orange, Virginia",564.0
-51139,Virginia,Page,41.9034429432,23902.0,1753,3.0,"Page, Virginia",1753.0
-51141,Virginia,Patrick,3.9716662171199992,17608.0,226,1.0,"Patrick, Virginia",226.0
-51143,Virginia,Pittsylvania,92.78997590088001,60354.0,1537,3.0,"Pittsylvania, Virginia",1537.0
-51145,Virginia,Powhatan,21.174240216239998,29652.0,714,2.0,"Powhatan, Virginia",714.0
-51147,Virginia,Prince Edward,60.71131462896001,22802.0,2663,3.0,"Prince Edward, Virginia",2663.0
-51149,Virginia,Prince George,52.06129347984001,38353.0,1357,3.0,"Prince George, Virginia",1357.0
-51153,Virginia,Prince William,810.36049088328,470335.0,1723,3.0,"Prince William, Virginia",1723.0
-51155,Virginia,Pulaski,15.04585315968,34027.0,442,2.0,"Pulaski, Virginia",442.0
-51157,Virginia,Rappahannock,14.50313402976,7370.0,1968,3.0,"Rappahannock, Virginia",1968.0
-51159,Virginia,Richmond,24.402753898319997,9023.0,2705,3.0,"Richmond, Virginia",2705.0
-51161,Virginia,Roanoke,128.06528715744,94186.0,1360,3.0,"Roanoke, Virginia",1360.0
-51163,Virginia,Rockbridge,8.30816733648,22573.0,368,1.0,"Rockbridge, Virginia",368.0
-51165,Virginia,Rockingham,129.33038368272,81948.0,1578,3.0,"Rockingham, Virginia",1578.0
-51167,Virginia,Russell,20.256690951840003,26586.0,762,2.0,"Russell, Virginia",762.0
-51169,Virginia,Scott,12.98448984528,21566.0,602,2.0,"Scott, Virginia",602.0
-51171,Virginia,Shenandoah,63.8504806176,43616.0,1464,3.0,"Shenandoah, Virginia",1464.0
-51173,Virginia,Smyth,11.532669765359998,30104.0,383,1.0,"Smyth, Virginia",383.0
-51175,Virginia,Southampton,47.33642784527999,17631.0,2685,3.0,"Southampton, Virginia",2685.0
-51177,Virginia,Spotsylvania,136.94666766144,136215.0,1005,3.0,"Spotsylvania, Virginia",1005.0
-51179,Virginia,Stafford,125.2341433776,152882.0,819,3.0,"Stafford, Virginia",819.0
-51181,Virginia,Surry,6.28970885784,6422.0,979,3.0,"Surry, Virginia",979.0
-51183,Virginia,Sussex,19.29649143048,11159.0,1729,3.0,"Sussex, Virginia",1729.0
-51185,Virginia,Tazewell,25.733197187039995,40595.0,634,2.0,"Tazewell, Virginia",634.0
-51187,Virginia,Warren,44.86106652888001,40164.0,1117,3.0,"Warren, Virginia",1117.0
-51191,Virginia,Washington,44.46653579808,53740.0,827,3.0,"Washington, Virginia",827.0
-51193,Virginia,Westmoreland,136.81439001768,18015.0,7594,3.0,"Westmoreland, Virginia",7594.0
-51195,Virginia,Wise,19.34792294328,37383.0,518,2.0,"Wise, Virginia",518.0
-51197,Virginia,Wythe,10.910934763679998,28684.0,380,1.0,"Wythe, Virginia",380.0
-51199,Virginia,York,92.6298523152,68280.0,1357,3.0,"York, Virginia",1357.0
-51510,Virginia,Alexandria,197.90732160528003,159428.0,1241,3.0,"Alexandria, Virginia",1241.0
-51520,Virginia,Bristol,15.29727295944,16762.0,913,3.0,"Bristol, Virginia",913.0
-51530,Virginia,Buena Vista,17.141947073759997,6478.0,2646,3.0,"Buena Vista, Virginia",2646.0
-51540,Virginia,Charlottesville,122.78514169848,47266.0,2598,3.0,"Charlottesville, Virginia",2598.0
-51550,Virginia,Chesapeake,716.16931007472,244835.0,2925,3.0,"Chesapeake, Virginia",2925.0
-51570,Virginia,Colonial Heights,24.817846325039998,17370.0,1429,3.0,"Colonial Heights, Virginia",1429.0
-51580,Virginia,Covington,0.6412844887199999,5538.0,116,1.0,"Covington, Virginia",116.0
-51590,Virginia,Danville,98.65321587024,40044.0,2464,3.0,"Danville, Virginia",2464.0
-51595,Virginia,Emporia,13.90308126288,5346.0,2601,3.0,"Emporia, Virginia",2601.0
-51600,Virginia,Fairfax City,4.770722835599999,24019.0,199,1.0,"Fairfax City, Virginia",199.0
-51610,Virginia,Falls Church,0.0,14617.0,0,1.0,"Falls Church, Virginia",0.0
-51620,Virginia,Franklin City,45.23404539528,7967.0,5678,3.0,"Franklin City, Virginia",5678.0
-51630,Virginia,Fredericksburg,68.40714878592,29036.0,2356,3.0,"Fredericksburg, Virginia",2356.0
-51640,Virginia,Galax,47.75995910016,6347.0,7525,3.0,"Galax, Virginia",7525.0
-51650,Virginia,Hampton,386.90552292624,134510.0,2876,3.0,"Hampton, Virginia",2876.0
-51660,Virginia,Harrisonburg,75.9823046424,53016.0,1433,3.0,"Harrisonburg, Virginia",1433.0
-51670,Virginia,Hopewell,58.749700414559996,22529.0,2608,3.0,"Hopewell, Virginia",2608.0
-51678,Virginia,Lexington,15.827765887439998,7446.0,2126,3.0,"Lexington, Virginia",2126.0
-51680,Virginia,Lynchburg,81.35817311688,82168.0,990,3.0,"Lynchburg, Virginia",990.0
-51683,Virginia,Manassas,127.97258883335999,41085.0,3115,3.0,"Manassas, Virginia",3115.0
-51685,Virginia,Manassas Park,51.016942964639995,17478.0,2919,3.0,"Manassas Park, Virginia",2919.0
-51690,Virginia,Martinsville,50.690405638319994,12554.0,4038,3.0,"Martinsville, Virginia",4038.0
-51700,Virginia,Newport News,529.76661543936,179225.0,2956,3.0,"Newport News, Virginia",2956.0
-51710,Virginia,Norfolk,1099.3620555384,242742.0,4529,3.0,"Norfolk, Virginia",4529.0
-51720,Virginia,Norton,0.20141863872000002,3981.0,51,1.0,"Norton, Virginia",51.0
-51730,Virginia,Petersburg,127.58347467143999,31346.0,4070,3.0,"Petersburg, Virginia",4070.0
-51735,Virginia,Poquoson,7.46347102608,12271.0,608,2.0,"Poquoson, Virginia",608.0
-51740,Virginia,Portsmouth,376.6298487979199,94398.0,3990,3.0,"Portsmouth, Virginia",3990.0
-51750,Virginia,Radford,7.440749213519999,18249.0,408,2.0,"Radford, Virginia",408.0
-51760,Virginia,Richmond City,391.3839655943999,230436.0,1698,3.0,"Richmond City, Virginia",1698.0
-51770,Virginia,Roanoke City,254.46051262008,99143.0,2567,3.0,"Roanoke City, Virginia",2567.0
-51775,Virginia,Salem,46.992358722480006,25301.0,1857,3.0,"Salem, Virginia",1857.0
-51790,Virginia,Staunton,42.126930374160004,24932.0,1690,3.0,"Staunton, Virginia",1690.0
-51800,Virginia,Suffolk,260.93260192464,92108.0,2833,3.0,"Suffolk, Virginia",2833.0
-51810,Virginia,Virginia Beach,1371.2738486697597,449974.0,3047,3.0,"Virginia Beach, Virginia",3047.0
-51820,Virginia,Waynesboro,64.22923593504,22630.0,2838,3.0,"Waynesboro, Virginia",2838.0
-51830,Virginia,Williamsburg,29.934856354079997,14954.0,2002,3.0,"Williamsburg, Virginia",2002.0
-51840,Virginia,Winchester,66.45032983536001,28078.0,2367,3.0,"Winchester, Virginia",2367.0
-54001,West Virginia,Barbour,8.932600236959999,16441.0,543,2.0,"Barbour, West Virginia",543.0
-54003,West Virginia,Berkeley,115.02895839696001,119171.0,965,3.0,"Berkeley, West Virginia",965.0
-54005,West Virginia,Boone,20.173885738320003,21457.0,940,3.0,"Boone, West Virginia",940.0
-54007,West Virginia,Braxton,3.8130272548799993,13957.0,273,1.0,"Braxton, West Virginia",273.0
-54009,West Virginia,Brooke,31.176520445999994,21939.0,1421,3.0,"Brooke, West Virginia",1421.0
-54011,West Virginia,Cabell,92.51349910896002,91945.0,1006,3.0,"Cabell, West Virginia",1006.0
-54013,West Virginia,Calhoun,2.8569309604799997,7109.0,402,2.0,"Calhoun, West Virginia",402.0
-54015,West Virginia,Clay,3.14359529784,8508.0,369,1.0,"Clay, West Virginia",369.0
-54017,West Virginia,Doddridge,0.0,8448.0,0,1.0,"Doddridge, West Virginia",0.0
-54019,West Virginia,Fayette,28.89425645184,42406.0,681,2.0,"Fayette, West Virginia",681.0
-54021,West Virginia,Gilmer,0.7822410396000001,7823.0,100,1.0,"Gilmer, West Virginia",100.0
-54023,West Virginia,Grant,12.6407963688,11568.0,1093,3.0,"Grant, West Virginia",1093.0
-54025,West Virginia,Greenbrier,18.136440811919996,34662.0,523,2.0,"Greenbrier, West Virginia",523.0
-54027,West Virginia,Hampshire,0.80356921416,23175.0,35,1.0,"Hampshire, West Virginia",35.0
-54029,West Virginia,Hancock,32.32348398384,28810.0,1122,3.0,"Hancock, West Virginia",1122.0
-54031,West Virginia,Hardy,5.06335437336,13776.0,368,1.0,"Hardy, West Virginia",368.0
-54033,West Virginia,Harrison,92.31489719807999,67256.0,1373,3.0,"Harrison, West Virginia",1373.0
-54035,West Virginia,Jackson,6.537262673039999,28576.0,229,1.0,"Jackson, West Virginia",229.0
-54037,West Virginia,Jefferson,39.68260387872,57146.0,694,2.0,"Jefferson, West Virginia",694.0
-54039,West Virginia,Kanawha,191.96962178928004,178124.0,1078,3.0,"Kanawha, West Virginia",1078.0
-54041,West Virginia,Lewis,6.169291128959999,15907.0,388,1.0,"Lewis, West Virginia",388.0
-54043,West Virginia,Lincoln,1.3418282258399994,20409.0,66,1.0,"Lincoln, West Virginia",66.0
-54045,West Virginia,Logan,25.45371136872,32019.0,795,2.0,"Logan, West Virginia",795.0
-54047,West Virginia,McDowell,3.2708913115200002,17624.0,186,1.0,"McDowell, West Virginia",186.0
-54049,West Virginia,Marion,65.74661782056,56072.0,1173,3.0,"Marion, West Virginia",1173.0
-54051,West Virginia,Marshall,42.93577991688,30531.0,1406,3.0,"Marshall, West Virginia",1406.0
-54053,West Virginia,Mason,10.796650592639999,26516.0,407,2.0,"Mason, West Virginia",407.0
-54055,West Virginia,Mercer,29.510528283840003,58758.0,502,2.0,"Mercer, West Virginia",502.0
-54057,West Virginia,Mineral,20.73926019504,26868.0,772,2.0,"Mineral, West Virginia",772.0
-54059,West Virginia,Mingo,17.51545971072,23424.0,748,2.0,"Mingo, West Virginia",748.0
-54061,West Virginia,Monongalia,600.9656371008,105612.0,5690,3.0,"Monongalia, West Virginia",5690.0
-54063,West Virginia,Monroe,2.3856800529599993,13275.0,180,1.0,"Monroe, West Virginia",180.0
-54065,West Virginia,Morgan,0.05867430504,17884.0,3,1.0,"Morgan, West Virginia",3.0
-54067,West Virginia,Nicholas,14.096344123920002,24496.0,575,2.0,"Nicholas, West Virginia",575.0
-54069,West Virginia,Ohio,87.51451098528001,41411.0,2113,3.0,"Ohio, West Virginia",2113.0
-54071,West Virginia,Pendleton,4.77724160712,6969.0,685,2.0,"Pendleton, West Virginia",685.0
-54073,West Virginia,Pleasants,0.0,7460.0,0,1.0,"Pleasants, West Virginia",0.0
-54075,West Virginia,Pocahontas,14.36291410344,8247.0,1742,3.0,"Pocahontas, West Virginia",1742.0
-54077,West Virginia,Preston,40.4367190008,33432.0,1210,3.0,"Preston, West Virginia",1210.0
-54079,West Virginia,Putnam,55.07321325839999,56450.0,976,3.0,"Putnam, West Virginia",976.0
-54081,West Virginia,Raleigh,53.241401295360006,73361.0,726,2.0,"Raleigh, West Virginia",726.0
-54083,West Virginia,Randolph,46.659631934640004,28695.0,1626,3.0,"Randolph, West Virginia",1626.0
-54085,West Virginia,Ritchie,0.0,9554.0,0,1.0,"Ritchie, West Virginia",0.0
-54087,West Virginia,Roane,1.6136490098399998,13688.0,118,1.0,"Roane, West Virginia",118.0
-54089,West Virginia,Summers,0.28905896663999997,12573.0,23,1.0,"Summers, West Virginia",23.0
-54091,West Virginia,Taylor,11.14793274888,16695.0,668,2.0,"Taylor, West Virginia",668.0
-54093,West Virginia,Tucker,0.12038007863999999,6839.0,18,1.0,"Tucker, West Virginia",18.0
-54095,West Virginia,Tyler,9.801565759439999,8591.0,1141,3.0,"Tyler, West Virginia",1141.0
-54097,West Virginia,Upshur,28.518749562719997,24176.0,1180,3.0,"Upshur, West Virginia",1180.0
-54099,West Virginia,Wayne,25.407548968320004,39402.0,645,2.0,"Wayne, West Virginia",645.0
-54101,West Virginia,Webster,0.67239668136,8114.0,83,1.0,"Webster, West Virginia",83.0
-54103,West Virginia,Wetzel,41.95326815975999,15065.0,2785,3.0,"Wetzel, West Virginia",2785.0
-54105,West Virginia,Wirt,2.9225734336799998,5821.0,502,2.0,"Wirt, West Virginia",502.0
-54107,West Virginia,Wood,138.532731024,83518.0,1659,3.0,"Wood, West Virginia",1659.0
-54109,West Virginia,Wyoming,0.10760750784,20394.0,5,1.0,"Wyoming, West Virginia",5.0
+FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full Name
+09001,Connecticut,Fairfield,380.22718202784,943332.0,403,400-799 Active Cases per Million,"Fairfield, Connecticut"
+09003,Connecticut,Hartford,420.44209509432005,891720.0,471,400-799 Active Cases per Million,"Hartford, Connecticut"
+09005,Connecticut,Litchfield,29.371183464479998,180333.0,163,<400 Active Cases per Million<br>(No Quarantine Required),"Litchfield, Connecticut"
+09007,Connecticut,Middlesex,56.08390374575999,162436.0,345,<400 Active Cases per Million<br>(No Quarantine Required),"Middlesex, Connecticut"
+09009,Connecticut,New Haven,411.23335466232004,854757.0,481,400-799 Active Cases per Million,"New Haven, Connecticut"
+09011,Connecticut,New London,95.45365284239999,265206.0,360,<400 Active Cases per Million<br>(No Quarantine Required),"New London, Connecticut"
+09013,Connecticut,Tolland,34.24875805704,150721.0,227,<400 Active Cases per Million<br>(No Quarantine Required),"Tolland, Connecticut"
+09015,Connecticut,Windham,46.56954665519999,116782.0,399,<400 Active Cases per Million<br>(No Quarantine Required),"Windham, Connecticut"
+10001,Delaware,Kent,242.37771912935995,180786.0,1341,800+ Active Cases per Million,"Kent, Delaware"
+10003,Delaware,New Castle,1027.98120681912,558753.0,1840,800+ Active Cases per Million,"New Castle, Delaware"
+10005,Delaware,Sussex,531.02594920656,234225.0,2267,800+ Active Cases per Million,"Sussex, Delaware"
+11001,District of Columbia,District of Columbia,927.6718154920801,705749.0,1314,800+ Active Cases per Million,"District of Columbia, District of Columbia"
+23001,Maine,Androscoggin,23.970011025599998,108277.0,221,<400 Active Cases per Million<br>(No Quarantine Required),"Androscoggin, Maine"
+23003,Maine,Aroostook,4.0780885224,67055.0,61,<400 Active Cases per Million<br>(No Quarantine Required),"Aroostook, Maine"
+23005,Maine,Cumberland,248.39879400431997,295003.0,842,800+ Active Cases per Million,"Cumberland, Maine"
+23007,Maine,Franklin,1.23399954864,30199.0,41,<400 Active Cases per Million<br>(No Quarantine Required),"Franklin, Maine"
+23009,Maine,Hancock,1.89813431112,54987.0,35,<400 Active Cases per Million<br>(No Quarantine Required),"Hancock, Maine"
+23011,Maine,Kennebec,3.99856485672,122302.0,33,<400 Active Cases per Million<br>(No Quarantine Required),"Kennebec, Maine"
+23013,Maine,Knox,0.57505472376,39772.0,14,<400 Active Cases per Million<br>(No Quarantine Required),"Knox, Maine"
+23015,Maine,Lincoln,2.9940378436799997,34634.0,86,<400 Active Cases per Million<br>(No Quarantine Required),"Lincoln, Maine"
+23017,Maine,Oxford,10.6991012868,57975.0,185,<400 Active Cases per Million<br>(No Quarantine Required),"Oxford, Maine"
+23019,Maine,Penobscot,18.33242589168,152148.0,120,<400 Active Cases per Million<br>(No Quarantine Required),"Penobscot, Maine"
+23021,Maine,Piscataquis,2.47482686904,16785.0,147,<400 Active Cases per Million<br>(No Quarantine Required),"Piscataquis, Maine"
+23023,Maine,Sagadahoc,0.39224898335999997,35856.0,11,<400 Active Cases per Million<br>(No Quarantine Required),"Sagadahoc, Maine"
+23025,Maine,Somerset,3.15738105864,50484.0,63,<400 Active Cases per Million<br>(No Quarantine Required),"Somerset, Maine"
+23027,Maine,Waldo,3.8746302335999996,39715.0,98,<400 Active Cases per Million<br>(No Quarantine Required),"Waldo, Maine"
+23029,Maine,Washington,0.35373086928,31379.0,11,<400 Active Cases per Million<br>(No Quarantine Required),"Washington, Maine"
+23031,Maine,York,82.77538859735999,207641.0,399,<400 Active Cases per Million<br>(No Quarantine Required),"York, Maine"
+24001,Maryland,Allegany,24.980353331039996,70416.0,355,<400 Active Cases per Million<br>(No Quarantine Required),"Allegany, Maryland"
+24003,Maryland,Anne Arundel,773.52399080592,579234.0,1335,800+ Active Cases per Million,"Anne Arundel, Maryland"
+24005,Maryland,Baltimore,1544.4828508293601,827370.0,1867,800+ Active Cases per Million,"Baltimore, Maryland"
+24009,Maryland,Calvert,74.68936473672,92525.0,807,800+ Active Cases per Million,"Calvert, Maryland"
+24011,Maryland,Caroline,50.472266455440014,33406.0,1511,800+ Active Cases per Million,"Caroline, Maryland"
+24013,Maryland,Carroll,134.86445937815998,168447.0,801,800+ Active Cases per Million,"Carroll, Maryland"
+24015,Maryland,Cecil,69.32302793448,102855.0,674,400-799 Active Cases per Million,"Cecil, Maryland"
+24017,Maryland,Charles,200.64158899152002,163257.0,1229,800+ Active Cases per Million,"Charles, Maryland"
+24019,Maryland,Dorchester,44.124726161999995,31929.0,1382,800+ Active Cases per Million,"Dorchester, Maryland"
+24021,Maryland,Frederick,188.76235515936,259547.0,727,400-799 Active Cases per Million,"Frederick, Maryland"
+24023,Maryland,Garrett,25.359282101039998,29014.0,874,800+ Active Cases per Million,"Garrett, Maryland"
+24025,Maryland,Harford,277.45434451848,255441.0,1086,800+ Active Cases per Million,"Harford, Maryland"
+24027,Maryland,Howard,507.26666705160005,325690.0,1558,800+ Active Cases per Million,"Howard, Maryland"
+24029,Maryland,Kent,7.503907122720001,19422.0,386,<400 Active Cases per Million<br>(No Quarantine Required),"Kent, Maryland"
+24031,Maryland,Montgomery,1598.4937375823997,1050688.0,1521,800+ Active Cases per Million,"Montgomery, Maryland"
+24033,Maryland,Prince George's,2020.3355668471197,909327.0,2222,800+ Active Cases per Million,"Prince George's, Maryland"
+24035,Maryland,Queen Anne's,97.82555452871999,50381.0,1942,800+ Active Cases per Million,"Queen Anne's, Maryland"
+24037,Maryland,St. Mary's,141.77405387856,113510.0,1249,800+ Active Cases per Million,"St. Mary's, Maryland"
+24039,Maryland,Somerset,26.689761165840004,25616.0,1042,800+ Active Cases per Million,"Somerset, Maryland"
+24041,Maryland,Talbot,95.81949449423999,37181.0,2577,800+ Active Cases per Million,"Talbot, Maryland"
+24043,Maryland,Washington,97.34993931960001,151049.0,644,400-799 Active Cases per Million,"Washington, Maryland"
+24045,Maryland,Wicomico,139.48482921168,103609.0,1346,800+ Active Cases per Million,"Wicomico, Maryland"
+24047,Maryland,Worcester,71.09237391768,52276.0,1360,800+ Active Cases per Million,"Worcester, Maryland"
+24510,Maryland,Baltimore City,1713.6913792437604,593490.0,2887,800+ Active Cases per Million,"Baltimore City, Maryland"
+25001,Massachusetts,Barnstable,67.39882005216,212990.0,316,<400 Active Cases per Million<br>(No Quarantine Required),"Barnstable, Massachusetts"
+25003,Massachusetts,Berkshire,26.18385301416,124944.0,210,<400 Active Cases per Million<br>(No Quarantine Required),"Berkshire, Massachusetts"
+25005,Massachusetts,Bristol,458.90558140895985,565217.0,812,800+ Active Cases per Million,"Bristol, Massachusetts"
+25007,Massachusetts,Dukes,0.0,17332.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Dukes, Massachusetts"
+25009,Massachusetts,Essex,600.0703776516,789034.0,761,400-799 Active Cases per Million,"Essex, Massachusetts"
+25011,Massachusetts,Franklin,20.744698956000004,70180.0,296,<400 Active Cases per Million<br>(No Quarantine Required),"Franklin, Massachusetts"
+25013,Massachusetts,Hampden,389.2896492170401,466372.0,835,800+ Active Cases per Million,"Hampden, Massachusetts"
+25015,Massachusetts,Hampshire,66.48638701272,160830.0,413,400-799 Active Cases per Million,"Hampshire, Massachusetts"
+25017,Massachusetts,Middlesex,954.7630042401601,1611699.0,592,400-799 Active Cases per Million,"Middlesex, Massachusetts"
+25019,Massachusetts,Nantucket,0.0,11399.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Nantucket, Massachusetts"
+25021,Massachusetts,Norfolk,540.2681733564,706775.0,764,400-799 Active Cases per Million,"Norfolk, Massachusetts"
+25023,Massachusetts,Plymouth,204.23115289416,521202.0,392,<400 Active Cases per Million<br>(No Quarantine Required),"Plymouth, Massachusetts"
+25025,Massachusetts,Suffolk,807.7812739459199,803907.0,1005,800+ Active Cases per Million,"Suffolk, Massachusetts"
+25027,Massachusetts,Worcester,495.75459771408,830622.0,597,400-799 Active Cases per Million,"Worcester, Massachusetts"
+33001,New Hampshire,Belknap,16.41370788024,61303.0,268,<400 Active Cases per Million<br>(No Quarantine Required),"Belknap, New Hampshire"
+33003,New Hampshire,Carroll,14.492293670639999,48910.0,296,<400 Active Cases per Million<br>(No Quarantine Required),"Carroll, New Hampshire"
+33005,New Hampshire,Cheshire,9.99556448016,76085.0,131,<400 Active Cases per Million<br>(No Quarantine Required),"Cheshire, New Hampshire"
+33007,New Hampshire,Coos,5.8851605916,31563.0,186,<400 Active Cases per Million<br>(No Quarantine Required),"Coos, New Hampshire"
+33009,New Hampshire,Grafton,14.830372413599997,89886.0,165,<400 Active Cases per Million<br>(No Quarantine Required),"Grafton, New Hampshire"
+33011,New Hampshire,Hillsborough,246.17171040143995,417025.0,590,400-799 Active Cases per Million,"Hillsborough, New Hampshire"
+33013,New Hampshire,Merrimack,32.64937363992,151391.0,216,<400 Active Cases per Million<br>(No Quarantine Required),"Merrimack, New Hampshire"
+33015,New Hampshire,Rockingham,83.31261585143999,309769.0,269,<400 Active Cases per Million<br>(No Quarantine Required),"Rockingham, New Hampshire"
+33017,New Hampshire,Strafford,25.619917668959996,130633.0,196,<400 Active Cases per Million<br>(No Quarantine Required),"Strafford, New Hampshire"
+33019,New Hampshire,Sullivan,7.67259756192,43146.0,178,<400 Active Cases per Million<br>(No Quarantine Required),"Sullivan, New Hampshire"
+34001,New Jersey,Atlantic,272.5774982620799,263670.0,1034,800+ Active Cases per Million,"Atlantic, New Jersey"
+34003,New Jersey,Bergen,649.66360828344,932202.0,697,400-799 Active Cases per Million,"Bergen, New Jersey"
+34005,New Jersey,Burlington,344.4663910535999,445349.0,773,400-799 Active Cases per Million,"Burlington, New Jersey"
+34007,New Jersey,Camden,568.8696521983201,506471.0,1123,800+ Active Cases per Million,"Camden, New Jersey"
+34009,New Jersey,Cape May,47.48800612704001,92039.0,516,400-799 Active Cases per Million,"Cape May, New Jersey"
+34011,New Jersey,Cumberland,136.46814291384,149527.0,913,800+ Active Cases per Million,"Cumberland, New Jersey"
+34013,New Jersey,Essex,432.0529236523201,798975.0,541,400-799 Active Cases per Million,"Essex, New Jersey"
+34015,New Jersey,Gloucester,306.44261542079994,291636.0,1051,800+ Active Cases per Million,"Gloucester, New Jersey"
+34017,New Jersey,Hudson,425.66761769159996,672391.0,633,400-799 Active Cases per Million,"Hudson, New Jersey"
+34019,New Jersey,Hunterdon,19.776512568239998,124371.0,159,<400 Active Cases per Million<br>(No Quarantine Required),"Hunterdon, New Jersey"
+34021,New Jersey,Mercer,196.68315683543997,367430.0,535,400-799 Active Cases per Million,"Mercer, New Jersey"
+34023,New Jersey,Middlesex,412.66627871087996,825062.0,500,400-799 Active Cases per Million,"Middlesex, New Jersey"
+34025,New Jersey,Monmouth,563.31192858864,618795.0,910,800+ Active Cases per Million,"Monmouth, New Jersey"
+34027,New Jersey,Morris,232.73933752991996,491845.0,473,400-799 Active Cases per Million,"Morris, New Jersey"
+34029,New Jersey,Ocean,381.98598384144003,607186.0,629,400-799 Active Cases per Million,"Ocean, New Jersey"
+34031,New Jersey,Passaic,335.35269485327996,501826.0,668,400-799 Active Cases per Million,"Passaic, New Jersey"
+34033,New Jersey,Salem,50.87153377583999,62385.0,815,800+ Active Cases per Million,"Salem, New Jersey"
+34035,New Jersey,Somerset,234.28073379671997,328934.0,712,400-799 Active Cases per Million,"Somerset, New Jersey"
+34037,New Jersey,Sussex,47.39407725192,140488.0,337,<400 Active Cases per Million<br>(No Quarantine Required),"Sussex, New Jersey"
+34039,New Jersey,Union,238.53388823208002,556341.0,429,400-799 Active Cases per Million,"Union, New Jersey"
+34041,New Jersey,Warren,36.10448673432,105267.0,343,<400 Active Cases per Million<br>(No Quarantine Required),"Warren, New Jersey"
+36001,New York,Albany,209.44415827007998,305506.0,686,400-799 Active Cases per Million,"Albany, New York"
+36003,New York,Allegany,12.005551446239998,46091.0,260,<400 Active Cases per Million<br>(No Quarantine Required),"Allegany, New York"
+36005,New York,Bronx,1114.28987477784,1418207.0,786,400-799 Active Cases per Million,"Bronx, New York"
+36007,New York,Broome,193.62335965440005,190488.0,1016,800+ Active Cases per Million,"Broome, New York"
+36009,New York,Cattaraugus,23.578098676319996,76117.0,310,<400 Active Cases per Million<br>(No Quarantine Required),"Cattaraugus, New York"
+36011,New York,Cayuga,14.746835425919999,76576.0,193,<400 Active Cases per Million<br>(No Quarantine Required),"Cayuga, New York"
+36013,New York,Chautauqua,87.25654146816001,126903.0,688,400-799 Active Cases per Million,"Chautauqua, New York"
+36015,New York,Chemung,7.985106396720001,83456.0,96,<400 Active Cases per Million<br>(No Quarantine Required),"Chemung, New York"
+36017,New York,Chenango,34.70288170656,47207.0,735,400-799 Active Cases per Million,"Chenango, New York"
+36019,New York,Clinton,12.93065857056,80485.0,161,<400 Active Cases per Million<br>(No Quarantine Required),"Clinton, New York"
+36021,New York,Columbia,30.97142449488,59461.0,521,400-799 Active Cases per Million,"Columbia, New York"
+36023,New York,Cortland,15.815152930559998,47581.0,332,<400 Active Cases per Million<br>(No Quarantine Required),"Cortland, New York"
+36025,New York,Delaware,2.26904290848,44135.0,51,<400 Active Cases per Million<br>(No Quarantine Required),"Delaware, New York"
+36027,New York,Dutchess,190.04988548568,294218.0,646,400-799 Active Cases per Million,"Dutchess, New York"
+36029,New York,Erie,770.35992284328,918702.0,839,800+ Active Cases per Million,"Erie, New York"
+36031,New York,Essex,7.75509349248,36885.0,210,<400 Active Cases per Million<br>(No Quarantine Required),"Essex, New York"
+36033,New York,Franklin,7.277376061679999,50022.0,145,<400 Active Cases per Million<br>(No Quarantine Required),"Franklin, New York"
+36035,New York,Fulton,13.8256199448,53383.0,259,<400 Active Cases per Million<br>(No Quarantine Required),"Fulton, New York"
+36037,New York,Genesee,24.751976751599997,57280.0,432,400-799 Active Cases per Million,"Genesee, New York"
+36039,New York,Greene,10.678763669759999,47188.0,226,<400 Active Cases per Million<br>(No Quarantine Required),"Greene, New York"
+36041,New York,Hamilton,0.0,4416.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Hamilton, New York"
+36043,New York,Herkimer,47.23731455544,61319.0,770,400-799 Active Cases per Million,"Herkimer, New York"
+36045,New York,Jefferson,17.3873988276,109834.0,158,<400 Active Cases per Million<br>(No Quarantine Required),"Jefferson, New York"
+36047,New York,Kings,1751.6192371550399,2559903.0,684,400-799 Active Cases per Million,"Kings, New York"
+36049,New York,Lewis,4.66499060616,26296.0,177,<400 Active Cases per Million<br>(No Quarantine Required),"Lewis, New York"
+36051,New York,Livingston,35.14869484344,62914.0,559,400-799 Active Cases per Million,"Livingston, New York"
+36053,New York,Madison,27.229711115520004,70941.0,384,<400 Active Cases per Million<br>(No Quarantine Required),"Madison, New York"
+36055,New York,Monroe,666.0622994484,741770.0,898,800+ Active Cases per Million,"Monroe, New York"
+36057,New York,Montgomery,44.487951366240004,49221.0,904,800+ Active Cases per Million,"Montgomery, New York"
+36059,New York,Nassau,890.0713287511202,1356924.0,656,400-799 Active Cases per Million,"Nassau, New York"
+36061,New York,New York,1173.9840327288,1628706.0,721,400-799 Active Cases per Million,"New York, New York"
+36063,New York,Niagara,147.5383853676,209281.0,705,400-799 Active Cases per Million,"Niagara, New York"
+36065,New York,Oneida,289.08505834464,228671.0,1264,800+ Active Cases per Million,"Oneida, New York"
+36067,New York,Onondaga,483.88516787808,460528.0,1051,800+ Active Cases per Million,"Onondaga, New York"
+36069,New York,Ontario,62.903747095199996,109777.0,573,400-799 Active Cases per Million,"Ontario, New York"
+36071,New York,Orange,166.47270452880005,384940.0,432,400-799 Active Cases per Million,"Orange, New York"
+36073,New York,Orleans,9.899157042959997,40352.0,245,<400 Active Cases per Million<br>(No Quarantine Required),"Orleans, New York"
+36075,New York,Oswego,43.57522504392,117124.0,372,<400 Active Cases per Million<br>(No Quarantine Required),"Oswego, New York"
+36077,New York,Otsego,9.43213967688,59493.0,159,<400 Active Cases per Million<br>(No Quarantine Required),"Otsego, New York"
+36079,New York,Putnam,83.24600563055999,98320.0,847,800+ Active Cases per Million,"Putnam, New York"
+36081,New York,Queens,1688.2712832458399,2253858.0,749,400-799 Active Cases per Million,"Queens, New York"
+36083,New York,Rensselaer,119.61010134791998,158714.0,754,400-799 Active Cases per Million,"Rensselaer, New York"
+36085,New York,Richmond,342.62076570504,476143.0,720,400-799 Active Cases per Million,"Richmond, New York"
+36087,New York,Rockland,196.28138277432004,325789.0,602,400-799 Active Cases per Million,"Rockland, New York"
+36089,New York,St. Lawrence,19.38092007696,107740.0,180,<400 Active Cases per Million<br>(No Quarantine Required),"St. Lawrence, New York"
+36091,New York,Saratoga,99.92893523064001,229863.0,435,400-799 Active Cases per Million,"Saratoga, New York"
+36093,New York,Schenectady,119.74459204824001,155299.0,771,400-799 Active Cases per Million,"Schenectady, New York"
+36095,New York,Schoharie,5.492055510479998,30999.0,177,<400 Active Cases per Million<br>(No Quarantine Required),"Schoharie, New York"
+36097,New York,Schuyler,4.11572626968,17807.0,231,<400 Active Cases per Million<br>(No Quarantine Required),"Schuyler, New York"
+36099,New York,Seneca,6.72684715752,34016.0,198,<400 Active Cases per Million<br>(No Quarantine Required),"Seneca, New York"
+36101,New York,Steuben,18.756322046639998,95379.0,197,<400 Active Cases per Million<br>(No Quarantine Required),"Steuben, New York"
+36103,New York,Suffolk,1250.4819231540002,1476601.0,847,800+ Active Cases per Million,"Suffolk, New York"
+36105,New York,Sullivan,20.164283316240002,75432.0,267,<400 Active Cases per Million<br>(No Quarantine Required),"Sullivan, New York"
+36107,New York,Tioga,25.205474178,48203.0,523,400-799 Active Cases per Million,"Tioga, New York"
+36109,New York,Tompkins,14.735627211119999,102180.0,144,<400 Active Cases per Million<br>(No Quarantine Required),"Tompkins, New York"
+36111,New York,Ulster,103.80811866648001,177573.0,585,400-799 Active Cases per Million,"Ulster, New York"
+36113,New York,Warren,22.658163108240004,63944.0,354,<400 Active Cases per Million<br>(No Quarantine Required),"Warren, New York"
+36115,New York,Washington,6.825950428079999,61204.0,112,<400 Active Cases per Million<br>(No Quarantine Required),"Washington, New York"
+36117,New York,Wayne,64.59085412112002,89918.0,718,400-799 Active Cases per Million,"Wayne, New York"
+36119,New York,Westchester,721.26545335752,967506.0,745,400-799 Active Cases per Million,"Westchester, New York"
+36121,New York,Wyoming,12.469649987039999,39859.0,313,<400 Active Cases per Million<br>(No Quarantine Required),"Wyoming, New York"
+36123,New York,Yates,4.55927342088,24913.0,183,<400 Active Cases per Million<br>(No Quarantine Required),"Yates, New York"
+39001,Ohio,Adams,10.94188628784,27698.0,395,<400 Active Cases per Million<br>(No Quarantine Required),"Adams, Ohio"
+39003,Ohio,Allen,162.20648844576002,102351.0,1585,800+ Active Cases per Million,"Allen, Ohio"
+39005,Ohio,Ashland,45.261418914480004,53484.0,846,800+ Active Cases per Million,"Ashland, Ohio"
+39007,Ohio,Ashtabula,43.68883240872001,97241.0,449,400-799 Active Cases per Million,"Ashtabula, Ohio"
+39009,Ohio,Athens,281.48981961912,65327.0,4309,800+ Active Cases per Million,"Athens, Ohio"
+39011,Ohio,Auglaize,16.340688952559997,45656.0,358,<400 Active Cases per Million<br>(No Quarantine Required),"Auglaize, Ohio"
+39013,Ohio,Belmont,55.9113364236,67006.0,834,800+ Active Cases per Million,"Belmont, Ohio"
+39015,Ohio,Brown,12.22975481904,43432.0,282,<400 Active Cases per Million<br>(No Quarantine Required),"Brown, Ohio"
+39017,Ohio,Butler,764.05306732824,383134.0,1994,800+ Active Cases per Million,"Butler, Ohio"
+39019,Ohio,Carroll,28.85342281968,26914.0,1072,800+ Active Cases per Million,"Carroll, Ohio"
+39021,Ohio,Champaign,37.72368051672,38885.0,970,800+ Active Cases per Million,"Champaign, Ohio"
+39023,Ohio,Clark,161.86381430016004,134083.0,1207,800+ Active Cases per Million,"Clark, Ohio"
+39025,Ohio,Clermont,282.68886480863995,206428.0,1369,800+ Active Cases per Million,"Clermont, Ohio"
+39027,Ohio,Clinton,50.43476637936,41968.0,1202,800+ Active Cases per Million,"Clinton, Ohio"
+39029,Ohio,Columbiana,290.26581133224,101883.0,2849,800+ Active Cases per Million,"Columbiana, Ohio"
+39031,Ohio,Coshocton,100.28798790239999,36600.0,2740,800+ Active Cases per Million,"Coshocton, Ohio"
+39033,Ohio,Crawford,11.0485463088,41494.0,266,<400 Active Cases per Million<br>(No Quarantine Required),"Crawford, Ohio"
+39035,Ohio,Cuyahoga,3706.36459950696,1235072.0,3001,800+ Active Cases per Million,"Cuyahoga, Ohio"
+39037,Ohio,Darke,30.85992484632,51113.0,604,400-799 Active Cases per Million,"Darke, Ohio"
+39039,Ohio,Defiance,13.058391404159998,38087.0,343,<400 Active Cases per Million<br>(No Quarantine Required),"Defiance, Ohio"
+39041,Ohio,Delaware,438.45528044568005,209177.0,2096,800+ Active Cases per Million,"Delaware, Ohio"
+39043,Ohio,Erie,135.89170476696,74266.0,1830,800+ Active Cases per Million,"Erie, Ohio"
+39045,Ohio,Fairfield,406.30454815535995,157574.0,2578,800+ Active Cases per Million,"Fairfield, Ohio"
+39047,Ohio,Fayette,20.4239193888,28525.0,716,400-799 Active Cases per Million,"Fayette, Ohio"
+39049,Ohio,Franklin,4955.548738203119,1316756.0,3763,800+ Active Cases per Million,"Franklin, Ohio"
+39051,Ohio,Fulton,21.085321668,42126.0,501,400-799 Active Cases per Million,"Fulton, Ohio"
+39053,Ohio,Gallia,9.07714373976,29898.0,304,<400 Active Cases per Million<br>(No Quarantine Required),"Gallia, Ohio"
+39055,Ohio,Geauga,70.33257638736,93649.0,751,400-799 Active Cases per Million,"Geauga, Ohio"
+39057,Ohio,Greene,250.67637779351995,168937.0,1484,800+ Active Cases per Million,"Greene, Ohio"
+39059,Ohio,Guernsey,28.720711882559996,38875.0,739,400-799 Active Cases per Million,"Guernsey, Ohio"
+39061,Ohio,Hamilton,2897.0088408024,817473.0,3544,800+ Active Cases per Million,"Hamilton, Ohio"
+39063,Ohio,Hancock,29.310789088799996,75783.0,387,<400 Active Cases per Million<br>(No Quarantine Required),"Hancock, Ohio"
+39065,Ohio,Hardin,13.013077862399998,31365.0,415,400-799 Active Cases per Million,"Hardin, Ohio"
+39067,Ohio,Harrison,1.8022243682399997,15040.0,120,<400 Active Cases per Million<br>(No Quarantine Required),"Harrison, Ohio"
+39069,Ohio,Henry,17.75938167888,27006.0,658,400-799 Active Cases per Million,"Henry, Ohio"
+39071,Ohio,Highland,27.86266193664,43161.0,646,400-799 Active Cases per Million,"Highland, Ohio"
+39073,Ohio,Hocking,13.4368113468,28264.0,475,400-799 Active Cases per Million,"Hocking, Ohio"
+39075,Ohio,Holmes,80.87752847952,43960.0,1840,800+ Active Cases per Million,"Holmes, Ohio"
+39077,Ohio,Huron,125.26702888535996,58266.0,2150,800+ Active Cases per Million,"Huron, Ohio"
+39079,Ohio,Jackson,19.820160773279998,32413.0,611,400-799 Active Cases per Million,"Jackson, Ohio"
+39081,Ohio,Jefferson,91.67463700223998,65325.0,1403,800+ Active Cases per Million,"Jefferson, Ohio"
+39083,Ohio,Knox,24.6942085884,62322.0,396,<400 Active Cases per Million<br>(No Quarantine Required),"Knox, Ohio"
+39085,Ohio,Lake,307.88896537079995,230149.0,1338,800+ Active Cases per Million,"Lake, Ohio"
+39087,Ohio,Lawrence,48.8500765512,59463.0,822,800+ Active Cases per Million,"Lawrence, Ohio"
+39089,Ohio,Licking,300.65888757528,176862.0,1700,800+ Active Cases per Million,"Licking, Ohio"
+39091,Ohio,Logan,23.63595333504,45672.0,518,400-799 Active Cases per Million,"Logan, Ohio"
+39093,Ohio,Lorain,404.92645264824,309833.0,1307,800+ Active Cases per Million,"Lorain, Ohio"
+39095,Ohio,Lucas,773.7318853257601,428348.0,1806,800+ Active Cases per Million,"Lucas, Ohio"
+39097,Ohio,Madison,69.49515771144,44731.0,1554,800+ Active Cases per Million,"Madison, Ohio"
+39099,Ohio,Mahoning,371.3198709408,228683.0,1624,800+ Active Cases per Million,"Mahoning, Ohio"
+39101,Ohio,Marion,53.05444297968,65093.0,815,800+ Active Cases per Million,"Marion, Ohio"
+39103,Ohio,Medina,202.88023253808,179746.0,1129,800+ Active Cases per Million,"Medina, Ohio"
+39105,Ohio,Meigs,2.9731985318399996,22907.0,130,<400 Active Cases per Million<br>(No Quarantine Required),"Meigs, Ohio"
+39107,Ohio,Mercer,45.17578058208001,41172.0,1097,800+ Active Cases per Million,"Mercer, Ohio"
+39109,Ohio,Miami,117.60721975896001,106987.0,1099,800+ Active Cases per Million,"Miami, Ohio"
+39111,Ohio,Monroe,2.7674291512800004,13654.0,203,<400 Active Cases per Million<br>(No Quarantine Required),"Monroe, Ohio"
+39113,Ohio,Montgomery,1345.0976507208004,531687.0,2530,800+ Active Cases per Million,"Montgomery, Ohio"
+39115,Ohio,Morgan,6.449131738559999,14508.0,445,400-799 Active Cases per Million,"Morgan, Ohio"
+39117,Ohio,Morrow,27.2956286556,35328.0,773,400-799 Active Cases per Million,"Morrow, Ohio"
+39119,Ohio,Muskingum,46.090262300160006,86215.0,535,400-799 Active Cases per Million,"Muskingum, Ohio"
+39121,Ohio,Noble,6.143441183279999,14424.0,426,400-799 Active Cases per Million,"Noble, Ohio"
+39123,Ohio,Ottawa,152.52088513223998,40525.0,3764,800+ Active Cases per Million,"Ottawa, Ohio"
+39125,Ohio,Paulding,21.67556147256,18672.0,1161,800+ Active Cases per Million,"Paulding, Ohio"
+39127,Ohio,Perry,32.47609617312,36134.0,899,800+ Active Cases per Million,"Perry, Ohio"
+39129,Ohio,Pickaway,91.37120983631999,58457.0,1563,800+ Active Cases per Million,"Pickaway, Ohio"
+39131,Ohio,Pike,12.034303188719997,27772.0,433,400-799 Active Cases per Million,"Pike, Ohio"
+39133,Ohio,Portage,130.45005806999998,162466.0,803,800+ Active Cases per Million,"Portage, Ohio"
+39135,Ohio,Preble,47.81056383000001,40882.0,1169,800+ Active Cases per Million,"Preble, Ohio"
+39137,Ohio,Putnam,43.33843916424,33861.0,1280,800+ Active Cases per Million,"Putnam, Ohio"
+39139,Ohio,Richland,116.16962810352,121154.0,959,800+ Active Cases per Million,"Richland, Ohio"
+39141,Ohio,Ross,66.97110064152,76666.0,874,800+ Active Cases per Million,"Ross, Ohio"
+39143,Ohio,Sandusky,95.92752139631999,58518.0,1639,800+ Active Cases per Million,"Sandusky, Ohio"
+39145,Ohio,Scioto,72.37542061824,75314.0,961,800+ Active Cases per Million,"Scioto, Ohio"
+39147,Ohio,Seneca,17.11540340472,55178.0,310,<400 Active Cases per Million<br>(No Quarantine Required),"Seneca, Ohio"
+39149,Ohio,Shelby,25.14212625528,48590.0,517,400-799 Active Cases per Million,"Shelby, Ohio"
+39151,Ohio,Stark,298.4860537581599,370606.0,805,800+ Active Cases per Million,"Stark, Ohio"
+39153,Ohio,Summit,628.3327862452801,541013.0,1161,800+ Active Cases per Million,"Summit, Ohio"
+39155,Ohio,Trumbull,281.1238207032,197974.0,1420,800+ Active Cases per Million,"Trumbull, Ohio"
+39157,Ohio,Tuscarawas,166.48857045528,91987.0,1810,800+ Active Cases per Million,"Tuscarawas, Ohio"
+39159,Ohio,Union,73.69211372088,58988.0,1249,800+ Active Cases per Million,"Union, Ohio"
+39161,Ohio,Van Wert,31.113096779280003,28275.0,1100,800+ Active Cases per Million,"Van Wert, Ohio"
+39163,Ohio,Vinton,1.6354456557600001,13085.0,125,<400 Active Cases per Million<br>(No Quarantine Required),"Vinton, Ohio"
+39165,Ohio,Warren,490.50238934759994,234602.0,2091,800+ Active Cases per Million,"Warren, Ohio"
+39167,Ohio,Washington,31.273378630319996,59911.0,522,400-799 Active Cases per Million,"Washington, Ohio"
+39169,Ohio,Wayne,38.80058767511999,115710.0,335,<400 Active Cases per Million<br>(No Quarantine Required),"Wayne, Ohio"
+39171,Ohio,Williams,15.734165761679996,36692.0,429,400-799 Active Cases per Million,"Williams, Ohio"
+39173,Ohio,Wood,192.40153576848,130817.0,1471,800+ Active Cases per Million,"Wood, Ohio"
+39175,Ohio,Wyandot,14.896938579839999,21772.0,684,400-799 Active Cases per Million,"Wyandot, Ohio"
+42001,Pennsylvania,Adams,94.50355854912002,103009.0,917,800+ Active Cases per Million,"Adams, Pennsylvania"
+42003,Pennsylvania,Allegheny,3583.60577897928,1216045.0,2947,800+ Active Cases per Million,"Allegheny, Pennsylvania"
+42005,Pennsylvania,Armstrong,20.83048940952,64735.0,322,<400 Active Cases per Million<br>(No Quarantine Required),"Armstrong, Pennsylvania"
+42007,Pennsylvania,Beaver,276.22669819416,163929.0,1685,800+ Active Cases per Million,"Beaver, Pennsylvania"
+42009,Pennsylvania,Bedford,13.197456491519999,47888.0,276,<400 Active Cases per Million<br>(No Quarantine Required),"Bedford, Pennsylvania"
+42011,Pennsylvania,Berks,260.94461089344,421164.0,620,400-799 Active Cases per Million,"Berks, Pennsylvania"
+42013,Pennsylvania,Blair,46.68735524616,121829.0,383,<400 Active Cases per Million<br>(No Quarantine Required),"Blair, Pennsylvania"
+42015,Pennsylvania,Bradford,3.73252796184,60323.0,62,<400 Active Cases per Million<br>(No Quarantine Required),"Bradford, Pennsylvania"
+42017,Pennsylvania,Bucks,534.2907275008799,628270.0,850,800+ Active Cases per Million,"Bucks, Pennsylvania"
+42019,Pennsylvania,Butler,190.74991187448,187853.0,1015,800+ Active Cases per Million,"Butler, Pennsylvania"
+42021,Pennsylvania,Cambria,76.90211308727999,130192.0,591,400-799 Active Cases per Million,"Cambria, Pennsylvania"
+42023,Pennsylvania,Cameron,0.8717438325599999,4447.0,196,<400 Active Cases per Million<br>(No Quarantine Required),"Cameron, Pennsylvania"
+42025,Pennsylvania,Carbon,31.106740906319995,64182.0,485,400-799 Active Cases per Million,"Carbon, Pennsylvania"
+42027,Pennsylvania,Centre,65.07328019735998,162385.0,401,400-799 Active Cases per Million,"Centre, Pennsylvania"
+42029,Pennsylvania,Chester,498.33796405175997,524989.0,949,800+ Active Cases per Million,"Chester, Pennsylvania"
+42031,Pennsylvania,Clarion,42.445219644720005,38438.0,1104,800+ Active Cases per Million,"Clarion, Pennsylvania"
+42033,Pennsylvania,Clearfield,37.8888942864,79255.0,478,400-799 Active Cases per Million,"Clearfield, Pennsylvania"
+42035,Pennsylvania,Clinton,25.341336958320007,38632.0,656,400-799 Active Cases per Million,"Clinton, Pennsylvania"
+42037,Pennsylvania,Columbia,24.435123831360002,64964.0,376,<400 Active Cases per Million<br>(No Quarantine Required),"Columbia, Pennsylvania"
+42039,Pennsylvania,Crawford,29.24341142808,84629.0,346,<400 Active Cases per Million<br>(No Quarantine Required),"Crawford, Pennsylvania"
+42041,Pennsylvania,Cumberland,156.43027743072,253370.0,617,400-799 Active Cases per Million,"Cumberland, Pennsylvania"
+42043,Pennsylvania,Dauphin,330.4952788749599,278299.0,1188,800+ Active Cases per Million,"Dauphin, Pennsylvania"
+42045,Pennsylvania,Delaware,571.10596168584,566747.0,1008,800+ Active Cases per Million,"Delaware, Pennsylvania"
+42047,Pennsylvania,Elk,20.258676186480002,29910.0,677,400-799 Active Cases per Million,"Elk, Pennsylvania"
+42049,Pennsylvania,Erie,187.50793213416,269728.0,695,400-799 Active Cases per Million,"Erie, Pennsylvania"
+42051,Pennsylvania,Fayette,142.31069803056,129274.0,1101,800+ Active Cases per Million,"Fayette, Pennsylvania"
+42053,Pennsylvania,Forest,0.0,7247.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Forest, Pennsylvania"
+42055,Pennsylvania,Franklin,121.66504187136,155027.0,785,400-799 Active Cases per Million,"Franklin, Pennsylvania"
+42057,Pennsylvania,Fulton,1.5154177123199999,14530.0,104,<400 Active Cases per Million<br>(No Quarantine Required),"Fulton, Pennsylvania"
+42059,Pennsylvania,Greene,48.68597110344,36233.0,1344,800+ Active Cases per Million,"Greene, Pennsylvania"
+42061,Pennsylvania,Huntingdon,15.77040391128,45144.0,349,<400 Active Cases per Million<br>(No Quarantine Required),"Huntingdon, Pennsylvania"
+42063,Pennsylvania,Indiana,114.98951545248,84073.0,1368,800+ Active Cases per Million,"Indiana, Pennsylvania"
+42065,Pennsylvania,Jefferson,24.861004760880004,43425.0,573,400-799 Active Cases per Million,"Jefferson, Pennsylvania"
+42067,Pennsylvania,Juniata,6.20503207872,24763.0,251,<400 Active Cases per Million<br>(No Quarantine Required),"Juniata, Pennsylvania"
+42069,Pennsylvania,Lackawanna,98.45628192960001,209674.0,470,400-799 Active Cases per Million,"Lackawanna, Pennsylvania"
+42071,Pennsylvania,Lancaster,637.1753325050398,545724.0,1168,800+ Active Cases per Million,"Lancaster, Pennsylvania"
+42073,Pennsylvania,Lawrence,153.8110240728,85512.0,1799,800+ Active Cases per Million,"Lawrence, Pennsylvania"
+42075,Pennsylvania,Lebanon,215.08721221655998,141793.0,1517,800+ Active Cases per Million,"Lebanon, Pennsylvania"
+42077,Pennsylvania,Lehigh,299.47364491752006,369318.0,811,800+ Active Cases per Million,"Lehigh, Pennsylvania"
+42079,Pennsylvania,Luzerne,155.05820930424002,317417.0,489,400-799 Active Cases per Million,"Luzerne, Pennsylvania"
+42081,Pennsylvania,Lycoming,76.66604630231998,113299.0,677,400-799 Active Cases per Million,"Lycoming, Pennsylvania"
+42083,Pennsylvania,McKean,2.3809417284,40625.0,59,<400 Active Cases per Million<br>(No Quarantine Required),"McKean, Pennsylvania"
+42085,Pennsylvania,Mercer,76.92508757399999,109424.0,703,400-799 Active Cases per Million,"Mercer, Pennsylvania"
+42087,Pennsylvania,Mifflin,16.778462508,46138.0,364,<400 Active Cases per Million<br>(No Quarantine Required),"Mifflin, Pennsylvania"
+42089,Pennsylvania,Monroe,77.73833624232,170271.0,457,400-799 Active Cases per Million,"Monroe, Pennsylvania"
+42091,Pennsylvania,Montgomery,642.9783046060799,830915.0,774,400-799 Active Cases per Million,"Montgomery, Pennsylvania"
+42093,Pennsylvania,Montour,11.09482119024,18230.0,609,400-799 Active Cases per Million,"Montour, Pennsylvania"
+42095,Pennsylvania,Northampton,190.86802648200003,305285.0,625,400-799 Active Cases per Million,"Northampton, Pennsylvania"
+42097,Pennsylvania,Northumberland,61.350651851280006,90843.0,675,400-799 Active Cases per Million,"Northumberland, Pennsylvania"
+42099,Pennsylvania,Perry,16.78192825896,46272.0,363,<400 Active Cases per Million<br>(No Quarantine Required),"Perry, Pennsylvania"
+42101,Pennsylvania,Philadelphia,2298.8892246710398,1584064.0,1451,800+ Active Cases per Million,"Philadelphia, Pennsylvania"
+42103,Pennsylvania,Pike,14.489487782879998,55809.0,260,<400 Active Cases per Million<br>(No Quarantine Required),"Pike, Pennsylvania"
+42105,Pennsylvania,Potter,3.1199374675200002,16526.0,189,<400 Active Cases per Million<br>(No Quarantine Required),"Potter, Pennsylvania"
+42107,Pennsylvania,Schuylkill,52.43057563656,141359.0,371,<400 Active Cases per Million<br>(No Quarantine Required),"Schuylkill, Pennsylvania"
+42109,Pennsylvania,Snyder,12.394826897759998,40372.0,307,<400 Active Cases per Million<br>(No Quarantine Required),"Snyder, Pennsylvania"
+42111,Pennsylvania,Somerset,41.071657716480004,73447.0,559,400-799 Active Cases per Million,"Somerset, Pennsylvania"
+42113,Pennsylvania,Sullivan,3.5976601384799998,6066.0,593,400-799 Active Cases per Million,"Sullivan, Pennsylvania"
+42115,Pennsylvania,Susquehanna,17.162818775039998,40328.0,426,400-799 Active Cases per Million,"Susquehanna, Pennsylvania"
+42117,Pennsylvania,Tioga,8.17787659344,40591.0,201,<400 Active Cases per Million<br>(No Quarantine Required),"Tioga, Pennsylvania"
+42119,Pennsylvania,Union,23.235853155600005,44923.0,517,400-799 Active Cases per Million,"Union, Pennsylvania"
+42121,Pennsylvania,Venango,41.64301941384,50668.0,822,800+ Active Cases per Million,"Venango, Pennsylvania"
+42123,Pennsylvania,Warren,6.096000861599999,39191.0,156,<400 Active Cases per Million<br>(No Quarantine Required),"Warren, Pennsylvania"
+42125,Pennsylvania,Washington,322.27173566616,206865.0,1558,800+ Active Cases per Million,"Washington, Pennsylvania"
+42127,Pennsylvania,Wayne,2.5265881188000003,51361.0,49,<400 Active Cases per Million<br>(No Quarantine Required),"Wayne, Pennsylvania"
+42129,Pennsylvania,Westmoreland,477.0895138797601,348899.0,1367,800+ Active Cases per Million,"Westmoreland, Pennsylvania"
+42131,Pennsylvania,Wyoming,17.69925757608,26794.0,661,400-799 Active Cases per Million,"Wyoming, Pennsylvania"
+42133,Pennsylvania,York,517.5224693916001,449058.0,1152,800+ Active Cases per Million,"York, Pennsylvania"
+44001,Rhode Island,Bristol,4.2363684012,48479.0,87,<400 Active Cases per Million<br>(No Quarantine Required),"Bristol, Rhode Island"
+44003,Rhode Island,Kent,32.50938986904,164292.0,198,<400 Active Cases per Million<br>(No Quarantine Required),"Kent, Rhode Island"
+44005,Rhode Island,Newport,18.70718377872,82082.0,228,<400 Active Cases per Million<br>(No Quarantine Required),"Newport, Rhode Island"
+44007,Rhode Island,Providence,221.29177483608,638931.0,346,<400 Active Cases per Million<br>(No Quarantine Required),"Providence, Rhode Island"
+44009,Rhode Island,Washington,6.663391741199999,125577.0,53,<400 Active Cases per Million<br>(No Quarantine Required),"Washington, Rhode Island"
+50001,Vermont,Addison,0.14149209912,36777.0,4,<400 Active Cases per Million (VT),"Addison, Vermont"
+50003,Vermont,Bennington,2.6894962946399996,35470.0,76,<400 Active Cases per Million (VT),"Bennington, Vermont"
+50005,Vermont,Caledonia,3.8134005566399996,29993.0,127,<400 Active Cases per Million (VT),"Caledonia, Vermont"
+50007,Vermont,Chittenden,74.8875753336,163774.0,457,400-799 Active Cases per Million (VT),"Chittenden, Vermont"
+50009,Vermont,Essex,2.34486280776,6163.0,380,<400 Active Cases per Million (VT),"Essex, Vermont"
+50011,Vermont,Franklin,3.3301331299199997,49402.0,67,<400 Active Cases per Million (VT),"Franklin, Vermont"
+50013,Vermont,Grand Isle,6.491206763999999,7235.0,897,800+ Active Cases per Million (VT),"Grand Isle, Vermont"
+50015,Vermont,Lamoille,14.00838342648,25362.0,552,400-799 Active Cases per Million (VT),"Lamoille, Vermont"
+50017,Vermont,Orange,0.78333132384,28892.0,27,<400 Active Cases per Million (VT),"Orange, Vermont"
+50019,Vermont,Orleans,0.0489332028,27037.0,2,<400 Active Cases per Million (VT),"Orleans, Vermont"
+50021,Vermont,Rutland,9.90069041328,58191.0,170,<400 Active Cases per Million (VT),"Rutland, Vermont"
+50023,Vermont,Washington,2.6379994972799996,58409.0,45,<400 Active Cases per Million (VT),"Washington, Vermont"
+50025,Vermont,Windham,5.2018495368,42222.0,123,<400 Active Cases per Million (VT),"Windham, Vermont"
+50027,Vermont,Windsor,5.080039756080001,55062.0,92,<400 Active Cases per Million (VT),"Windsor, Vermont"
+51001,Virginia,Accomack,10.298826156239999,32316.0,319,<400 Active Cases per Million<br>(No Quarantine Required),"Accomack, Virginia"
+51003,Virginia,Albemarle,252.63373666752,109330.0,2311,800+ Active Cases per Million,"Albemarle, Virginia"
+51005,Virginia,Alleghany,33.241716336239996,14860.0,2237,800+ Active Cases per Million,"Alleghany, Virginia"
+51007,Virginia,Amelia,15.489358377119997,13145.0,1178,800+ Active Cases per Million,"Amelia, Virginia"
+51009,Virginia,Amherst,6.48238071384,31605.0,205,<400 Active Cases per Million<br>(No Quarantine Required),"Amherst, Virginia"
+51011,Virginia,Appomattox,11.093905580160001,15911.0,697,400-799 Active Cases per Million,"Appomattox, Virginia"
+51013,Virginia,Arlington,286.73808213719997,236842.0,1211,800+ Active Cases per Million,"Arlington, Virginia"
+51015,Virginia,Augusta,41.67999183744,75558.0,552,400-799 Active Cases per Million,"Augusta, Virginia"
+51017,Virginia,Bath,1.2386529064799998,4147.0,299,<400 Active Cases per Million<br>(No Quarantine Required),"Bath, Virginia"
+51019,Virginia,Bedford,77.51964934535998,78997.0,981,800+ Active Cases per Million,"Bedford, Virginia"
+51021,Virginia,Bland,1.7546843642399998,6280.0,279,<400 Active Cases per Million<br>(No Quarantine Required),"Bland, Virginia"
+51023,Virginia,Botetourt,64.60732759512001,33419.0,1933,800+ Active Cases per Million,"Botetourt, Virginia"
+51025,Virginia,Brunswick,68.8218867228,16231.0,4240,800+ Active Cases per Million,"Brunswick, Virginia"
+51027,Virginia,Buchanan,28.69125076152,21004.0,1366,800+ Active Cases per Million,"Buchanan, Virginia"
+51029,Virginia,Buckingham,22.009149941519997,17148.0,1283,800+ Active Cases per Million,"Buckingham, Virginia"
+51031,Virginia,Campbell,42.24624931248001,54885.0,770,400-799 Active Cases per Million,"Campbell, Virginia"
+51033,Virginia,Caroline,32.64432788856,30725.0,1062,800+ Active Cases per Million,"Caroline, Virginia"
+51035,Virginia,Carroll,56.3228544132,29791.0,1891,800+ Active Cases per Million,"Carroll, Virginia"
+51036,Virginia,Charles City,1.68894827184,6963.0,243,<400 Active Cases per Million<br>(No Quarantine Required),"Charles City, Virginia"
+51037,Virginia,Charlotte,10.8565137396,11880.0,914,800+ Active Cases per Million,"Charlotte, Virginia"
+51041,Virginia,Chesterfield,615.2463258083999,352802.0,1744,800+ Active Cases per Million,"Chesterfield, Virginia"
+51043,Virginia,Clarke,12.3015757884,14619.0,841,800+ Active Cases per Million,"Clarke, Virginia"
+51045,Virginia,Craig,2.02435229952,5131.0,395,<400 Active Cases per Million<br>(No Quarantine Required),"Craig, Virginia"
+51047,Virginia,Culpeper,82.00897790807998,52605.0,1559,800+ Active Cases per Million,"Culpeper, Virginia"
+51049,Virginia,Cumberland,10.399737593519998,9932.0,1047,800+ Active Cases per Million,"Cumberland, Virginia"
+51051,Virginia,Dickenson,3.28227945216,14318.0,229,<400 Active Cases per Million<br>(No Quarantine Required),"Dickenson, Virginia"
+51053,Virginia,Dinwiddie,27.49497314328,28544.0,963,800+ Active Cases per Million,"Dinwiddie, Virginia"
+51057,Virginia,Essex,14.00592556656,10953.0,1279,800+ Active Cases per Million,"Essex, Virginia"
+51059,Virginia,Fairfax,1024.4482533878402,1147532.0,893,800+ Active Cases per Million,"Fairfax, Virginia"
+51061,Virginia,Fauquier,111.44010983951998,71222.0,1565,800+ Active Cases per Million,"Fauquier, Virginia"
+51063,Virginia,Floyd,13.810832246639999,15749.0,877,800+ Active Cases per Million,"Floyd, Virginia"
+51065,Virginia,Fluvanna,40.30230297072,27270.0,1478,800+ Active Cases per Million,"Fluvanna, Virginia"
+51067,Virginia,Franklin,45.18227570976,56042.0,806,800+ Active Cases per Million,"Franklin, Virginia"
+51069,Virginia,Frederick,88.98572419944001,89313.0,996,800+ Active Cases per Million,"Frederick, Virginia"
+51071,Virginia,Giles,3.67904494344,16720.0,220,<400 Active Cases per Million<br>(No Quarantine Required),"Giles, Virginia"
+51073,Virginia,Gloucester,48.317788751280005,37348.0,1294,800+ Active Cases per Million,"Gloucester, Virginia"
+51075,Virginia,Goochland,11.881065447359997,23753.0,500,400-799 Active Cases per Million,"Goochland, Virginia"
+51077,Virginia,Grayson,10.573428720719997,15550.0,680,400-799 Active Cases per Million,"Grayson, Virginia"
+51079,Virginia,Greene,31.849691493359998,19819.0,1607,800+ Active Cases per Million,"Greene, Virginia"
+51081,Virginia,Greensville,33.88531892688,11336.0,2989,800+ Active Cases per Million,"Greensville, Virginia"
+51083,Virginia,Halifax,53.09383216944,33911.0,1566,800+ Active Cases per Million,"Halifax, Virginia"
+51085,Virginia,Hanover,86.59968149256001,107766.0,804,800+ Active Cases per Million,"Hanover, Virginia"
+51087,Virginia,Henrico,539.78511642144,330818.0,1632,800+ Active Cases per Million,"Henrico, Virginia"
+51089,Virginia,Henry,142.95280045008002,50557.0,2828,800+ Active Cases per Million,"Henry, Virginia"
+51091,Virginia,Highland,0.0,2190.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Highland, Virginia"
+51093,Virginia,Isle of Wight,89.6214907836,37109.0,2415,800+ Active Cases per Million,"Isle of Wight, Virginia"
+51095,Virginia,James City,180.60331734311998,76523.0,2360,800+ Active Cases per Million,"James City, Virginia"
+51097,Virginia,King and Queen,12.12864591696,7025.0,1726,800+ Active Cases per Million,"King and Queen, Virginia"
+51099,Virginia,King George,7.832420186399998,26836.0,292,<400 Active Cases per Million<br>(No Quarantine Required),"King George, Virginia"
+51101,Virginia,King William,25.271950820159997,17148.0,1474,800+ Active Cases per Million,"King William, Virginia"
+51103,Virginia,Lancaster,19.67240387736,10603.0,1855,800+ Active Cases per Million,"Lancaster, Virginia"
+51105,Virginia,Lee,17.693401808159997,23423.0,755,400-799 Active Cases per Million,"Lee, Virginia"
+51107,Virginia,Loudoun,628.1457998287201,413538.0,1519,800+ Active Cases per Million,"Loudoun, Virginia"
+51109,Virginia,Louisa,23.148464767920004,37591.0,616,400-799 Active Cases per Million,"Louisa, Virginia"
+51111,Virginia,Lunenburg,11.82924658152,12196.0,970,800+ Active Cases per Million,"Lunenburg, Virginia"
+51113,Virginia,Madison,9.3693994392,13261.0,707,400-799 Active Cases per Million,"Madison, Virginia"
+51115,Virginia,Mathews,1.77149506992,8834.0,201,<400 Active Cases per Million<br>(No Quarantine Required),"Mathews, Virginia"
+51117,Virginia,Mecklenburg,32.81471378784,30587.0,1073,800+ Active Cases per Million,"Mecklenburg, Virginia"
+51119,Virginia,Middlesex,3.54878813424,10582.0,335,<400 Active Cases per Million<br>(No Quarantine Required),"Middlesex, Virginia"
+51121,Virginia,Montgomery,86.14689631440001,98535.0,874,800+ Active Cases per Million,"Montgomery, Virginia"
+51125,Virginia,Nelson,9.0538308996,14930.0,606,400-799 Active Cases per Million,"Nelson, Virginia"
+51127,Virginia,New Kent,33.65732847408,23091.0,1458,800+ Active Cases per Million,"New Kent, Virginia"
+51131,Virginia,Northampton,5.425945729439999,11710.0,463,400-799 Active Cases per Million,"Northampton, Virginia"
+51133,Virginia,Northumberland,22.889066450159998,12095.0,1892,800+ Active Cases per Million,"Northumberland, Virginia"
+51135,Virginia,Nottoway,25.64313600528,15232.0,1684,800+ Active Cases per Million,"Nottoway, Virginia"
+51137,Virginia,Orange,27.92061514992,37051.0,754,400-799 Active Cases per Million,"Orange, Virginia"
+51139,Virginia,Page,39.31979764608,23902.0,1645,800+ Active Cases per Million,"Page, Virginia"
+51141,Virginia,Patrick,12.94953906912,17608.0,735,400-799 Active Cases per Million,"Patrick, Virginia"
+51143,Virginia,Pittsylvania,86.87707861848,60354.0,1439,800+ Active Cases per Million,"Pittsylvania, Virginia"
+51145,Virginia,Powhatan,30.537742553759998,29652.0,1030,800+ Active Cases per Million,"Powhatan, Virginia"
+51147,Virginia,Prince Edward,52.661821912799994,22802.0,2310,800+ Active Cases per Million,"Prince Edward, Virginia"
+51149,Virginia,Prince George,45.943226973840005,38353.0,1198,800+ Active Cases per Million,"Prince George, Virginia"
+51153,Virginia,Prince William,812.4727336672798,470335.0,1727,800+ Active Cases per Million,"Prince William, Virginia"
+51155,Virginia,Pulaski,18.21029604,34027.0,535,400-799 Active Cases per Million,"Pulaski, Virginia"
+51157,Virginia,Rappahannock,12.52846867488,7370.0,1700,800+ Active Cases per Million,"Rappahannock, Virginia"
+51159,Virginia,Richmond,16.880266409999997,9023.0,1871,800+ Active Cases per Million,"Richmond, Virginia"
+51161,Virginia,Roanoke,143.68432310760002,94186.0,1526,800+ Active Cases per Million,"Roanoke, Virginia"
+51163,Virginia,Rockbridge,9.70029018408,22573.0,430,400-799 Active Cases per Million,"Rockbridge, Virginia"
+51165,Virginia,Rockingham,124.43902392863998,81948.0,1519,800+ Active Cases per Million,"Rockingham, Virginia"
+51167,Virginia,Russell,25.1634203124,26586.0,946,800+ Active Cases per Million,"Russell, Virginia"
+51169,Virginia,Scott,11.931433101119998,21566.0,553,400-799 Active Cases per Million,"Scott, Virginia"
+51171,Virginia,Shenandoah,58.39012381944001,43616.0,1339,800+ Active Cases per Million,"Shenandoah, Virginia"
+51173,Virginia,Smyth,10.308520898399998,30104.0,342,<400 Active Cases per Million<br>(No Quarantine Required),"Smyth, Virginia"
+51175,Virginia,Southampton,47.38103535743999,17631.0,2687,800+ Active Cases per Million,"Southampton, Virginia"
+51177,Virginia,Spotsylvania,129.51810757008002,136215.0,951,800+ Active Cases per Million,"Spotsylvania, Virginia"
+51179,Virginia,Stafford,133.83341760480002,152882.0,875,800+ Active Cases per Million,"Stafford, Virginia"
+51181,Virginia,Surry,10.468647685679999,6422.0,1630,800+ Active Cases per Million,"Surry, Virginia"
+51183,Virginia,Sussex,21.748739049839998,11159.0,1949,800+ Active Cases per Million,"Sussex, Virginia"
+51185,Virginia,Tazewell,30.16184813328,40595.0,743,400-799 Active Cases per Million,"Tazewell, Virginia"
+51187,Virginia,Warren,41.75819512752001,40164.0,1040,800+ Active Cases per Million,"Warren, Virginia"
+51191,Virginia,Washington,42.105875382719994,53740.0,784,400-799 Active Cases per Million,"Washington, Virginia"
+51193,Virginia,Westmoreland,125.15849579591998,18015.0,6947,800+ Active Cases per Million,"Westmoreland, Virginia"
+51195,Virginia,Wise,33.807840562559996,37383.0,904,800+ Active Cases per Million,"Wise, Virginia"
+51197,Virginia,Wythe,9.544973823119998,28684.0,333,<400 Active Cases per Million<br>(No Quarantine Required),"Wythe, Virginia"
+51199,Virginia,York,102.3161160168,68280.0,1498,800+ Active Cases per Million,"York, Virginia"
+51510,Virginia,Alexandria,193.24126155264,159428.0,1212,800+ Active Cases per Million,"Alexandria, Virginia"
+51520,Virginia,Bristol,15.92869292496,16762.0,950,800+ Active Cases per Million,"Bristol, Virginia"
+51530,Virginia,Buena Vista,13.209880635600001,6478.0,2039,800+ Active Cases per Million,"Buena Vista, Virginia"
+51540,Virginia,Charlottesville,169.08881980008002,47266.0,3577,800+ Active Cases per Million,"Charlottesville, Virginia"
+51550,Virginia,Chesapeake,768.5045664215999,244835.0,3139,800+ Active Cases per Million,"Chesapeake, Virginia"
+51570,Virginia,Colonial Heights,29.09724575208,17370.0,1675,800+ Active Cases per Million,"Colonial Heights, Virginia"
+51580,Virginia,Covington,0.5423026068,5538.0,98,<400 Active Cases per Million<br>(No Quarantine Required),"Covington, Virginia"
+51590,Virginia,Danville,88.6183833552,40044.0,2213,800+ Active Cases per Million,"Danville, Virginia"
+51595,Virginia,Emporia,11.736911185199999,5346.0,2195,800+ Active Cases per Million,"Emporia, Virginia"
+51600,Virginia,Fairfax City,6.702218856959999,24019.0,279,<400 Active Cases per Million<br>(No Quarantine Required),"Fairfax City, Virginia"
+51610,Virginia,Falls Church,0.0,14617.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Falls Church, Virginia"
+51620,Virginia,Franklin City,42.60058758312,7967.0,5347,800+ Active Cases per Million,"Franklin City, Virginia"
+51630,Virginia,Fredericksburg,65.80646531688,29036.0,2266,800+ Active Cases per Million,"Fredericksburg, Virginia"
+51640,Virginia,Galax,43.64766612720001,6347.0,6877,800+ Active Cases per Million,"Galax, Virginia"
+51650,Virginia,Hampton,406.61420635944006,134510.0,3023,800+ Active Cases per Million,"Hampton, Virginia"
+51660,Virginia,Harrisonburg,76.6656912984,53016.0,1446,800+ Active Cases per Million,"Harrisonburg, Virginia"
+51670,Virginia,Hopewell,55.20152948328001,22529.0,2450,800+ Active Cases per Million,"Hopewell, Virginia"
+51678,Virginia,Lexington,14.3584291308,7446.0,1928,800+ Active Cases per Million,"Lexington, Virginia"
+51680,Virginia,Lynchburg,69.3998959116,82168.0,845,800+ Active Cases per Million,"Lynchburg, Virginia"
+51683,Virginia,Manassas,114.82660683,41085.0,2795,800+ Active Cases per Million,"Manassas, Virginia"
+51685,Virginia,Manassas Park,42.48248078543999,17478.0,2431,800+ Active Cases per Million,"Manassas Park, Virginia"
+51690,Virginia,Martinsville,56.05158278256,12554.0,4465,800+ Active Cases per Million,"Martinsville, Virginia"
+51700,Virginia,Newport News,578.9280772788,179225.0,3230,800+ Active Cases per Million,"Newport News, Virginia"
+51710,Virginia,Norfolk,1018.0852173621598,242742.0,4194,800+ Active Cases per Million,"Norfolk, Virginia"
+51720,Virginia,Norton,0.16835849808,3981.0,42,<400 Active Cases per Million<br>(No Quarantine Required),"Norton, Virginia"
+51730,Virginia,Petersburg,118.20678532608001,31346.0,3771,800+ Active Cases per Million,"Petersburg, Virginia"
+51735,Virginia,Poquoson,9.24374323656,12271.0,753,400-799 Active Cases per Million,"Poquoson, Virginia"
+51740,Virginia,Portsmouth,448.54060871424,94398.0,4752,800+ Active Cases per Million,"Portsmouth, Virginia"
+51750,Virginia,Radford,9.01680860616,18249.0,494,400-799 Active Cases per Million,"Radford, Virginia"
+51760,Virginia,Richmond City,404.87024615088006,230436.0,1757,800+ Active Cases per Million,"Richmond City, Virginia"
+51770,Virginia,Roanoke City,278.58252832896,99143.0,2810,800+ Active Cases per Million,"Roanoke City, Virginia"
+51775,Virginia,Salem,53.50709177808,25301.0,2115,800+ Active Cases per Million,"Salem, Virginia"
+51790,Virginia,Staunton,39.79012273896001,24932.0,1596,800+ Active Cases per Million,"Staunton, Virginia"
+51800,Virginia,Suffolk,325.81945521864,92108.0,3537,800+ Active Cases per Million,"Suffolk, Virginia"
+51810,Virginia,Virginia Beach,1266.1958188168799,449974.0,2814,800+ Active Cases per Million,"Virginia Beach, Virginia"
+51820,Virginia,Waynesboro,58.6824608268,22630.0,2593,800+ Active Cases per Million,"Waynesboro, Virginia"
+51830,Virginia,Williamsburg,33.712580259359996,14954.0,2254,800+ Active Cases per Million,"Williamsburg, Virginia"
+51840,Virginia,Winchester,61.686801267599996,28078.0,2197,800+ Active Cases per Million,"Winchester, Virginia"
+54001,West Virginia,Barbour,7.989572972639999,16441.0,486,400-799 Active Cases per Million,"Barbour, West Virginia"
+54003,West Virginia,Berkeley,115.16957263007998,119171.0,966,800+ Active Cases per Million,"Berkeley, West Virginia"
+54005,West Virginia,Boone,27.39990716784,21457.0,1277,800+ Active Cases per Million,"Boone, West Virginia"
+54007,West Virginia,Braxton,3.39029532648,13957.0,243,<400 Active Cases per Million<br>(No Quarantine Required),"Braxton, West Virginia"
+54009,West Virginia,Brooke,32.41028239992,21939.0,1477,800+ Active Cases per Million,"Brooke, West Virginia"
+54011,West Virginia,Cabell,87.1402716984,91945.0,948,800+ Active Cases per Million,"Cabell, West Virginia"
+54013,West Virginia,Calhoun,2.4773058129599996,7109.0,348,<400 Active Cases per Million<br>(No Quarantine Required),"Calhoun, West Virginia"
+54015,West Virginia,Clay,5.17106550096,8508.0,608,400-799 Active Cases per Million,"Clay, West Virginia"
+54017,West Virginia,Doddridge,0.0,8448.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Doddridge, West Virginia"
+54019,West Virginia,Fayette,25.72556040696,42406.0,607,400-799 Active Cases per Million,"Fayette, West Virginia"
+54021,West Virginia,Gilmer,0.65828151912,7823.0,84,<400 Active Cases per Million<br>(No Quarantine Required),"Gilmer, West Virginia"
+54023,West Virginia,Grant,9.13561070184,11568.0,790,400-799 Active Cases per Million,"Grant, West Virginia"
+54025,West Virginia,Greenbrier,15.534488214959996,34662.0,448,400-799 Active Cases per Million,"Greenbrier, West Virginia"
+54027,West Virginia,Hampshire,5.477878936799999,23175.0,236,<400 Active Cases per Million<br>(No Quarantine Required),"Hampshire, West Virginia"
+54029,West Virginia,Hancock,33.4609647804,28810.0,1161,800+ Active Cases per Million,"Hancock, West Virginia"
+54031,West Virginia,Hardy,4.46041779024,13776.0,324,<400 Active Cases per Million<br>(No Quarantine Required),"Hardy, West Virginia"
+54033,West Virginia,Harrison,90.67075299024,67256.0,1348,800+ Active Cases per Million,"Harrison, West Virginia"
+54035,West Virginia,Jackson,5.61814624056,28576.0,197,<400 Active Cases per Million<br>(No Quarantine Required),"Jackson, West Virginia"
+54037,West Virginia,Jefferson,34.84899940056,57146.0,610,400-799 Active Cases per Million,"Jefferson, West Virginia"
+54039,West Virginia,Kanawha,172.75890146807998,178124.0,970,800+ Active Cases per Million,"Kanawha, West Virginia"
+54041,West Virginia,Lewis,7.614929633759997,15907.0,479,400-799 Active Cases per Million,"Lewis, West Virginia"
+54043,West Virginia,Lincoln,1.07586320112,20409.0,53,<400 Active Cases per Million<br>(No Quarantine Required),"Lincoln, West Virginia"
+54045,West Virginia,Logan,22.39600254864,32019.0,699,400-799 Active Cases per Million,"Logan, West Virginia"
+54047,West Virginia,McDowell,10.05693096048,17624.0,571,400-799 Active Cases per Million,"McDowell, West Virginia"
+54049,West Virginia,Marion,66.78298692815999,56072.0,1191,800+ Active Cases per Million,"Marion, West Virginia"
+54051,West Virginia,Marshall,42.795166231439985,30531.0,1402,800+ Active Cases per Million,"Marshall, West Virginia"
+54053,West Virginia,Mason,11.978298177359997,26516.0,452,400-799 Active Cases per Million,"Mason, West Virginia"
+54055,West Virginia,Mercer,25.522392903839997,58758.0,434,400-799 Active Cases per Million,"Mercer, West Virginia"
+54057,West Virginia,Mineral,23.163801539279998,26868.0,862,800+ Active Cases per Million,"Mineral, West Virginia"
+54059,West Virginia,Mingo,15.243142601039999,23424.0,651,400-799 Active Cases per Million,"Mingo, West Virginia"
+54061,West Virginia,Monongalia,632.1815777354399,105612.0,5986,800+ Active Cases per Million,"Monongalia, West Virginia"
+54063,West Virginia,Monroe,2.00880622176,13275.0,151,<400 Active Cases per Million<br>(No Quarantine Required),"Monroe, West Virginia"
+54065,West Virginia,Morgan,0.0489332028,17884.0,3,<400 Active Cases per Million<br>(No Quarantine Required),"Morgan, West Virginia"
+54067,West Virginia,Nicholas,12.23538384888,24496.0,499,400-799 Active Cases per Million,"Nicholas, West Virginia"
+54069,West Virginia,Ohio,79.15486548504002,41411.0,1911,800+ Active Cases per Million,"Ohio, West Virginia"
+54071,West Virginia,Pendleton,6.5872886390400005,6969.0,945,800+ Active Cases per Million,"Pendleton, West Virginia"
+54073,West Virginia,Pleasants,0.0,7460.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Pleasants, West Virginia"
+54075,West Virginia,Pocahontas,12.5287874736,8247.0,1519,800+ Active Cases per Million,"Pocahontas, West Virginia"
+54077,West Virginia,Preston,43.01967162816,33432.0,1287,800+ Active Cases per Million,"Preston, West Virginia"
+54079,West Virginia,Putnam,48.66275463096,56450.0,862,800+ Active Cases per Million,"Putnam, West Virginia"
+54081,West Virginia,Raleigh,49.62789874823999,73361.0,676,400-799 Active Cases per Million,"Raleigh, West Virginia"
+54083,West Virginia,Randolph,43.41533218848,28695.0,1513,800+ Active Cases per Million,"Randolph, West Virginia"
+54085,West Virginia,Ritchie,0.0,9554.0,0,<400 Active Cases per Million<br>(No Quarantine Required),"Ritchie, West Virginia"
+54087,West Virginia,Roane,1.40995802712,13688.0,103,<400 Active Cases per Million<br>(No Quarantine Required),"Roane, West Virginia"
+54089,West Virginia,Summers,0.24321108696,12573.0,19,<400 Active Cases per Million<br>(No Quarantine Required),"Summers, West Virginia"
+54091,West Virginia,Taylor,9.71871383376,16695.0,582,400-799 Active Cases per Million,"Taylor, West Virginia"
+54093,West Virginia,Tucker,2.50070931936,6839.0,366,<400 Active Cases per Million<br>(No Quarantine Required),"Tucker, West Virginia"
+54095,West Virginia,Tyler,8.59055238168,8591.0,1000,800+ Active Cases per Million,"Tyler, West Virginia"
+54097,West Virginia,Upshur,25.669870202400002,24176.0,1062,800+ Active Cases per Million,"Upshur, West Virginia"
+54099,West Virginia,Wayne,25.21962362424,39402.0,640,400-799 Active Cases per Million,"Wayne, West Virginia"
+54101,West Virginia,Webster,0.5796128990399999,8114.0,71,<400 Active Cases per Million<br>(No Quarantine Required),"Webster, West Virginia"
+54103,West Virginia,Wetzel,37.025418252239994,15065.0,2458,800+ Active Cases per Million,"Wetzel, West Virginia"
+54105,West Virginia,Wirt,2.55184298328,5821.0,438,400-799 Active Cases per Million,"Wirt, West Virginia"
+54107,West Virginia,Wood,135.57778598712,83518.0,1623,800+ Active Cases per Million,"Wood, West Virginia"
+54109,West Virginia,Wyoming,0.08971598256,20394.0,4,<400 Active Cases per Million<br>(No Quarantine Required),"Wyoming, West Virginia"
