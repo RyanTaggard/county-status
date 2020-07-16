@@ -1,522 +1,522 @@
-FIPS,State,County,Active Cases,Population,Active Cases per Million,Status,Full Name
-09001,Connecticut,Fairfield,380.22718202784,943332.0,403,2,"Fairfield, Connecticut"
-09003,Connecticut,Hartford,420.44209509432005,891720.0,471,2,"Hartford, Connecticut"
-09005,Connecticut,Litchfield,29.371183464479998,180333.0,163,1,"Litchfield, Connecticut"
-09007,Connecticut,Middlesex,56.08390374575999,162436.0,345,1,"Middlesex, Connecticut"
-09009,Connecticut,New Haven,411.23335466232004,854757.0,481,2,"New Haven, Connecticut"
-09011,Connecticut,New London,95.45365284239999,265206.0,360,1,"New London, Connecticut"
-09013,Connecticut,Tolland,34.24875805704,150721.0,227,1,"Tolland, Connecticut"
-09015,Connecticut,Windham,46.56954665519999,116782.0,399,1,"Windham, Connecticut"
-10001,Delaware,Kent,242.37771912935995,180786.0,1341,3,"Kent, Delaware"
-10003,Delaware,New Castle,1027.98120681912,558753.0,1840,3,"New Castle, Delaware"
-10005,Delaware,Sussex,531.02594920656,234225.0,2267,3,"Sussex, Delaware"
-11001,District of Columbia,District of Columbia,927.6718154920801,705749.0,1314,3,"District of Columbia, District of Columbia"
-23001,Maine,Androscoggin,23.970011025599998,108277.0,221,1,"Androscoggin, Maine"
-23003,Maine,Aroostook,4.0780885224,67055.0,61,1,"Aroostook, Maine"
-23005,Maine,Cumberland,248.39879400431997,295003.0,842,3,"Cumberland, Maine"
-23007,Maine,Franklin,1.23399954864,30199.0,41,1,"Franklin, Maine"
-23009,Maine,Hancock,1.89813431112,54987.0,35,1,"Hancock, Maine"
-23011,Maine,Kennebec,3.99856485672,122302.0,33,1,"Kennebec, Maine"
-23013,Maine,Knox,0.57505472376,39772.0,14,1,"Knox, Maine"
-23015,Maine,Lincoln,2.9940378436799997,34634.0,86,1,"Lincoln, Maine"
-23017,Maine,Oxford,10.6991012868,57975.0,185,1,"Oxford, Maine"
-23019,Maine,Penobscot,18.33242589168,152148.0,120,1,"Penobscot, Maine"
-23021,Maine,Piscataquis,2.47482686904,16785.0,147,1,"Piscataquis, Maine"
-23023,Maine,Sagadahoc,0.39224898335999997,35856.0,11,1,"Sagadahoc, Maine"
-23025,Maine,Somerset,3.15738105864,50484.0,63,1,"Somerset, Maine"
-23027,Maine,Waldo,3.8746302335999996,39715.0,98,1,"Waldo, Maine"
-23029,Maine,Washington,0.35373086928,31379.0,11,1,"Washington, Maine"
-23031,Maine,York,82.77538859735999,207641.0,399,1,"York, Maine"
-24001,Maryland,Allegany,24.980353331039996,70416.0,355,1,"Allegany, Maryland"
-24003,Maryland,Anne Arundel,773.52399080592,579234.0,1335,3,"Anne Arundel, Maryland"
-24005,Maryland,Baltimore,1544.4828508293601,827370.0,1867,3,"Baltimore, Maryland"
-24009,Maryland,Calvert,74.68936473672,92525.0,807,3,"Calvert, Maryland"
-24011,Maryland,Caroline,50.472266455440014,33406.0,1511,3,"Caroline, Maryland"
-24013,Maryland,Carroll,134.86445937815998,168447.0,801,3,"Carroll, Maryland"
-24015,Maryland,Cecil,69.32302793448,102855.0,674,2,"Cecil, Maryland"
-24017,Maryland,Charles,200.64158899152002,163257.0,1229,3,"Charles, Maryland"
-24019,Maryland,Dorchester,44.124726161999995,31929.0,1382,3,"Dorchester, Maryland"
-24021,Maryland,Frederick,188.76235515936,259547.0,727,2,"Frederick, Maryland"
-24023,Maryland,Garrett,25.359282101039998,29014.0,874,3,"Garrett, Maryland"
-24025,Maryland,Harford,277.45434451848,255441.0,1086,3,"Harford, Maryland"
-24027,Maryland,Howard,507.26666705160005,325690.0,1558,3,"Howard, Maryland"
-24029,Maryland,Kent,7.503907122720001,19422.0,386,1,"Kent, Maryland"
-24031,Maryland,Montgomery,1598.4937375823997,1050688.0,1521,3,"Montgomery, Maryland"
-24033,Maryland,Prince George's,2020.3355668471197,909327.0,2222,3,"Prince George's, Maryland"
-24035,Maryland,Queen Anne's,97.82555452871999,50381.0,1942,3,"Queen Anne's, Maryland"
-24037,Maryland,St. Mary's,141.77405387856,113510.0,1249,3,"St. Mary's, Maryland"
-24039,Maryland,Somerset,26.689761165840004,25616.0,1042,3,"Somerset, Maryland"
-24041,Maryland,Talbot,95.81949449423999,37181.0,2577,3,"Talbot, Maryland"
-24043,Maryland,Washington,97.34993931960001,151049.0,644,2,"Washington, Maryland"
-24045,Maryland,Wicomico,139.48482921168,103609.0,1346,3,"Wicomico, Maryland"
-24047,Maryland,Worcester,71.09237391768,52276.0,1360,3,"Worcester, Maryland"
-24510,Maryland,Baltimore City,1713.6913792437604,593490.0,2887,3,"Baltimore City, Maryland"
-25001,Massachusetts,Barnstable,67.39882005216,212990.0,316,1,"Barnstable, Massachusetts"
-25003,Massachusetts,Berkshire,26.18385301416,124944.0,210,1,"Berkshire, Massachusetts"
-25005,Massachusetts,Bristol,458.90558140895985,565217.0,812,3,"Bristol, Massachusetts"
-25007,Massachusetts,Dukes,0.0,17332.0,0,1,"Dukes, Massachusetts"
-25009,Massachusetts,Essex,600.0703776516,789034.0,761,2,"Essex, Massachusetts"
-25011,Massachusetts,Franklin,20.744698956000004,70180.0,296,1,"Franklin, Massachusetts"
-25013,Massachusetts,Hampden,389.2896492170401,466372.0,835,3,"Hampden, Massachusetts"
-25015,Massachusetts,Hampshire,66.48638701272,160830.0,413,2,"Hampshire, Massachusetts"
-25017,Massachusetts,Middlesex,954.7630042401601,1611699.0,592,2,"Middlesex, Massachusetts"
-25019,Massachusetts,Nantucket,0.0,11399.0,0,1,"Nantucket, Massachusetts"
-25021,Massachusetts,Norfolk,540.2681733564,706775.0,764,2,"Norfolk, Massachusetts"
-25023,Massachusetts,Plymouth,204.23115289416,521202.0,392,1,"Plymouth, Massachusetts"
-25025,Massachusetts,Suffolk,807.7812739459199,803907.0,1005,3,"Suffolk, Massachusetts"
-25027,Massachusetts,Worcester,495.75459771408,830622.0,597,2,"Worcester, Massachusetts"
-33001,New Hampshire,Belknap,16.41370788024,61303.0,268,1,"Belknap, New Hampshire"
-33003,New Hampshire,Carroll,14.492293670639999,48910.0,296,1,"Carroll, New Hampshire"
-33005,New Hampshire,Cheshire,9.99556448016,76085.0,131,1,"Cheshire, New Hampshire"
-33007,New Hampshire,Coos,5.8851605916,31563.0,186,1,"Coos, New Hampshire"
-33009,New Hampshire,Grafton,14.830372413599997,89886.0,165,1,"Grafton, New Hampshire"
-33011,New Hampshire,Hillsborough,246.17171040143995,417025.0,590,2,"Hillsborough, New Hampshire"
-33013,New Hampshire,Merrimack,32.64937363992,151391.0,216,1,"Merrimack, New Hampshire"
-33015,New Hampshire,Rockingham,83.31261585143999,309769.0,269,1,"Rockingham, New Hampshire"
-33017,New Hampshire,Strafford,25.619917668959996,130633.0,196,1,"Strafford, New Hampshire"
-33019,New Hampshire,Sullivan,7.67259756192,43146.0,178,1,"Sullivan, New Hampshire"
-34001,New Jersey,Atlantic,272.5774982620799,263670.0,1034,3,"Atlantic, New Jersey"
-34003,New Jersey,Bergen,649.66360828344,932202.0,697,2,"Bergen, New Jersey"
-34005,New Jersey,Burlington,344.4663910535999,445349.0,773,2,"Burlington, New Jersey"
-34007,New Jersey,Camden,568.8696521983201,506471.0,1123,3,"Camden, New Jersey"
-34009,New Jersey,Cape May,47.48800612704001,92039.0,516,2,"Cape May, New Jersey"
-34011,New Jersey,Cumberland,136.46814291384,149527.0,913,3,"Cumberland, New Jersey"
-34013,New Jersey,Essex,432.0529236523201,798975.0,541,2,"Essex, New Jersey"
-34015,New Jersey,Gloucester,306.44261542079994,291636.0,1051,3,"Gloucester, New Jersey"
-34017,New Jersey,Hudson,425.66761769159996,672391.0,633,2,"Hudson, New Jersey"
-34019,New Jersey,Hunterdon,19.776512568239998,124371.0,159,1,"Hunterdon, New Jersey"
-34021,New Jersey,Mercer,196.68315683543997,367430.0,535,2,"Mercer, New Jersey"
-34023,New Jersey,Middlesex,412.66627871087996,825062.0,500,2,"Middlesex, New Jersey"
-34025,New Jersey,Monmouth,563.31192858864,618795.0,910,3,"Monmouth, New Jersey"
-34027,New Jersey,Morris,232.73933752991996,491845.0,473,2,"Morris, New Jersey"
-34029,New Jersey,Ocean,381.98598384144003,607186.0,629,2,"Ocean, New Jersey"
-34031,New Jersey,Passaic,335.35269485327996,501826.0,668,2,"Passaic, New Jersey"
-34033,New Jersey,Salem,50.87153377583999,62385.0,815,3,"Salem, New Jersey"
-34035,New Jersey,Somerset,234.28073379671997,328934.0,712,2,"Somerset, New Jersey"
-34037,New Jersey,Sussex,47.39407725192,140488.0,337,1,"Sussex, New Jersey"
-34039,New Jersey,Union,238.53388823208002,556341.0,429,2,"Union, New Jersey"
-34041,New Jersey,Warren,36.10448673432,105267.0,343,1,"Warren, New Jersey"
-36001,New York,Albany,209.44415827007998,305506.0,686,2,"Albany, New York"
-36003,New York,Allegany,12.005551446239998,46091.0,260,1,"Allegany, New York"
-36005,New York,Bronx,1114.28987477784,1418207.0,786,2,"Bronx, New York"
-36007,New York,Broome,193.62335965440005,190488.0,1016,3,"Broome, New York"
-36009,New York,Cattaraugus,23.578098676319996,76117.0,310,1,"Cattaraugus, New York"
-36011,New York,Cayuga,14.746835425919999,76576.0,193,1,"Cayuga, New York"
-36013,New York,Chautauqua,87.25654146816001,126903.0,688,2,"Chautauqua, New York"
-36015,New York,Chemung,7.985106396720001,83456.0,96,1,"Chemung, New York"
-36017,New York,Chenango,34.70288170656,47207.0,735,2,"Chenango, New York"
-36019,New York,Clinton,12.93065857056,80485.0,161,1,"Clinton, New York"
-36021,New York,Columbia,30.97142449488,59461.0,521,2,"Columbia, New York"
-36023,New York,Cortland,15.815152930559998,47581.0,332,1,"Cortland, New York"
-36025,New York,Delaware,2.26904290848,44135.0,51,1,"Delaware, New York"
-36027,New York,Dutchess,190.04988548568,294218.0,646,2,"Dutchess, New York"
-36029,New York,Erie,770.35992284328,918702.0,839,3,"Erie, New York"
-36031,New York,Essex,7.75509349248,36885.0,210,1,"Essex, New York"
-36033,New York,Franklin,7.277376061679999,50022.0,145,1,"Franklin, New York"
-36035,New York,Fulton,13.8256199448,53383.0,259,1,"Fulton, New York"
-36037,New York,Genesee,24.751976751599997,57280.0,432,2,"Genesee, New York"
-36039,New York,Greene,10.678763669759999,47188.0,226,1,"Greene, New York"
-36041,New York,Hamilton,0.0,4416.0,0,1,"Hamilton, New York"
-36043,New York,Herkimer,47.23731455544,61319.0,770,2,"Herkimer, New York"
-36045,New York,Jefferson,17.3873988276,109834.0,158,1,"Jefferson, New York"
-36047,New York,Kings,1751.6192371550399,2559903.0,684,2,"Kings, New York"
-36049,New York,Lewis,4.66499060616,26296.0,177,1,"Lewis, New York"
-36051,New York,Livingston,35.14869484344,62914.0,559,2,"Livingston, New York"
-36053,New York,Madison,27.229711115520004,70941.0,384,1,"Madison, New York"
-36055,New York,Monroe,666.0622994484,741770.0,898,3,"Monroe, New York"
-36057,New York,Montgomery,44.487951366240004,49221.0,904,3,"Montgomery, New York"
-36059,New York,Nassau,890.0713287511202,1356924.0,656,2,"Nassau, New York"
-36061,New York,New York,1173.9840327288,1628706.0,721,2,"New York, New York"
-36063,New York,Niagara,147.5383853676,209281.0,705,2,"Niagara, New York"
-36065,New York,Oneida,289.08505834464,228671.0,1264,3,"Oneida, New York"
-36067,New York,Onondaga,483.88516787808,460528.0,1051,3,"Onondaga, New York"
-36069,New York,Ontario,62.903747095199996,109777.0,573,2,"Ontario, New York"
-36071,New York,Orange,166.47270452880005,384940.0,432,2,"Orange, New York"
-36073,New York,Orleans,9.899157042959997,40352.0,245,1,"Orleans, New York"
-36075,New York,Oswego,43.57522504392,117124.0,372,1,"Oswego, New York"
-36077,New York,Otsego,9.43213967688,59493.0,159,1,"Otsego, New York"
-36079,New York,Putnam,83.24600563055999,98320.0,847,3,"Putnam, New York"
-36081,New York,Queens,1688.2712832458399,2253858.0,749,2,"Queens, New York"
-36083,New York,Rensselaer,119.61010134791998,158714.0,754,2,"Rensselaer, New York"
-36085,New York,Richmond,342.62076570504,476143.0,720,2,"Richmond, New York"
-36087,New York,Rockland,196.28138277432004,325789.0,602,2,"Rockland, New York"
-36089,New York,St. Lawrence,19.38092007696,107740.0,180,1,"St. Lawrence, New York"
-36091,New York,Saratoga,99.92893523064001,229863.0,435,2,"Saratoga, New York"
-36093,New York,Schenectady,119.74459204824001,155299.0,771,2,"Schenectady, New York"
-36095,New York,Schoharie,5.492055510479998,30999.0,177,1,"Schoharie, New York"
-36097,New York,Schuyler,4.11572626968,17807.0,231,1,"Schuyler, New York"
-36099,New York,Seneca,6.72684715752,34016.0,198,1,"Seneca, New York"
-36101,New York,Steuben,18.756322046639998,95379.0,197,1,"Steuben, New York"
-36103,New York,Suffolk,1250.4819231540002,1476601.0,847,3,"Suffolk, New York"
-36105,New York,Sullivan,20.164283316240002,75432.0,267,1,"Sullivan, New York"
-36107,New York,Tioga,25.205474178,48203.0,523,2,"Tioga, New York"
-36109,New York,Tompkins,14.735627211119999,102180.0,144,1,"Tompkins, New York"
-36111,New York,Ulster,103.80811866648001,177573.0,585,2,"Ulster, New York"
-36113,New York,Warren,22.658163108240004,63944.0,354,1,"Warren, New York"
-36115,New York,Washington,6.825950428079999,61204.0,112,1,"Washington, New York"
-36117,New York,Wayne,64.59085412112002,89918.0,718,2,"Wayne, New York"
-36119,New York,Westchester,721.26545335752,967506.0,745,2,"Westchester, New York"
-36121,New York,Wyoming,12.469649987039999,39859.0,313,1,"Wyoming, New York"
-36123,New York,Yates,4.55927342088,24913.0,183,1,"Yates, New York"
-39001,Ohio,Adams,10.94188628784,27698.0,395,1,"Adams, Ohio"
-39003,Ohio,Allen,162.20648844576002,102351.0,1585,3,"Allen, Ohio"
-39005,Ohio,Ashland,45.261418914480004,53484.0,846,3,"Ashland, Ohio"
-39007,Ohio,Ashtabula,43.68883240872001,97241.0,449,2,"Ashtabula, Ohio"
-39009,Ohio,Athens,281.48981961912,65327.0,4309,3,"Athens, Ohio"
-39011,Ohio,Auglaize,16.340688952559997,45656.0,358,1,"Auglaize, Ohio"
-39013,Ohio,Belmont,55.9113364236,67006.0,834,3,"Belmont, Ohio"
-39015,Ohio,Brown,12.22975481904,43432.0,282,1,"Brown, Ohio"
-39017,Ohio,Butler,764.05306732824,383134.0,1994,3,"Butler, Ohio"
-39019,Ohio,Carroll,28.85342281968,26914.0,1072,3,"Carroll, Ohio"
-39021,Ohio,Champaign,37.72368051672,38885.0,970,3,"Champaign, Ohio"
-39023,Ohio,Clark,161.86381430016004,134083.0,1207,3,"Clark, Ohio"
-39025,Ohio,Clermont,282.68886480863995,206428.0,1369,3,"Clermont, Ohio"
-39027,Ohio,Clinton,50.43476637936,41968.0,1202,3,"Clinton, Ohio"
-39029,Ohio,Columbiana,290.26581133224,101883.0,2849,3,"Columbiana, Ohio"
-39031,Ohio,Coshocton,100.28798790239999,36600.0,2740,3,"Coshocton, Ohio"
-39033,Ohio,Crawford,11.0485463088,41494.0,266,1,"Crawford, Ohio"
-39035,Ohio,Cuyahoga,3706.36459950696,1235072.0,3001,3,"Cuyahoga, Ohio"
-39037,Ohio,Darke,30.85992484632,51113.0,604,2,"Darke, Ohio"
-39039,Ohio,Defiance,13.058391404159998,38087.0,343,1,"Defiance, Ohio"
-39041,Ohio,Delaware,438.45528044568005,209177.0,2096,3,"Delaware, Ohio"
-39043,Ohio,Erie,135.89170476696,74266.0,1830,3,"Erie, Ohio"
-39045,Ohio,Fairfield,406.30454815535995,157574.0,2578,3,"Fairfield, Ohio"
-39047,Ohio,Fayette,20.4239193888,28525.0,716,2,"Fayette, Ohio"
-39049,Ohio,Franklin,4955.548738203119,1316756.0,3763,3,"Franklin, Ohio"
-39051,Ohio,Fulton,21.085321668,42126.0,501,2,"Fulton, Ohio"
-39053,Ohio,Gallia,9.07714373976,29898.0,304,1,"Gallia, Ohio"
-39055,Ohio,Geauga,70.33257638736,93649.0,751,2,"Geauga, Ohio"
-39057,Ohio,Greene,250.67637779351995,168937.0,1484,3,"Greene, Ohio"
-39059,Ohio,Guernsey,28.720711882559996,38875.0,739,2,"Guernsey, Ohio"
-39061,Ohio,Hamilton,2897.0088408024,817473.0,3544,3,"Hamilton, Ohio"
-39063,Ohio,Hancock,29.310789088799996,75783.0,387,1,"Hancock, Ohio"
-39065,Ohio,Hardin,13.013077862399998,31365.0,415,2,"Hardin, Ohio"
-39067,Ohio,Harrison,1.8022243682399997,15040.0,120,1,"Harrison, Ohio"
-39069,Ohio,Henry,17.75938167888,27006.0,658,2,"Henry, Ohio"
-39071,Ohio,Highland,27.86266193664,43161.0,646,2,"Highland, Ohio"
-39073,Ohio,Hocking,13.4368113468,28264.0,475,2,"Hocking, Ohio"
-39075,Ohio,Holmes,80.87752847952,43960.0,1840,3,"Holmes, Ohio"
-39077,Ohio,Huron,125.26702888535996,58266.0,2150,3,"Huron, Ohio"
-39079,Ohio,Jackson,19.820160773279998,32413.0,611,2,"Jackson, Ohio"
-39081,Ohio,Jefferson,91.67463700223998,65325.0,1403,3,"Jefferson, Ohio"
-39083,Ohio,Knox,24.6942085884,62322.0,396,1,"Knox, Ohio"
-39085,Ohio,Lake,307.88896537079995,230149.0,1338,3,"Lake, Ohio"
-39087,Ohio,Lawrence,48.8500765512,59463.0,822,3,"Lawrence, Ohio"
-39089,Ohio,Licking,300.65888757528,176862.0,1700,3,"Licking, Ohio"
-39091,Ohio,Logan,23.63595333504,45672.0,518,2,"Logan, Ohio"
-39093,Ohio,Lorain,404.92645264824,309833.0,1307,3,"Lorain, Ohio"
-39095,Ohio,Lucas,773.7318853257601,428348.0,1806,3,"Lucas, Ohio"
-39097,Ohio,Madison,69.49515771144,44731.0,1554,3,"Madison, Ohio"
-39099,Ohio,Mahoning,371.3198709408,228683.0,1624,3,"Mahoning, Ohio"
-39101,Ohio,Marion,53.05444297968,65093.0,815,3,"Marion, Ohio"
-39103,Ohio,Medina,202.88023253808,179746.0,1129,3,"Medina, Ohio"
-39105,Ohio,Meigs,2.9731985318399996,22907.0,130,1,"Meigs, Ohio"
-39107,Ohio,Mercer,45.17578058208001,41172.0,1097,3,"Mercer, Ohio"
-39109,Ohio,Miami,117.60721975896001,106987.0,1099,3,"Miami, Ohio"
-39111,Ohio,Monroe,2.7674291512800004,13654.0,203,1,"Monroe, Ohio"
-39113,Ohio,Montgomery,1345.0976507208004,531687.0,2530,3,"Montgomery, Ohio"
-39115,Ohio,Morgan,6.449131738559999,14508.0,445,2,"Morgan, Ohio"
-39117,Ohio,Morrow,27.2956286556,35328.0,773,2,"Morrow, Ohio"
-39119,Ohio,Muskingum,46.090262300160006,86215.0,535,2,"Muskingum, Ohio"
-39121,Ohio,Noble,6.143441183279999,14424.0,426,2,"Noble, Ohio"
-39123,Ohio,Ottawa,152.52088513223998,40525.0,3764,3,"Ottawa, Ohio"
-39125,Ohio,Paulding,21.67556147256,18672.0,1161,3,"Paulding, Ohio"
-39127,Ohio,Perry,32.47609617312,36134.0,899,3,"Perry, Ohio"
-39129,Ohio,Pickaway,91.37120983631999,58457.0,1563,3,"Pickaway, Ohio"
-39131,Ohio,Pike,12.034303188719997,27772.0,433,2,"Pike, Ohio"
-39133,Ohio,Portage,130.45005806999998,162466.0,803,3,"Portage, Ohio"
-39135,Ohio,Preble,47.81056383000001,40882.0,1169,3,"Preble, Ohio"
-39137,Ohio,Putnam,43.33843916424,33861.0,1280,3,"Putnam, Ohio"
-39139,Ohio,Richland,116.16962810352,121154.0,959,3,"Richland, Ohio"
-39141,Ohio,Ross,66.97110064152,76666.0,874,3,"Ross, Ohio"
-39143,Ohio,Sandusky,95.92752139631999,58518.0,1639,3,"Sandusky, Ohio"
-39145,Ohio,Scioto,72.37542061824,75314.0,961,3,"Scioto, Ohio"
-39147,Ohio,Seneca,17.11540340472,55178.0,310,1,"Seneca, Ohio"
-39149,Ohio,Shelby,25.14212625528,48590.0,517,2,"Shelby, Ohio"
-39151,Ohio,Stark,298.4860537581599,370606.0,805,3,"Stark, Ohio"
-39153,Ohio,Summit,628.3327862452801,541013.0,1161,3,"Summit, Ohio"
-39155,Ohio,Trumbull,281.1238207032,197974.0,1420,3,"Trumbull, Ohio"
-39157,Ohio,Tuscarawas,166.48857045528,91987.0,1810,3,"Tuscarawas, Ohio"
-39159,Ohio,Union,73.69211372088,58988.0,1249,3,"Union, Ohio"
-39161,Ohio,Van Wert,31.113096779280003,28275.0,1100,3,"Van Wert, Ohio"
-39163,Ohio,Vinton,1.6354456557600001,13085.0,125,1,"Vinton, Ohio"
-39165,Ohio,Warren,490.50238934759994,234602.0,2091,3,"Warren, Ohio"
-39167,Ohio,Washington,31.273378630319996,59911.0,522,2,"Washington, Ohio"
-39169,Ohio,Wayne,38.80058767511999,115710.0,335,1,"Wayne, Ohio"
-39171,Ohio,Williams,15.734165761679996,36692.0,429,2,"Williams, Ohio"
-39173,Ohio,Wood,192.40153576848,130817.0,1471,3,"Wood, Ohio"
-39175,Ohio,Wyandot,14.896938579839999,21772.0,684,2,"Wyandot, Ohio"
-42001,Pennsylvania,Adams,94.50355854912002,103009.0,917,3,"Adams, Pennsylvania"
-42003,Pennsylvania,Allegheny,3583.60577897928,1216045.0,2947,3,"Allegheny, Pennsylvania"
-42005,Pennsylvania,Armstrong,20.83048940952,64735.0,322,1,"Armstrong, Pennsylvania"
-42007,Pennsylvania,Beaver,276.22669819416,163929.0,1685,3,"Beaver, Pennsylvania"
-42009,Pennsylvania,Bedford,13.197456491519999,47888.0,276,1,"Bedford, Pennsylvania"
-42011,Pennsylvania,Berks,260.94461089344,421164.0,620,2,"Berks, Pennsylvania"
-42013,Pennsylvania,Blair,46.68735524616,121829.0,383,1,"Blair, Pennsylvania"
-42015,Pennsylvania,Bradford,3.73252796184,60323.0,62,1,"Bradford, Pennsylvania"
-42017,Pennsylvania,Bucks,534.2907275008799,628270.0,850,3,"Bucks, Pennsylvania"
-42019,Pennsylvania,Butler,190.74991187448,187853.0,1015,3,"Butler, Pennsylvania"
-42021,Pennsylvania,Cambria,76.90211308727999,130192.0,591,2,"Cambria, Pennsylvania"
-42023,Pennsylvania,Cameron,0.8717438325599999,4447.0,196,1,"Cameron, Pennsylvania"
-42025,Pennsylvania,Carbon,31.106740906319995,64182.0,485,2,"Carbon, Pennsylvania"
-42027,Pennsylvania,Centre,65.07328019735998,162385.0,401,2,"Centre, Pennsylvania"
-42029,Pennsylvania,Chester,498.33796405175997,524989.0,949,3,"Chester, Pennsylvania"
-42031,Pennsylvania,Clarion,42.445219644720005,38438.0,1104,3,"Clarion, Pennsylvania"
-42033,Pennsylvania,Clearfield,37.8888942864,79255.0,478,2,"Clearfield, Pennsylvania"
-42035,Pennsylvania,Clinton,25.341336958320007,38632.0,656,2,"Clinton, Pennsylvania"
-42037,Pennsylvania,Columbia,24.435123831360002,64964.0,376,1,"Columbia, Pennsylvania"
-42039,Pennsylvania,Crawford,29.24341142808,84629.0,346,1,"Crawford, Pennsylvania"
-42041,Pennsylvania,Cumberland,156.43027743072,253370.0,617,2,"Cumberland, Pennsylvania"
-42043,Pennsylvania,Dauphin,330.4952788749599,278299.0,1188,3,"Dauphin, Pennsylvania"
-42045,Pennsylvania,Delaware,571.10596168584,566747.0,1008,3,"Delaware, Pennsylvania"
-42047,Pennsylvania,Elk,20.258676186480002,29910.0,677,2,"Elk, Pennsylvania"
-42049,Pennsylvania,Erie,187.50793213416,269728.0,695,2,"Erie, Pennsylvania"
-42051,Pennsylvania,Fayette,142.31069803056,129274.0,1101,3,"Fayette, Pennsylvania"
-42053,Pennsylvania,Forest,0.0,7247.0,0,1,"Forest, Pennsylvania"
-42055,Pennsylvania,Franklin,121.66504187136,155027.0,785,2,"Franklin, Pennsylvania"
-42057,Pennsylvania,Fulton,1.5154177123199999,14530.0,104,1,"Fulton, Pennsylvania"
-42059,Pennsylvania,Greene,48.68597110344,36233.0,1344,3,"Greene, Pennsylvania"
-42061,Pennsylvania,Huntingdon,15.77040391128,45144.0,349,1,"Huntingdon, Pennsylvania"
-42063,Pennsylvania,Indiana,114.98951545248,84073.0,1368,3,"Indiana, Pennsylvania"
-42065,Pennsylvania,Jefferson,24.861004760880004,43425.0,573,2,"Jefferson, Pennsylvania"
-42067,Pennsylvania,Juniata,6.20503207872,24763.0,251,1,"Juniata, Pennsylvania"
-42069,Pennsylvania,Lackawanna,98.45628192960001,209674.0,470,2,"Lackawanna, Pennsylvania"
-42071,Pennsylvania,Lancaster,637.1753325050398,545724.0,1168,3,"Lancaster, Pennsylvania"
-42073,Pennsylvania,Lawrence,153.8110240728,85512.0,1799,3,"Lawrence, Pennsylvania"
-42075,Pennsylvania,Lebanon,215.08721221655998,141793.0,1517,3,"Lebanon, Pennsylvania"
-42077,Pennsylvania,Lehigh,299.47364491752006,369318.0,811,3,"Lehigh, Pennsylvania"
-42079,Pennsylvania,Luzerne,155.05820930424002,317417.0,489,2,"Luzerne, Pennsylvania"
-42081,Pennsylvania,Lycoming,76.66604630231998,113299.0,677,2,"Lycoming, Pennsylvania"
-42083,Pennsylvania,McKean,2.3809417284,40625.0,59,1,"McKean, Pennsylvania"
-42085,Pennsylvania,Mercer,76.92508757399999,109424.0,703,2,"Mercer, Pennsylvania"
-42087,Pennsylvania,Mifflin,16.778462508,46138.0,364,1,"Mifflin, Pennsylvania"
-42089,Pennsylvania,Monroe,77.73833624232,170271.0,457,2,"Monroe, Pennsylvania"
-42091,Pennsylvania,Montgomery,642.9783046060799,830915.0,774,2,"Montgomery, Pennsylvania"
-42093,Pennsylvania,Montour,11.09482119024,18230.0,609,2,"Montour, Pennsylvania"
-42095,Pennsylvania,Northampton,190.86802648200003,305285.0,625,2,"Northampton, Pennsylvania"
-42097,Pennsylvania,Northumberland,61.350651851280006,90843.0,675,2,"Northumberland, Pennsylvania"
-42099,Pennsylvania,Perry,16.78192825896,46272.0,363,1,"Perry, Pennsylvania"
-42101,Pennsylvania,Philadelphia,2298.8892246710398,1584064.0,1451,3,"Philadelphia, Pennsylvania"
-42103,Pennsylvania,Pike,14.489487782879998,55809.0,260,1,"Pike, Pennsylvania"
-42105,Pennsylvania,Potter,3.1199374675200002,16526.0,189,1,"Potter, Pennsylvania"
-42107,Pennsylvania,Schuylkill,52.43057563656,141359.0,371,1,"Schuylkill, Pennsylvania"
-42109,Pennsylvania,Snyder,12.394826897759998,40372.0,307,1,"Snyder, Pennsylvania"
-42111,Pennsylvania,Somerset,41.071657716480004,73447.0,559,2,"Somerset, Pennsylvania"
-42113,Pennsylvania,Sullivan,3.5976601384799998,6066.0,593,2,"Sullivan, Pennsylvania"
-42115,Pennsylvania,Susquehanna,17.162818775039998,40328.0,426,2,"Susquehanna, Pennsylvania"
-42117,Pennsylvania,Tioga,8.17787659344,40591.0,201,1,"Tioga, Pennsylvania"
-42119,Pennsylvania,Union,23.235853155600005,44923.0,517,2,"Union, Pennsylvania"
-42121,Pennsylvania,Venango,41.64301941384,50668.0,822,3,"Venango, Pennsylvania"
-42123,Pennsylvania,Warren,6.096000861599999,39191.0,156,1,"Warren, Pennsylvania"
-42125,Pennsylvania,Washington,322.27173566616,206865.0,1558,3,"Washington, Pennsylvania"
-42127,Pennsylvania,Wayne,2.5265881188000003,51361.0,49,1,"Wayne, Pennsylvania"
-42129,Pennsylvania,Westmoreland,477.0895138797601,348899.0,1367,3,"Westmoreland, Pennsylvania"
-42131,Pennsylvania,Wyoming,17.69925757608,26794.0,661,2,"Wyoming, Pennsylvania"
-42133,Pennsylvania,York,517.5224693916001,449058.0,1152,3,"York, Pennsylvania"
-44001,Rhode Island,Bristol,4.2363684012,48479.0,87,1,"Bristol, Rhode Island"
-44003,Rhode Island,Kent,32.50938986904,164292.0,198,1,"Kent, Rhode Island"
-44005,Rhode Island,Newport,18.70718377872,82082.0,228,1,"Newport, Rhode Island"
-44007,Rhode Island,Providence,221.29177483608,638931.0,346,1,"Providence, Rhode Island"
-44009,Rhode Island,Washington,6.663391741199999,125577.0,53,1,"Washington, Rhode Island"
-50001,Vermont,Addison,0.14149209912,36777.0,4,4,"Addison, Vermont"
-50003,Vermont,Bennington,2.6894962946399996,35470.0,76,4,"Bennington, Vermont"
-50005,Vermont,Caledonia,3.8134005566399996,29993.0,127,4,"Caledonia, Vermont"
-50007,Vermont,Chittenden,74.8875753336,163774.0,457,5,"Chittenden, Vermont"
-50009,Vermont,Essex,2.34486280776,6163.0,380,4,"Essex, Vermont"
-50011,Vermont,Franklin,3.3301331299199997,49402.0,67,4,"Franklin, Vermont"
-50013,Vermont,Grand Isle,6.491206763999999,7235.0,897,6,"Grand Isle, Vermont"
-50015,Vermont,Lamoille,14.00838342648,25362.0,552,5,"Lamoille, Vermont"
-50017,Vermont,Orange,0.78333132384,28892.0,27,4,"Orange, Vermont"
-50019,Vermont,Orleans,0.0489332028,27037.0,2,4,"Orleans, Vermont"
-50021,Vermont,Rutland,9.90069041328,58191.0,170,4,"Rutland, Vermont"
-50023,Vermont,Washington,2.6379994972799996,58409.0,45,4,"Washington, Vermont"
-50025,Vermont,Windham,5.2018495368,42222.0,123,4,"Windham, Vermont"
-50027,Vermont,Windsor,5.080039756080001,55062.0,92,4,"Windsor, Vermont"
-51001,Virginia,Accomack,10.298826156239999,32316.0,319,1,"Accomack, Virginia"
-51003,Virginia,Albemarle,252.63373666752,109330.0,2311,3,"Albemarle, Virginia"
-51005,Virginia,Alleghany,33.241716336239996,14860.0,2237,3,"Alleghany, Virginia"
-51007,Virginia,Amelia,15.489358377119997,13145.0,1178,3,"Amelia, Virginia"
-51009,Virginia,Amherst,6.48238071384,31605.0,205,1,"Amherst, Virginia"
-51011,Virginia,Appomattox,11.093905580160001,15911.0,697,2,"Appomattox, Virginia"
-51013,Virginia,Arlington,286.73808213719997,236842.0,1211,3,"Arlington, Virginia"
-51015,Virginia,Augusta,41.67999183744,75558.0,552,2,"Augusta, Virginia"
-51017,Virginia,Bath,1.2386529064799998,4147.0,299,1,"Bath, Virginia"
-51019,Virginia,Bedford,77.51964934535998,78997.0,981,3,"Bedford, Virginia"
-51021,Virginia,Bland,1.7546843642399998,6280.0,279,1,"Bland, Virginia"
-51023,Virginia,Botetourt,64.60732759512001,33419.0,1933,3,"Botetourt, Virginia"
-51025,Virginia,Brunswick,68.8218867228,16231.0,4240,3,"Brunswick, Virginia"
-51027,Virginia,Buchanan,28.69125076152,21004.0,1366,3,"Buchanan, Virginia"
-51029,Virginia,Buckingham,22.009149941519997,17148.0,1283,3,"Buckingham, Virginia"
-51031,Virginia,Campbell,42.24624931248001,54885.0,770,2,"Campbell, Virginia"
-51033,Virginia,Caroline,32.64432788856,30725.0,1062,3,"Caroline, Virginia"
-51035,Virginia,Carroll,56.3228544132,29791.0,1891,3,"Carroll, Virginia"
-51036,Virginia,Charles City,1.68894827184,6963.0,243,1,"Charles City, Virginia"
-51037,Virginia,Charlotte,10.8565137396,11880.0,914,3,"Charlotte, Virginia"
-51041,Virginia,Chesterfield,615.2463258083999,352802.0,1744,3,"Chesterfield, Virginia"
-51043,Virginia,Clarke,12.3015757884,14619.0,841,3,"Clarke, Virginia"
-51045,Virginia,Craig,2.02435229952,5131.0,395,1,"Craig, Virginia"
-51047,Virginia,Culpeper,82.00897790807998,52605.0,1559,3,"Culpeper, Virginia"
-51049,Virginia,Cumberland,10.399737593519998,9932.0,1047,3,"Cumberland, Virginia"
-51051,Virginia,Dickenson,3.28227945216,14318.0,229,1,"Dickenson, Virginia"
-51053,Virginia,Dinwiddie,27.49497314328,28544.0,963,3,"Dinwiddie, Virginia"
-51057,Virginia,Essex,14.00592556656,10953.0,1279,3,"Essex, Virginia"
-51059,Virginia,Fairfax,1024.4482533878402,1147532.0,893,3,"Fairfax, Virginia"
-51061,Virginia,Fauquier,111.44010983951998,71222.0,1565,3,"Fauquier, Virginia"
-51063,Virginia,Floyd,13.810832246639999,15749.0,877,3,"Floyd, Virginia"
-51065,Virginia,Fluvanna,40.30230297072,27270.0,1478,3,"Fluvanna, Virginia"
-51067,Virginia,Franklin,45.18227570976,56042.0,806,3,"Franklin, Virginia"
-51069,Virginia,Frederick,88.98572419944001,89313.0,996,3,"Frederick, Virginia"
-51071,Virginia,Giles,3.67904494344,16720.0,220,1,"Giles, Virginia"
-51073,Virginia,Gloucester,48.317788751280005,37348.0,1294,3,"Gloucester, Virginia"
-51075,Virginia,Goochland,11.881065447359997,23753.0,500,2,"Goochland, Virginia"
-51077,Virginia,Grayson,10.573428720719997,15550.0,680,2,"Grayson, Virginia"
-51079,Virginia,Greene,31.849691493359998,19819.0,1607,3,"Greene, Virginia"
-51081,Virginia,Greensville,33.88531892688,11336.0,2989,3,"Greensville, Virginia"
-51083,Virginia,Halifax,53.09383216944,33911.0,1566,3,"Halifax, Virginia"
-51085,Virginia,Hanover,86.59968149256001,107766.0,804,3,"Hanover, Virginia"
-51087,Virginia,Henrico,539.78511642144,330818.0,1632,3,"Henrico, Virginia"
-51089,Virginia,Henry,142.95280045008002,50557.0,2828,3,"Henry, Virginia"
-51091,Virginia,Highland,0.0,2190.0,0,1,"Highland, Virginia"
-51093,Virginia,Isle of Wight,89.6214907836,37109.0,2415,3,"Isle of Wight, Virginia"
-51095,Virginia,James City,180.60331734311998,76523.0,2360,3,"James City, Virginia"
-51097,Virginia,King and Queen,12.12864591696,7025.0,1726,3,"King and Queen, Virginia"
-51099,Virginia,King George,7.832420186399998,26836.0,292,1,"King George, Virginia"
-51101,Virginia,King William,25.271950820159997,17148.0,1474,3,"King William, Virginia"
-51103,Virginia,Lancaster,19.67240387736,10603.0,1855,3,"Lancaster, Virginia"
-51105,Virginia,Lee,17.693401808159997,23423.0,755,2,"Lee, Virginia"
-51107,Virginia,Loudoun,628.1457998287201,413538.0,1519,3,"Loudoun, Virginia"
-51109,Virginia,Louisa,23.148464767920004,37591.0,616,2,"Louisa, Virginia"
-51111,Virginia,Lunenburg,11.82924658152,12196.0,970,3,"Lunenburg, Virginia"
-51113,Virginia,Madison,9.3693994392,13261.0,707,2,"Madison, Virginia"
-51115,Virginia,Mathews,1.77149506992,8834.0,201,1,"Mathews, Virginia"
-51117,Virginia,Mecklenburg,32.81471378784,30587.0,1073,3,"Mecklenburg, Virginia"
-51119,Virginia,Middlesex,3.54878813424,10582.0,335,1,"Middlesex, Virginia"
-51121,Virginia,Montgomery,86.14689631440001,98535.0,874,3,"Montgomery, Virginia"
-51125,Virginia,Nelson,9.0538308996,14930.0,606,2,"Nelson, Virginia"
-51127,Virginia,New Kent,33.65732847408,23091.0,1458,3,"New Kent, Virginia"
-51131,Virginia,Northampton,5.425945729439999,11710.0,463,2,"Northampton, Virginia"
-51133,Virginia,Northumberland,22.889066450159998,12095.0,1892,3,"Northumberland, Virginia"
-51135,Virginia,Nottoway,25.64313600528,15232.0,1684,3,"Nottoway, Virginia"
-51137,Virginia,Orange,27.92061514992,37051.0,754,2,"Orange, Virginia"
-51139,Virginia,Page,39.31979764608,23902.0,1645,3,"Page, Virginia"
-51141,Virginia,Patrick,12.94953906912,17608.0,735,2,"Patrick, Virginia"
-51143,Virginia,Pittsylvania,86.87707861848,60354.0,1439,3,"Pittsylvania, Virginia"
-51145,Virginia,Powhatan,30.537742553759998,29652.0,1030,3,"Powhatan, Virginia"
-51147,Virginia,Prince Edward,52.661821912799994,22802.0,2310,3,"Prince Edward, Virginia"
-51149,Virginia,Prince George,45.943226973840005,38353.0,1198,3,"Prince George, Virginia"
-51153,Virginia,Prince William,812.4727336672798,470335.0,1727,3,"Prince William, Virginia"
-51155,Virginia,Pulaski,18.21029604,34027.0,535,2,"Pulaski, Virginia"
-51157,Virginia,Rappahannock,12.52846867488,7370.0,1700,3,"Rappahannock, Virginia"
-51159,Virginia,Richmond,16.880266409999997,9023.0,1871,3,"Richmond, Virginia"
-51161,Virginia,Roanoke,143.68432310760002,94186.0,1526,3,"Roanoke, Virginia"
-51163,Virginia,Rockbridge,9.70029018408,22573.0,430,2,"Rockbridge, Virginia"
-51165,Virginia,Rockingham,124.43902392863998,81948.0,1519,3,"Rockingham, Virginia"
-51167,Virginia,Russell,25.1634203124,26586.0,946,3,"Russell, Virginia"
-51169,Virginia,Scott,11.931433101119998,21566.0,553,2,"Scott, Virginia"
-51171,Virginia,Shenandoah,58.39012381944001,43616.0,1339,3,"Shenandoah, Virginia"
-51173,Virginia,Smyth,10.308520898399998,30104.0,342,1,"Smyth, Virginia"
-51175,Virginia,Southampton,47.38103535743999,17631.0,2687,3,"Southampton, Virginia"
-51177,Virginia,Spotsylvania,129.51810757008002,136215.0,951,3,"Spotsylvania, Virginia"
-51179,Virginia,Stafford,133.83341760480002,152882.0,875,3,"Stafford, Virginia"
-51181,Virginia,Surry,10.468647685679999,6422.0,1630,3,"Surry, Virginia"
-51183,Virginia,Sussex,21.748739049839998,11159.0,1949,3,"Sussex, Virginia"
-51185,Virginia,Tazewell,30.16184813328,40595.0,743,2,"Tazewell, Virginia"
-51187,Virginia,Warren,41.75819512752001,40164.0,1040,3,"Warren, Virginia"
-51191,Virginia,Washington,42.105875382719994,53740.0,784,2,"Washington, Virginia"
-51193,Virginia,Westmoreland,125.15849579591998,18015.0,6947,3,"Westmoreland, Virginia"
-51195,Virginia,Wise,33.807840562559996,37383.0,904,3,"Wise, Virginia"
-51197,Virginia,Wythe,9.544973823119998,28684.0,333,1,"Wythe, Virginia"
-51199,Virginia,York,102.3161160168,68280.0,1498,3,"York, Virginia"
-51510,Virginia,Alexandria,193.24126155264,159428.0,1212,3,"Alexandria, Virginia"
-51520,Virginia,Bristol,15.92869292496,16762.0,950,3,"Bristol, Virginia"
-51530,Virginia,Buena Vista,13.209880635600001,6478.0,2039,3,"Buena Vista, Virginia"
-51540,Virginia,Charlottesville,169.08881980008002,47266.0,3577,3,"Charlottesville, Virginia"
-51550,Virginia,Chesapeake,768.5045664215999,244835.0,3139,3,"Chesapeake, Virginia"
-51570,Virginia,Colonial Heights,29.09724575208,17370.0,1675,3,"Colonial Heights, Virginia"
-51580,Virginia,Covington,0.5423026068,5538.0,98,1,"Covington, Virginia"
-51590,Virginia,Danville,88.6183833552,40044.0,2213,3,"Danville, Virginia"
-51595,Virginia,Emporia,11.736911185199999,5346.0,2195,3,"Emporia, Virginia"
-51600,Virginia,Fairfax City,6.702218856959999,24019.0,279,1,"Fairfax City, Virginia"
-51610,Virginia,Falls Church,0.0,14617.0,0,1,"Falls Church, Virginia"
-51620,Virginia,Franklin City,42.60058758312,7967.0,5347,3,"Franklin City, Virginia"
-51630,Virginia,Fredericksburg,65.80646531688,29036.0,2266,3,"Fredericksburg, Virginia"
-51640,Virginia,Galax,43.64766612720001,6347.0,6877,3,"Galax, Virginia"
-51650,Virginia,Hampton,406.61420635944006,134510.0,3023,3,"Hampton, Virginia"
-51660,Virginia,Harrisonburg,76.6656912984,53016.0,1446,3,"Harrisonburg, Virginia"
-51670,Virginia,Hopewell,55.20152948328001,22529.0,2450,3,"Hopewell, Virginia"
-51678,Virginia,Lexington,14.3584291308,7446.0,1928,3,"Lexington, Virginia"
-51680,Virginia,Lynchburg,69.3998959116,82168.0,845,3,"Lynchburg, Virginia"
-51683,Virginia,Manassas,114.82660683,41085.0,2795,3,"Manassas, Virginia"
-51685,Virginia,Manassas Park,42.48248078543999,17478.0,2431,3,"Manassas Park, Virginia"
-51690,Virginia,Martinsville,56.05158278256,12554.0,4465,3,"Martinsville, Virginia"
-51700,Virginia,Newport News,578.9280772788,179225.0,3230,3,"Newport News, Virginia"
-51710,Virginia,Norfolk,1018.0852173621598,242742.0,4194,3,"Norfolk, Virginia"
-51720,Virginia,Norton,0.16835849808,3981.0,42,1,"Norton, Virginia"
-51730,Virginia,Petersburg,118.20678532608001,31346.0,3771,3,"Petersburg, Virginia"
-51735,Virginia,Poquoson,9.24374323656,12271.0,753,2,"Poquoson, Virginia"
-51740,Virginia,Portsmouth,448.54060871424,94398.0,4752,3,"Portsmouth, Virginia"
-51750,Virginia,Radford,9.01680860616,18249.0,494,2,"Radford, Virginia"
-51760,Virginia,Richmond City,404.87024615088006,230436.0,1757,3,"Richmond City, Virginia"
-51770,Virginia,Roanoke City,278.58252832896,99143.0,2810,3,"Roanoke City, Virginia"
-51775,Virginia,Salem,53.50709177808,25301.0,2115,3,"Salem, Virginia"
-51790,Virginia,Staunton,39.79012273896001,24932.0,1596,3,"Staunton, Virginia"
-51800,Virginia,Suffolk,325.81945521864,92108.0,3537,3,"Suffolk, Virginia"
-51810,Virginia,Virginia Beach,1266.1958188168799,449974.0,2814,3,"Virginia Beach, Virginia"
-51820,Virginia,Waynesboro,58.6824608268,22630.0,2593,3,"Waynesboro, Virginia"
-51830,Virginia,Williamsburg,33.712580259359996,14954.0,2254,3,"Williamsburg, Virginia"
-51840,Virginia,Winchester,61.686801267599996,28078.0,2197,3,"Winchester, Virginia"
-54001,West Virginia,Barbour,7.989572972639999,16441.0,486,2,"Barbour, West Virginia"
-54003,West Virginia,Berkeley,115.16957263007998,119171.0,966,3,"Berkeley, West Virginia"
-54005,West Virginia,Boone,27.39990716784,21457.0,1277,3,"Boone, West Virginia"
-54007,West Virginia,Braxton,3.39029532648,13957.0,243,1,"Braxton, West Virginia"
-54009,West Virginia,Brooke,32.41028239992,21939.0,1477,3,"Brooke, West Virginia"
-54011,West Virginia,Cabell,87.1402716984,91945.0,948,3,"Cabell, West Virginia"
-54013,West Virginia,Calhoun,2.4773058129599996,7109.0,348,1,"Calhoun, West Virginia"
-54015,West Virginia,Clay,5.17106550096,8508.0,608,2,"Clay, West Virginia"
-54017,West Virginia,Doddridge,0.0,8448.0,0,1,"Doddridge, West Virginia"
-54019,West Virginia,Fayette,25.72556040696,42406.0,607,2,"Fayette, West Virginia"
-54021,West Virginia,Gilmer,0.65828151912,7823.0,84,1,"Gilmer, West Virginia"
-54023,West Virginia,Grant,9.13561070184,11568.0,790,2,"Grant, West Virginia"
-54025,West Virginia,Greenbrier,15.534488214959996,34662.0,448,2,"Greenbrier, West Virginia"
-54027,West Virginia,Hampshire,5.477878936799999,23175.0,236,1,"Hampshire, West Virginia"
-54029,West Virginia,Hancock,33.4609647804,28810.0,1161,3,"Hancock, West Virginia"
-54031,West Virginia,Hardy,4.46041779024,13776.0,324,1,"Hardy, West Virginia"
-54033,West Virginia,Harrison,90.67075299024,67256.0,1348,3,"Harrison, West Virginia"
-54035,West Virginia,Jackson,5.61814624056,28576.0,197,1,"Jackson, West Virginia"
-54037,West Virginia,Jefferson,34.84899940056,57146.0,610,2,"Jefferson, West Virginia"
-54039,West Virginia,Kanawha,172.75890146807998,178124.0,970,3,"Kanawha, West Virginia"
-54041,West Virginia,Lewis,7.614929633759997,15907.0,479,2,"Lewis, West Virginia"
-54043,West Virginia,Lincoln,1.07586320112,20409.0,53,1,"Lincoln, West Virginia"
-54045,West Virginia,Logan,22.39600254864,32019.0,699,2,"Logan, West Virginia"
-54047,West Virginia,McDowell,10.05693096048,17624.0,571,2,"McDowell, West Virginia"
-54049,West Virginia,Marion,66.78298692815999,56072.0,1191,3,"Marion, West Virginia"
-54051,West Virginia,Marshall,42.795166231439985,30531.0,1402,3,"Marshall, West Virginia"
-54053,West Virginia,Mason,11.978298177359997,26516.0,452,2,"Mason, West Virginia"
-54055,West Virginia,Mercer,25.522392903839997,58758.0,434,2,"Mercer, West Virginia"
-54057,West Virginia,Mineral,23.163801539279998,26868.0,862,3,"Mineral, West Virginia"
-54059,West Virginia,Mingo,15.243142601039999,23424.0,651,2,"Mingo, West Virginia"
-54061,West Virginia,Monongalia,632.1815777354399,105612.0,5986,3,"Monongalia, West Virginia"
-54063,West Virginia,Monroe,2.00880622176,13275.0,151,1,"Monroe, West Virginia"
-54065,West Virginia,Morgan,0.0489332028,17884.0,3,1,"Morgan, West Virginia"
-54067,West Virginia,Nicholas,12.23538384888,24496.0,499,2,"Nicholas, West Virginia"
-54069,West Virginia,Ohio,79.15486548504002,41411.0,1911,3,"Ohio, West Virginia"
-54071,West Virginia,Pendleton,6.5872886390400005,6969.0,945,3,"Pendleton, West Virginia"
-54073,West Virginia,Pleasants,0.0,7460.0,0,1,"Pleasants, West Virginia"
-54075,West Virginia,Pocahontas,12.5287874736,8247.0,1519,3,"Pocahontas, West Virginia"
-54077,West Virginia,Preston,43.01967162816,33432.0,1287,3,"Preston, West Virginia"
-54079,West Virginia,Putnam,48.66275463096,56450.0,862,3,"Putnam, West Virginia"
-54081,West Virginia,Raleigh,49.62789874823999,73361.0,676,2,"Raleigh, West Virginia"
-54083,West Virginia,Randolph,43.41533218848,28695.0,1513,3,"Randolph, West Virginia"
-54085,West Virginia,Ritchie,0.0,9554.0,0,1,"Ritchie, West Virginia"
-54087,West Virginia,Roane,1.40995802712,13688.0,103,1,"Roane, West Virginia"
-54089,West Virginia,Summers,0.24321108696,12573.0,19,1,"Summers, West Virginia"
-54091,West Virginia,Taylor,9.71871383376,16695.0,582,2,"Taylor, West Virginia"
-54093,West Virginia,Tucker,2.50070931936,6839.0,366,1,"Tucker, West Virginia"
-54095,West Virginia,Tyler,8.59055238168,8591.0,1000,3,"Tyler, West Virginia"
-54097,West Virginia,Upshur,25.669870202400002,24176.0,1062,3,"Upshur, West Virginia"
-54099,West Virginia,Wayne,25.21962362424,39402.0,640,2,"Wayne, West Virginia"
-54101,West Virginia,Webster,0.5796128990399999,8114.0,71,1,"Webster, West Virginia"
-54103,West Virginia,Wetzel,37.025418252239994,15065.0,2458,3,"Wetzel, West Virginia"
-54105,West Virginia,Wirt,2.55184298328,5821.0,438,2,"Wirt, West Virginia"
-54107,West Virginia,Wood,135.57778598712,83518.0,1623,3,"Wood, West Virginia"
-54109,West Virginia,Wyoming,0.08971598256,20394.0,4,1,"Wyoming, West Virginia"
+FIPS,State,County,Active Cases Last Week,Active Cases,Population,Active Cases per Million,Status,Full Name,Percent Change
+09001,Connecticut,Fairfield,454.05239353727995,411.4014044445599,943332.0,436,400-799 Active Cases per Million,"Fairfield, Connecticut",-9.4%
+09003,Connecticut,Hartford,501.1373862816,439.09426774872003,891720.0,492,400-799 Active Cases per Million,"Hartford, Connecticut",-12.4%
+09005,Connecticut,Litchfield,56.628678746640006,37.30400996352,180333.0,207,<400 Active Cases per Million,"Litchfield, Connecticut",-34.1%
+09007,Connecticut,Middlesex,85.5545812272,60.73567036488,162436.0,374,<400 Active Cases per Million,"Middlesex, Connecticut",-29.0%
+09009,Connecticut,New Haven,361.85155046975996,425.35960676256,854757.0,498,400-799 Active Cases per Million,"New Haven, Connecticut",+17.6%
+09011,Connecticut,New London,114.87601054680003,95.81121340991999,265206.0,361,<400 Active Cases per Million,"New London, Connecticut",-16.6%
+09013,Connecticut,Tolland,37.740842538,34.95510849384,150721.0,232,<400 Active Cases per Million,"Tolland, Connecticut",-7.4%
+09015,Connecticut,Windham,62.572415787839994,43.037935806,116782.0,369,<400 Active Cases per Million,"Windham, Connecticut",-31.2%
+10001,Delaware,Kent,233.85052473743994,238.94215988663998,180786.0,1322,800+ Active Cases per Million,"Kent, Delaware",+2.2%
+10003,Delaware,New Castle,1193.3803903293597,1006.91431554408,558753.0,1802,800+ Active Cases per Million,"New Castle, Delaware",-15.6%
+10005,Delaware,Sussex,644.3034714506401,517.78415144952,234225.0,2211,800+ Active Cases per Million,"Sussex, Delaware",-19.6%
+11001,District of Columbia,District of Columbia,796.58109985656,1009.3498185439199,705749.0,1430,800+ Active Cases per Million,"District of Columbia, District of Columbia",+26.7%
+23001,Maine,Androscoggin,50.587545083760006,29.97712593888,108277.0,277,<400 Active Cases per Million,"Androscoggin, Maine",-40.7%
+23003,Maine,Aroostook,4.682673547679999,1.2839738584799998,67055.0,19,<400 Active Cases per Million,"Aroostook, Maine",-72.6%*
+23005,Maine,Cumberland,295.61245508712,226.6348211736,295003.0,768,400-799 Active Cases per Million,"Cumberland, Maine",-23.3%
+23007,Maine,Franklin,1.07955302928,0.8896171015200004,30199.0,29,<400 Active Cases per Million,"Franklin, Maine",-17.6%*
+23009,Maine,Hancock,4.647165918,1.61333054064,54987.0,29,<400 Active Cases per Million,"Hancock, Maine",-65.3%*
+23011,Maine,Kennebec,6.96389888976,3.6272796544799997,122302.0,30,<400 Active Cases per Million,"Kennebec, Maine",-47.9%*
+23013,Maine,Knox,1.54845189936,0.46611387072,39772.0,12,<400 Active Cases per Million,"Knox, Maine",-69.9%*
+23015,Maine,Lincoln,4.0109011502400005,2.5643224982399997,34634.0,74,<400 Active Cases per Million,"Lincoln, Maine",-36.1%*
+23017,Maine,Oxford,11.887198025519998,14.132341200720003,57975.0,244,<400 Active Cases per Million,"Oxford, Maine",+18.9%*
+23019,Maine,Penobscot,23.413302664800003,18.25144803048,152148.0,120,<400 Active Cases per Million,"Penobscot, Maine",-22.0%*
+23021,Maine,Piscataquis,2.59316746608,0.0,16785.0,0,<400 Active Cases per Million,"Piscataquis, Maine",-100.0%*
+23023,Maine,Sagadahoc,1.7202485481599998,0.29478302111999993,35856.0,8,<400 Active Cases per Million,"Sagadahoc, Maine",-82.9%*
+23025,Maine,Somerset,4.45677070728,2.70144342984,50484.0,54,<400 Active Cases per Million,"Somerset, Maine",-39.4%*
+23027,Maine,Waldo,5.28153250896,5.738157717599999,39715.0,144,<400 Active Cases per Million,"Waldo, Maine",+8.6%*
+23029,Maine,Washington,5.86507718736,2.4845095754399997,31379.0,79,<400 Active Cases per Million,"Washington, Maine",-57.6%*
+23031,Maine,York,97.44207316919999,72.38776718568,207641.0,349,<400 Active Cases per Million,"York, Maine",-25.7%
+24001,Maryland,Allegany,20.2716976596,27.003891414,70416.0,383,<400 Active Cases per Million,"Allegany, Maryland",+33.2%*
+24003,Maryland,Anne Arundel,555.6396505485599,840.2194242362401,579234.0,1451,800+ Active Cases per Million,"Anne Arundel, Maryland",+51.2%
+24005,Maryland,Baltimore,1097.67143092992,1760.7712593496801,827370.0,2128,800+ Active Cases per Million,"Baltimore, Maryland",+60.4%
+24009,Maryland,Calvert,32.33194003416,68.73556773456001,92525.0,743,400-799 Active Cases per Million,"Calvert, Maryland",+112.6%
+24011,Maryland,Caroline,26.22289405608,50.317331017680004,33406.0,1506,800+ Active Cases per Million,"Caroline, Maryland",+91.9%
+24013,Maryland,Carroll,160.37982673199997,127.11691954752,168447.0,755,400-799 Active Cases per Million,"Carroll, Maryland",-20.7%
+24015,Maryland,Cecil,78.02007714552,72.52455041184,102855.0,705,400-799 Active Cases per Million,"Cecil, Maryland",-7.0%
+24017,Maryland,Charles,195.64998138936002,219.29528986391995,163257.0,1343,800+ Active Cases per Million,"Charles, Maryland",+12.1%
+24019,Maryland,Dorchester,25.342336983120006,43.44354349800001,31929.0,1361,800+ Active Cases per Million,"Dorchester, Maryland",+71.4%
+24021,Maryland,Frederick,164.12074597775998,204.69120147047997,259547.0,789,400-799 Active Cases per Million,"Frederick, Maryland",+24.7%
+24023,Maryland,Garrett,10.2686375952,24.753271853759998,29014.0,853,800+ Active Cases per Million,"Garrett, Maryland",+141.1%*
+24025,Maryland,Harford,192.91798083576,279.64783979376006,255441.0,1095,800+ Active Cases per Million,"Harford, Maryland",+45.0%
+24027,Maryland,Howard,406.80761471664,524.49425507904,325690.0,1610,800+ Active Cases per Million,"Howard, Maryland",+28.9%
+24029,Maryland,Kent,12.499663841999997,13.730413893359998,19422.0,707,400-799 Active Cases per Million,"Kent, Maryland",+9.8%*
+24031,Maryland,Montgomery,1599.9614535592796,1654.94516272536,1050688.0,1575,800+ Active Cases per Million,"Montgomery, Maryland",+3.4%
+24033,Maryland,Prince George's,1713.68007077328,2133.4019812384804,909327.0,2346,800+ Active Cases per Million,"Prince George's, Maryland",+24.5%
+24035,Maryland,Queen Anne's,73.93318357824,93.26739771983999,50381.0,1851,800+ Active Cases per Million,"Queen Anne's, Maryland",+26.2%
+24037,Maryland,St. Mary's,76.33870525271999,148.24569993504,113510.0,1306,800+ Active Cases per Million,"St. Mary's, Maryland",+94.2%
+24039,Maryland,Somerset,15.886311464879999,28.537088704799995,25616.0,1114,800+ Active Cases per Million,"Somerset, Maryland",+79.6%*
+24041,Maryland,Talbot,59.26422065351999,109.17048507312,37181.0,2936,800+ Active Cases per Million,"Talbot, Maryland",+84.2%
+24043,Maryland,Washington,44.946294108480004,91.20564268199999,151049.0,604,400-799 Active Cases per Million,"Washington, Maryland",+102.9%
+24045,Maryland,Wicomico,77.8541549472,134.27922250439997,103609.0,1296,800+ Active Cases per Million,"Wicomico, Maryland",+72.5%
+24047,Maryland,Worcester,47.84833577688,82.76790102312,52276.0,1583,800+ Active Cases per Million,"Worcester, Maryland",+73.0%
+24510,Maryland,Baltimore City,1212.89347266072,1869.4965349874399,593490.0,3150,800+ Active Cases per Million,"Baltimore City, Maryland",+54.1%
+25001,Massachusetts,Barnstable,55.87289799599999,76.34378399376001,212990.0,358,<400 Active Cases per Million,"Barnstable, Massachusetts",+36.6%
+25003,Massachusetts,Berkshire,17.657890477919995,22.932883912319998,124944.0,184,<400 Active Cases per Million,"Berkshire, Massachusetts",+29.9%*
+25005,Massachusetts,Bristol,355.92864751440004,481.8166912043999,565217.0,852,800+ Active Cases per Million,"Bristol, Massachusetts",+35.4%
+25007,Massachusetts,Dukes,0.0,0.0,17332.0,0,<400 Active Cases per Million,"Dukes, Massachusetts",N/A
+25009,Massachusetts,Essex,594.53453104632,610.05045258936,789034.0,773,400-799 Active Cases per Million,"Essex, Massachusetts",+2.6%
+25011,Massachusetts,Franklin,20.380371989039993,20.30301481584,70180.0,289,<400 Active Cases per Million,"Franklin, Massachusetts",-0.4%*
+25013,Massachusetts,Hampden,321.02262029784,383.97975844823986,466372.0,823,800+ Active Cases per Million,"Hampden, Massachusetts",+19.6%
+25015,Massachusetts,Hampshire,60.7632536904,58.54515437423999,160830.0,364,<400 Active Cases per Million,"Hampshire, Massachusetts",-3.7%
+25017,Massachusetts,Middlesex,866.4815503557602,968.5767304867198,1611699.0,601,400-799 Active Cases per Million,"Middlesex, Massachusetts",+11.8%
+25019,Massachusetts,Nantucket,0.0,0.0,11399.0,0,<400 Active Cases per Million,"Nantucket, Massachusetts",N/A
+25021,Massachusetts,Norfolk,407.76230843976,551.18919825168,706775.0,780,400-799 Active Cases per Million,"Norfolk, Massachusetts",+35.2%
+25023,Massachusetts,Plymouth,200.54947389912002,184.04588417495998,521202.0,353,<400 Active Cases per Million,"Plymouth, Massachusetts",-8.2%
+25025,Massachusetts,Suffolk,713.6164830907197,772.05406931952,803907.0,960,800+ Active Cases per Million,"Suffolk, Massachusetts",+8.2%
+25027,Massachusetts,Worcester,492.05195297975996,470.86020313248,830622.0,567,400-799 Active Cases per Million,"Worcester, Massachusetts",-4.3%
+33001,New Hampshire,Belknap,14.660542876319997,16.911077999999996,61303.0,276,<400 Active Cases per Million,"Belknap, New Hampshire",+15.4%*
+33003,New Hampshire,Carroll,16.91368896072,15.107286797759999,48910.0,309,<400 Active Cases per Million,"Carroll, New Hampshire",-10.7%*
+33005,New Hampshire,Cheshire,10.263331679999999,11.237723022239999,76085.0,148,<400 Active Cases per Million,"Cheshire, New Hampshire",+9.5%*
+33007,New Hampshire,Coos,5.06777740272,5.12661292584,31563.0,162,<400 Active Cases per Million,"Coos, New Hampshire",+1.2%*
+33009,New Hampshire,Grafton,13.77484750488,18.08846425896,89886.0,201,<400 Active Cases per Million,"Grafton, New Hampshire",+31.3%*
+33011,New Hampshire,Hillsborough,272.0160500592,243.87936353880002,417025.0,585,400-799 Active Cases per Million,"Hillsborough, New Hampshire",-10.3%
+33013,New Hampshire,Merrimack,25.445824942799998,33.77212576344,151391.0,223,<400 Active Cases per Million,"Merrimack, New Hampshire",+32.7%
+33015,New Hampshire,Rockingham,78.49192637447999,80.52429167376003,309769.0,260,<400 Active Cases per Million,"Rockingham, New Hampshire",+2.6%
+33017,New Hampshire,Strafford,11.39249252448,23.231241217920005,130633.0,178,<400 Active Cases per Million,"Strafford, New Hampshire",+103.9%*
+33019,New Hampshire,Sullivan,8.085739229759998,6.87867129096,43146.0,159,<400 Active Cases per Million,"Sullivan, New Hampshire",-14.9%*
+34001,New Jersey,Atlantic,268.16762141784,272.02083752208,263670.0,1032,800+ Active Cases per Million,"Atlantic, New Jersey",+1.4%
+34003,New Jersey,Bergen,804.7987242467997,612.7648993910399,932202.0,657,400-799 Active Cases per Million,"Bergen, New Jersey",-23.9%
+34005,New Jersey,Burlington,328.01502102048005,321.07572604032003,445349.0,721,400-799 Active Cases per Million,"Burlington, New Jersey",-2.1%
+34007,New Jersey,Camden,560.1484341175201,569.9866510228799,506471.0,1125,800+ Active Cases per Million,"Camden, New Jersey",+1.8%
+34009,New Jersey,Cape May,15.890628433919991,52.26580268904001,92039.0,568,400-799 Active Cases per Million,"Cape May, New Jersey",+228.9%*
+34011,New Jersey,Cumberland,186.24460708200004,130.54827183648,149527.0,873,800+ Active Cases per Million,"Cumberland, New Jersey",-29.9%
+34013,New Jersey,Essex,403.30419551664005,481.29625346304005,798975.0,602,400-799 Active Cases per Million,"Essex, New Jersey",+19.3%
+34015,New Jersey,Gloucester,268.81343778215995,292.7470747562399,291636.0,1004,800+ Active Cases per Million,"Gloucester, New Jersey",+8.9%
+34017,New Jersey,Hudson,159.93914216207997,446.49687799056005,672391.0,664,400-799 Active Cases per Million,"Hudson, New Jersey",+179.2%
+34019,New Jersey,Hunterdon,34.78719637271999,24.193225379280005,124371.0,195,<400 Active Cases per Million,"Hunterdon, New Jersey",-30.5%
+34021,New Jersey,Mercer,236.96664721056,191.17758766368,367430.0,520,400-799 Active Cases per Million,"Mercer, New Jersey",-19.3%
+34023,New Jersey,Middlesex,381.71880600096006,436.31201315088,825062.0,529,400-799 Active Cases per Million,"Middlesex, New Jersey",+14.3%
+34025,New Jersey,Monmouth,502.8726259341599,647.9536713369599,618795.0,1047,800+ Active Cases per Million,"Monmouth, New Jersey",+28.9%
+34027,New Jersey,Morris,237.17538223776,216.48194052335995,491845.0,440,400-799 Active Cases per Million,"Morris, New Jersey",-8.7%
+34029,New Jersey,Ocean,379.00174610592,393.46892204087993,607186.0,648,400-799 Active Cases per Million,"Ocean, New Jersey",+3.8%
+34031,New Jersey,Passaic,236.05511164127998,349.51114217447986,501826.0,696,400-799 Active Cases per Million,"Passaic, New Jersey",+48.1%
+34033,New Jersey,Salem,80.12019553464003,51.39605349624001,62385.0,824,800+ Active Cases per Million,"Salem, New Jersey",-35.9%
+34035,New Jersey,Somerset,165.97075638432005,257.88446313192,328934.0,784,400-799 Active Cases per Million,"Somerset, New Jersey",+55.4%
+34037,New Jersey,Sussex,42.878934518879994,49.110003983519995,140488.0,350,<400 Active Cases per Million,"Sussex, New Jersey",+14.5%
+34039,New Jersey,Union,125.64703055400001,275.73870428784,556341.0,496,400-799 Active Cases per Million,"Union, New Jersey",+119.5%
+34041,New Jersey,Warren,59.842612974240005,31.443438377759996,105267.0,299,<400 Active Cases per Million,"Warren, New Jersey",-47.5%
+36001,New York,Albany,153.31513134192002,265.82515056216,305506.0,870,800+ Active Cases per Million,"Albany, New York",+73.4%
+36003,New York,Allegany,8.436319591679998,13.178447404559998,46091.0,286,<400 Active Cases per Million,"Allegany, New York",+56.2%*
+36005,New York,Bronx,0.0,1114.28987477784,1418207.0,786,400-799 Active Cases per Million,"Bronx, New York",N/A
+36007,New York,Broome,112.89009227448001,198.33104739720002,190488.0,1041,800+ Active Cases per Million,"Broome, New York",+75.7%
+36009,New York,Cattaraugus,17.8568774364,25.424181839279996,76117.0,334,<400 Active Cases per Million,"Cattaraugus, New York",+42.4%*
+36011,New York,Cayuga,14.918594039759999,15.318708569519998,76576.0,200,<400 Active Cases per Million,"Cayuga, New York",+2.7%*
+36013,New York,Chautauqua,56.15657447376,92.10862043304,126903.0,726,400-799 Active Cases per Million,"Chautauqua, New York",+64.0%
+36015,New York,Chemung,10.29548829912,11.842673294639999,83456.0,142,<400 Active Cases per Million,"Chemung, New York",+15.0%*
+36017,New York,Chenango,28.4154940248,40.25476324344,47207.0,853,800+ Active Cases per Million,"Chenango, New York",+41.7%
+36019,New York,Clinton,11.358953819039998,13.83387548736,80485.0,172,<400 Active Cases per Million,"Clinton, New York",+21.8%*
+36021,New York,Columbia,39.41431986792,27.16497982152,59461.0,457,400-799 Active Cases per Million,"Columbia, New York",-31.1%
+36023,New York,Cortland,15.665374477679999,18.5831316924,47581.0,391,<400 Active Cases per Million,"Cortland, New York",+18.6%*
+36025,New York,Delaware,0.6470383776,2.0160585523199996,44135.0,46,<400 Active Cases per Million,"Delaware, New York",+211.6%*
+36027,New York,Dutchess,113.39830199184,217.72549535688,294218.0,740,400-799 Active Cases per Million,"Dutchess, New York",+92.0%
+36029,New York,Erie,713.25367808784,820.8039198539999,918702.0,893,800+ Active Cases per Million,"Erie, New York",+15.1%
+36031,New York,Essex,12.0416926416,6.637621709039999,36885.0,180,<400 Active Cases per Million,"Essex, New York",-44.9%*
+36033,New York,Franklin,5.7282705069599995,8.725384792799998,50022.0,174,<400 Active Cases per Million,"Franklin, New York",+52.3%*
+36035,New York,Fulton,17.433802399439998,12.049509930959998,53383.0,226,<400 Active Cases per Million,"Fulton, New York",-30.9%*
+36037,New York,Genesee,20.505626823839993,26.7059409732,57280.0,466,400-799 Active Cases per Million,"Genesee, New York",+30.2%*
+36039,New York,Greene,7.299754677839998,19.08456093888,47188.0,404,400-799 Active Cases per Million,"Greene, New York",+161.4%*
+36041,New York,Hamilton,0.05867430504,0.0,4416.0,0,<400 Active Cases per Million,"Hamilton, New York",-100.0%*
+36043,New York,Herkimer,49.01552942088001,46.23305929728001,61319.0,754,400-799 Active Cases per Million,"Herkimer, New York",-5.7%
+36045,New York,Jefferson,12.532706174160001,15.48348787824,109834.0,141,<400 Active Cases per Million,"Jefferson, New York",+23.5%*
+36047,New York,Kings,0.0,1751.6192371550399,2559903.0,684,400-799 Active Cases per Million,"Kings, New York",N/A
+36049,New York,Lewis,6.0734915241600005,4.18427548608,26296.0,159,<400 Active Cases per Million,"Lewis, New York",-31.1%*
+36051,New York,Livingston,19.407941932560004,31.33527138696,62914.0,498,400-799 Active Cases per Million,"Livingston, New York",+61.5%*
+36053,New York,Madison,29.156496693119994,23.8007192892,70941.0,336,<400 Active Cases per Million,"Madison, New York",-18.4%
+36055,New York,Monroe,662.2218507924,668.6493613968001,741770.0,901,800+ Active Cases per Million,"Monroe, New York",+1.0%
+36057,New York,Montgomery,11.551251162479998,40.34772154488,49221.0,820,800+ Active Cases per Million,"Montgomery, New York",+249.3%*
+36059,New York,Nassau,734.2805847484802,881.5596671985599,1356924.0,650,400-799 Active Cases per Million,"Nassau, New York",+20.1%
+36061,New York,New York,6175.36264757208,1173.9840327288,1628706.0,721,400-799 Active Cases per Million,"New York, New York",-81.0%
+36063,New York,Niagara,155.51084145216,141.45997836984,209281.0,676,400-799 Active Cases per Million,"Niagara, New York",-9.0%
+36065,New York,Oneida,385.86893478791995,283.57059000887995,228671.0,1240,800+ Active Cases per Million,"Oneida, New York",-26.5%
+36067,New York,Onondaga,446.2528623513601,485.2893013730399,460528.0,1054,800+ Active Cases per Million,"Onondaga, New York",+8.7%
+36069,New York,Ontario,53.50694761776001,67.67562328944,109777.0,616,400-799 Active Cases per Million,"Ontario, New York",+26.5%
+36071,New York,Orange,193.9487897052,213.19384676136,384940.0,554,400-799 Active Cases per Million,"Orange, New York",+9.9%
+36073,New York,Orleans,14.11731240312,8.683883957759997,40352.0,215,<400 Active Cases per Million,"Orleans, New York",-38.5%*
+36075,New York,Oswego,36.6829266408,40.79016694247999,117124.0,348,<400 Active Cases per Million,"Oswego, New York",+11.2%
+36077,New York,Otsego,4.4543864088,10.816005204719998,59493.0,182,<400 Active Cases per Million,"Otsego, New York",+142.8%*
+36079,New York,Putnam,46.435272169680005,89.00567048687999,98320.0,905,800+ Active Cases per Million,"Putnam, New York",+91.7%
+36081,New York,Queens,0.0,1688.2712832458399,2253858.0,749,400-799 Active Cases per Million,"Queens, New York",N/A
+36083,New York,Rensselaer,66.90723209472002,123.18377915832,158714.0,776,400-799 Active Cases per Million,"Rensselaer, New York",+84.1%
+36085,New York,Richmond,0.0,342.62076570504,476143.0,720,400-799 Active Cases per Million,"Richmond, New York",N/A
+36087,New York,Rockland,211.48214800487997,196.65328060992,325789.0,604,400-799 Active Cases per Million,"Rockland, New York",-7.0%
+36089,New York,St. Lawrence,16.05780414408,19.678248911039997,107740.0,183,<400 Active Cases per Million,"St. Lawrence, New York",+22.5%*
+36091,New York,Saratoga,70.8536383968,105.57851883143996,229863.0,459,400-799 Active Cases per Million,"Saratoga, New York",+49.0%
+36093,New York,Schenectady,95.86433880144001,126.09382318847997,155299.0,812,800+ Active Cases per Million,"Schenectady, New York",+31.5%
+36095,New York,Schoharie,5.398616682239999,4.742652914399999,30999.0,153,<400 Active Cases per Million,"Schoharie, New York",-12.2%*
+36097,New York,Schuyler,1.0679052602399999,3.6139209011999998,17807.0,203,<400 Active Cases per Million,"Schuyler, New York",+238.4%*
+36099,New York,Seneca,5.322033814319999,10.595199006,34016.0,311,<400 Active Cases per Million,"Seneca, New York",+99.1%*
+36101,New York,Steuben,10.904376749039999,19.207253484,95379.0,201,<400 Active Cases per Million,"Steuben, New York",+76.1%*
+36103,New York,Suffolk,999.4466779867198,1237.53816654072,1476601.0,838,800+ Active Cases per Million,"Suffolk, New York",+23.8%
+36105,New York,Sullivan,22.431934938719998,19.98139385712,75432.0,265,<400 Active Cases per Million,"Sullivan, New York",-10.9%*
+36107,New York,Tioga,15.914354832719999,26.725604958239998,48203.0,554,400-799 Active Cases per Million,"Tioga, New York",+67.9%*
+36109,New York,Tompkins,7.409607575759999,41.76021892247999,102180.0,409,400-799 Active Cases per Million,"Tompkins, New York",+463.6%*
+36111,New York,Ulster,120.76056691823997,130.10311894152,177573.0,733,400-799 Active Cases per Million,"Ulster, New York",+7.7%
+36113,New York,Warren,18.92625611928,29.60180245152,63944.0,463,400-799 Active Cases per Million,"Warren, New York",+56.4%*
+36115,New York,Washington,3.4543897212000005,6.1009106004,61204.0,100,<400 Active Cases per Million,"Washington, New York",+76.6%*
+36117,New York,Wayne,55.79788693104002,74.02277609424,89918.0,823,800+ Active Cases per Million,"Wayne, New York",+32.7%
+36119,New York,Westchester,750.85624848288,700.76443386816,967506.0,724,400-799 Active Cases per Million,"Westchester, New York",-6.7%
+36121,New York,Wyoming,7.104039881279999,11.08914251232,39859.0,278,<400 Active Cases per Million,"Wyoming, New York",+56.1%*
+36123,New York,Yates,5.6402329416,6.501894656399998,24913.0,261,<400 Active Cases per Million,"Yates, New York",+15.3%*
+39001,Ohio,Adams,7.26711258576,14.477031763199998,27698.0,523,400-799 Active Cases per Million,"Adams, Ohio",+99.2%*
+39003,Ohio,Allen,92.86200191879999,163.1534636268,102351.0,1594,800+ Active Cases per Million,"Allen, Ohio",+75.7%
+39005,Ohio,Ashland,24.93837276216,62.70366080880001,53484.0,1172,800+ Active Cases per Million,"Ashland, Ohio",+151.4%*
+39007,Ohio,Ashtabula,39.44166663072001,40.48564950144,97241.0,416,400-799 Active Cases per Million,"Ashtabula, Ohio",+2.6%
+39009,Ohio,Athens,94.25572059143998,296.01078790584,65327.0,4531,800+ Active Cases per Million,"Athens, Ohio",+214.1%
+39011,Ohio,Auglaize,18.18245930928,16.63409268072,45656.0,364,<400 Active Cases per Million,"Auglaize, Ohio",-8.5%*
+39013,Ohio,Belmont,66.43554009024,48.25279642871999,67006.0,720,400-799 Active Cases per Million,"Belmont, Ohio",-27.4%
+39015,Ohio,Brown,16.65525675504,15.357384786719997,43432.0,354,<400 Active Cases per Million,"Brown, Ohio",-7.8%*
+39017,Ohio,Butler,590.4596703981599,754.0681247995201,383134.0,1968,800+ Active Cases per Million,"Butler, Ohio",+27.7%
+39019,Ohio,Carroll,20.54968561584,27.649525697280005,26914.0,1027,800+ Active Cases per Million,"Carroll, Ohio",+34.5%*
+39021,Ohio,Champaign,14.097945229919997,36.08863010784,38885.0,928,800+ Active Cases per Million,"Champaign, Ohio",+156.0%*
+39023,Ohio,Clark,145.1298110448,161.9940301188,134083.0,1208,800+ Active Cases per Million,"Clark, Ohio",+11.6%
+39025,Ohio,Clermont,189.86662727256,298.95290705063996,206428.0,1448,800+ Active Cases per Million,"Clermont, Ohio",+57.5%
+39027,Ohio,Clinton,14.596297415519999,56.578018107119995,41968.0,1348,800+ Active Cases per Million,"Clinton, Ohio",+287.6%*
+39029,Ohio,Columbiana,294.60542711328003,267.88836396384,101883.0,2629,800+ Active Cases per Million,"Columbiana, Ohio",-9.1%
+39031,Ohio,Coshocton,114.16056418176,88.86188315207998,36600.0,2428,800+ Active Cases per Million,"Coshocton, Ohio",-22.2%
+39033,Ohio,Crawford,10.351882321679998,9.547635150479998,41494.0,230,<400 Active Cases per Million,"Crawford, Ohio",-7.8%*
+39035,Ohio,Cuyahoga,3279.6728033524796,3916.530292854479,1235072.0,3171,800+ Active Cases per Million,"Cuyahoga, Ohio",+19.4%
+39037,Ohio,Darke,36.3207804072,29.358504185759994,51113.0,574,400-799 Active Cases per Million,"Darke, Ohio",-19.2%
+39039,Ohio,Defiance,15.095533377839997,16.37100980736,38087.0,430,400-799 Active Cases per Million,"Defiance, Ohio",+8.4%*
+39041,Ohio,Delaware,263.0693279892,441.7137600871199,209177.0,2112,800+ Active Cases per Million,"Delaware, Ohio",+67.9%
+39043,Ohio,Erie,48.681859621680005,142.9760143668,74266.0,1925,800+ Active Cases per Million,"Erie, Ohio",+193.7%
+39045,Ohio,Fairfield,261.47938449744004,414.64443512472013,157574.0,2631,800+ Active Cases per Million,"Fairfield, Ohio",+58.6%
+39047,Ohio,Fayette,5.675974875359999,18.03591236064,28525.0,632,400-799 Active Cases per Million,"Fayette, Ohio",+217.8%*
+39049,Ohio,Franklin,3915.3832059348006,4974.951329619119,1316756.0,3778,800+ Active Cases per Million,"Franklin, Ohio",+27.1%
+39051,Ohio,Fulton,12.41866260408,21.329797278,42126.0,506,400-799 Active Cases per Million,"Fulton, Ohio",+71.8%*
+39053,Ohio,Gallia,16.01431383,15.029350521359998,29898.0,503,400-799 Active Cases per Million,"Gallia, Ohio",-6.2%*
+39055,Ohio,Geauga,65.97715766519998,88.43064692399999,93649.0,944,800+ Active Cases per Million,"Geauga, Ohio",+34.0%
+39057,Ohio,Greene,166.79748192143998,233.99926705799996,168937.0,1385,800+ Active Cases per Million,"Greene, Ohio",+40.3%
+39059,Ohio,Guernsey,37.55773945271999,24.998943453360006,38875.0,643,400-799 Active Cases per Million,"Guernsey, Ohio",-33.4%
+39061,Ohio,Hamilton,2850.35627029272,2783.26468090752,817473.0,3405,800+ Active Cases per Million,"Hamilton, Ohio",-2.4%
+39063,Ohio,Hancock,23.123850866159998,40.792456139760006,75783.0,538,400-799 Active Cases per Million,"Hancock, Ohio",+76.4%*
+39065,Ohio,Hardin,22.15161468312,13.713779245199998,31365.0,437,400-799 Active Cases per Million,"Hardin, Ohio",-38.1%*
+39067,Ohio,Harrison,0.42720883872,1.53866067216,15040.0,102,<400 Active Cases per Million,"Harrison, Ohio",+260.2%*
+39069,Ohio,Henry,11.4025200324,15.850065449279999,27006.0,587,400-799 Active Cases per Million,"Henry, Ohio",+39.0%*
+39071,Ohio,Highland,8.93630966136,24.819094238879995,43161.0,575,400-799 Active Cases per Million,"Highland, Ohio",+177.7%*
+39073,Ohio,Hocking,6.363545410080001,26.47473499656,28264.0,937,800+ Active Cases per Million,"Hocking, Ohio",+316.0%*
+39075,Ohio,Holmes,117.6772510344,77.10659148576,43960.0,1754,800+ Active Cases per Million,"Holmes, Ohio",-34.5%
+39077,Ohio,Huron,130.03306864872,127.03685162183999,58266.0,2180,800+ Active Cases per Million,"Huron, Ohio",-2.3%
+39079,Ohio,Jackson,17.3316256092,19.92444953856,32413.0,615,400-799 Active Cases per Million,"Jackson, Ohio",+15.0%*
+39081,Ohio,Jefferson,27.842305037760003,89.23131554112,65325.0,1366,800+ Active Cases per Million,"Jefferson, Ohio",+220.5%
+39083,Ohio,Knox,26.92824086832,26.71229765784,62322.0,429,400-799 Active Cases per Million,"Knox, Ohio",-0.8%
+39085,Ohio,Lake,209.11761722352003,315.56822695848,230149.0,1371,800+ Active Cases per Million,"Lake, Ohio",+50.9%
+39087,Ohio,Lawrence,30.74450109984,52.72331996856001,59463.0,887,800+ Active Cases per Million,"Lawrence, Ohio",+71.5%
+39089,Ohio,Licking,253.93368649008002,316.17990883871994,176862.0,1788,800+ Active Cases per Million,"Licking, Ohio",+24.5%
+39091,Ohio,Logan,20.1300906096,25.66032456648,45672.0,562,400-799 Active Cases per Million,"Logan, Ohio",+27.5%*
+39093,Ohio,Lorain,272.19484519272004,402.39646462175995,309833.0,1299,800+ Active Cases per Million,"Lorain, Ohio",+47.8%
+39095,Ohio,Lucas,510.12794463576006,810.55481275536,428348.0,1892,800+ Active Cases per Million,"Lucas, Ohio",+58.9%
+39097,Ohio,Madison,36.09095654352,68.99607452112001,44731.0,1542,800+ Active Cases per Million,"Madison, Ohio",+91.2%
+39099,Ohio,Mahoning,262.77653063855996,355.5892790119199,228683.0,1555,800+ Active Cases per Million,"Mahoning, Ohio",+35.3%
+39101,Ohio,Marion,25.7058314748,52.057944512160006,65093.0,800,400-799 Active Cases per Million,"Marion, Ohio",+102.5%
+39103,Ohio,Medina,150.64301613888,225.43989250703996,179746.0,1254,800+ Active Cases per Million,"Medina, Ohio",+49.7%
+39105,Ohio,Meigs,2.9141081613600006,7.380099761759999,22907.0,322,<400 Active Cases per Million,"Meigs, Ohio",+153.3%*
+39107,Ohio,Mercer,45.98921677296,46.548994714799996,41172.0,1131,800+ Active Cases per Million,"Mercer, Ohio",+1.2%
+39109,Ohio,Miami,88.84885714536,141.77595362736,106987.0,1325,800+ Active Cases per Million,"Miami, Ohio",+59.6%
+39111,Ohio,Monroe,7.027526911919999,2.3431920585599997,13654.0,172,<400 Active Cases per Million,"Monroe, Ohio",-66.7%*
+39113,Ohio,Montgomery,1168.5309669036,1369.6545213657603,531687.0,2576,800+ Active Cases per Million,"Montgomery, Ohio",+17.2%
+39115,Ohio,Morgan,5.17026661656,5.82845821848,14508.0,402,400-799 Active Cases per Million,"Morgan, Ohio",+12.7%*
+39117,Ohio,Morrow,9.56483020008,27.04717279128,35328.0,766,400-799 Active Cases per Million,"Morrow, Ohio",+182.8%*
+39119,Ohio,Muskingum,34.42671716784,49.91028783624001,86215.0,579,400-799 Active Cases per Million,"Muskingum, Ohio",+45.0%
+39121,Ohio,Noble,3.85074352992,5.31841833744,14424.0,369,<400 Active Cases per Million,"Noble, Ohio",+38.1%*
+39123,Ohio,Ottawa,64.63259771784,174.45176683656,40525.0,4305,800+ Active Cases per Million,"Ottawa, Ohio",+169.9%
+39125,Ohio,Paulding,8.940835027199999,26.470991334,18672.0,1418,800+ Active Cases per Million,"Paulding, Ohio",+196.1%*
+39127,Ohio,Perry,17.323899342719997,33.65103139536,36134.0,931,800+ Active Cases per Million,"Perry, Ohio",+94.2%*
+39129,Ohio,Pickaway,79.67309195039999,106.98724247904002,58457.0,1830,800+ Active Cases per Million,"Pickaway, Ohio",+34.3%
+39131,Ohio,Pike,9.48295887312,15.244121669279998,27772.0,549,400-799 Active Cases per Million,"Pike, Ohio",+60.8%*
+39133,Ohio,Portage,116.04551435472001,139.89845853239996,162466.0,861,800+ Active Cases per Million,"Portage, Ohio",+20.6%
+39135,Ohio,Preble,38.842659062159996,44.37429659952,40882.0,1085,800+ Active Cases per Million,"Preble, Ohio",+14.2%
+39137,Ohio,Putnam,36.0190055088,43.00129463304001,33861.0,1270,800+ Active Cases per Million,"Putnam, Ohio",+19.4%
+39139,Ohio,Richland,89.22865158144,128.69958307463997,121154.0,1062,800+ Active Cases per Million,"Richland, Ohio",+44.2%
+39141,Ohio,Ross,59.16940607520001,68.63690129951999,76666.0,895,800+ Active Cases per Million,"Ross, Ohio",+16.0%
+39143,Ohio,Sandusky,38.53171795104001,99.51618646704001,58518.0,1701,800+ Active Cases per Million,"Sandusky, Ohio",+158.3%
+39145,Ohio,Scioto,47.147891917680006,80.89800335519999,75314.0,1074,800+ Active Cases per Million,"Scioto, Ohio",+71.6%
+39147,Ohio,Seneca,6.4511495498399976,17.38242644472,55178.0,315,<400 Active Cases per Million,"Seneca, Ohio",+169.4%*
+39149,Ohio,Shelby,24.0273721536,19.70756658912,48590.0,406,400-799 Active Cases per Million,"Shelby, Ohio",-18.0%*
+39151,Ohio,Stark,277.39315484784004,307.3191250812,370606.0,829,800+ Active Cases per Million,"Stark, Ohio",+10.8%
+39153,Ohio,Summit,642.0519194075999,647.20972146816,541013.0,1196,800+ Active Cases per Million,"Summit, Ohio",+0.8%
+39155,Ohio,Trumbull,347.05004239656006,275.84657116607997,197974.0,1393,800+ Active Cases per Million,"Trumbull, Ohio",-20.5%
+39157,Ohio,Tuscarawas,192.14904005088002,177.23149679232003,91987.0,1927,800+ Active Cases per Million,"Tuscarawas, Ohio",-7.8%
+39159,Ohio,Union,32.32201749696,87.91616529192001,58988.0,1490,800+ Active Cases per Million,"Union, Ohio",+172.0%
+39161,Ohio,Van Wert,37.05047087496,29.52095095872,28275.0,1044,800+ Active Cases per Million,"Van Wert, Ohio",-20.3%
+39163,Ohio,Vinton,0.0489332028,3.82846548024,13085.0,293,<400 Active Cases per Million,"Vinton, Ohio",+7723.9%*
+39165,Ohio,Warren,357.24534775464,508.3387188791999,234602.0,2167,800+ Active Cases per Million,"Warren, Ohio",+42.3%
+39167,Ohio,Washington,32.11259593512,37.107235943999996,59911.0,619,400-799 Active Cases per Million,"Washington, Ohio",+15.6%
+39169,Ohio,Wayne,35.294046883680004,48.53101993560001,115710.0,419,400-799 Active Cases per Million,"Wayne, Ohio",+37.5%
+39171,Ohio,Williams,15.80238934152,16.08668791344,36692.0,438,400-799 Active Cases per Million,"Williams, Ohio",+1.8%*
+39173,Ohio,Wood,165.17554609823998,178.86639244295995,130817.0,1367,800+ Active Cases per Million,"Wood, Ohio",+8.3%
+39175,Ohio,Wyandot,7.25002726512,18.01316223816,21772.0,827,800+ Active Cases per Million,"Wyandot, Ohio",+148.5%*
+42001,Pennsylvania,Adams,59.449132683600006,82.76029693896,103009.0,803,800+ Active Cases per Million,"Adams, Pennsylvania",+39.2%
+42003,Pennsylvania,Allegheny,2980.4378635816797,3770.2104206875197,1216045.0,3100,800+ Active Cases per Million,"Allegheny, Pennsylvania",+26.5%
+42005,Pennsylvania,Armstrong,9.9469383204,32.92452278496,64735.0,509,400-799 Active Cases per Million,"Armstrong, Pennsylvania",+231.0%*
+42007,Pennsylvania,Beaver,244.20681409968,278.5915691635199,163929.0,1699,800+ Active Cases per Million,"Beaver, Pennsylvania",+14.1%
+42009,Pennsylvania,Bedford,20.51477491704,13.788966439439996,47888.0,288,<400 Active Cases per Million,"Bedford, Pennsylvania",-32.8%*
+42011,Pennsylvania,Berks,245.08049921879999,310.18472445768003,421164.0,736,400-799 Active Cases per Million,"Berks, Pennsylvania",+26.6%
+42013,Pennsylvania,Blair,37.89190687008001,55.37108338776,121829.0,454,400-799 Active Cases per Million,"Blair, Pennsylvania",+46.1%
+42015,Pennsylvania,Bradford,8.7713281944,7.97945644536,60323.0,132,<400 Active Cases per Million,"Bradford, Pennsylvania",-9.0%*
+42017,Pennsylvania,Bucks,505.32870014303995,595.1857997625601,628270.0,947,800+ Active Cases per Million,"Bucks, Pennsylvania",+17.8%
+42019,Pennsylvania,Butler,182.44484526839997,168.9753106896,187853.0,900,800+ Active Cases per Million,"Butler, Pennsylvania",-7.4%
+42021,Pennsylvania,Cambria,66.53937043056001,81.34961373960002,130192.0,625,400-799 Active Cases per Million,"Cambria, Pennsylvania",+22.3%
+42023,Pennsylvania,Cameron,2.2024495915199997,3.1384992926399997,4447.0,706,400-799 Active Cases per Million,"Cameron, Pennsylvania",+42.5%*
+42025,Pennsylvania,Carbon,29.502699536399998,39.38132701200001,64182.0,614,400-799 Active Cases per Million,"Carbon, Pennsylvania",+33.5%
+42027,Pennsylvania,Centre,57.62471849712,78.97754739984002,162385.0,486,400-799 Active Cases per Million,"Centre, Pennsylvania",+37.1%
+42029,Pennsylvania,Chester,470.3080306356,570.58824768,524989.0,1087,800+ Active Cases per Million,"Chester, Pennsylvania",+21.3%
+42031,Pennsylvania,Clarion,26.073149446799995,37.540206227759995,38438.0,977,800+ Active Cases per Million,"Clarion, Pennsylvania",+44.0%
+42033,Pennsylvania,Clearfield,24.5622992016,36.12893347991999,79255.0,456,400-799 Active Cases per Million,"Clearfield, Pennsylvania",+47.1%*
+42035,Pennsylvania,Clinton,21.487680363600003,31.49030577696,38632.0,815,800+ Active Cases per Million,"Clinton, Pennsylvania",+46.6%*
+42037,Pennsylvania,Columbia,25.262704632479995,28.530569209440007,64964.0,439,400-799 Active Cases per Million,"Columbia, Pennsylvania",+12.9%
+42039,Pennsylvania,Crawford,41.955898277280006,75.98558048111998,84629.0,898,800+ Active Cases per Million,"Crawford, Pennsylvania",+81.1%
+42041,Pennsylvania,Cumberland,149.34188888544,188.0726363316,253370.0,742,400-799 Active Cases per Million,"Cumberland, Pennsylvania",+25.9%
+42043,Pennsylvania,Dauphin,482.75342849784,325.15955243855996,278299.0,1168,800+ Active Cases per Million,"Dauphin, Pennsylvania",-32.6%
+42045,Pennsylvania,Delaware,523.81114579416,611.51308920432,566747.0,1079,800+ Active Cases per Million,"Delaware, Pennsylvania",+16.7%
+42047,Pennsylvania,Elk,31.231656566399998,17.69985324744,29910.0,592,400-799 Active Cases per Million,"Elk, Pennsylvania",-43.3%
+42049,Pennsylvania,Erie,204.70350867384,183.19032322104002,269728.0,679,400-799 Active Cases per Million,"Erie, Pennsylvania",-10.5%
+42051,Pennsylvania,Fayette,89.77696003223998,143.14000830336002,129274.0,1107,800+ Active Cases per Million,"Fayette, Pennsylvania",+59.4%
+42053,Pennsylvania,Forest,0.0,0.0,7247.0,0,<400 Active Cases per Million,"Forest, Pennsylvania",N/A
+42055,Pennsylvania,Franklin,133.93168081632,114.5823108756,155027.0,739,400-799 Active Cases per Million,"Franklin, Pennsylvania",-14.4%
+42057,Pennsylvania,Fulton,0.25567460592,1.31111367048,14530.0,90,<400 Active Cases per Million,"Fulton, Pennsylvania",+412.8%*
+42059,Pennsylvania,Greene,28.71923825112,50.023666926000004,36233.0,1381,800+ Active Cases per Million,"Greene, Pennsylvania",+74.2%
+42061,Pennsylvania,Huntingdon,10.87089931872,21.081303491520003,45144.0,467,400-799 Active Cases per Million,"Huntingdon, Pennsylvania",+93.9%*
+42063,Pennsylvania,Indiana,26.76535115112,101.32766830608003,84073.0,1205,800+ Active Cases per Million,"Indiana, Pennsylvania",+278.6%
+42065,Pennsylvania,Jefferson,20.85765675288,22.042324495199995,43425.0,508,400-799 Active Cases per Million,"Jefferson, Pennsylvania",+5.7%*
+42067,Pennsylvania,Juniata,6.394478006159999,5.391324674880001,24763.0,218,<400 Active Cases per Million,"Juniata, Pennsylvania",-15.7%*
+42069,Pennsylvania,Lackawanna,115.44241945848002,88.73886599328,209674.0,423,400-799 Active Cases per Million,"Lackawanna, Pennsylvania",-23.1%
+42071,Pennsylvania,Lancaster,664.6437781912798,627.9696404663998,545724.0,1151,800+ Active Cases per Million,"Lancaster, Pennsylvania",-5.5%
+42073,Pennsylvania,Lawrence,82.26070494359999,153.29274369504,85512.0,1793,800+ Active Cases per Million,"Lawrence, Pennsylvania",+86.3%
+42075,Pennsylvania,Lebanon,155.81399268840002,196.88804109432,141793.0,1389,800+ Active Cases per Million,"Lebanon, Pennsylvania",+26.4%
+42077,Pennsylvania,Lehigh,296.75195754336,297.99809380944004,369318.0,807,800+ Active Cases per Million,"Lehigh, Pennsylvania",+0.4%
+42079,Pennsylvania,Luzerne,120.90849085824,162.00010412664003,317417.0,510,400-799 Active Cases per Million,"Luzerne, Pennsylvania",+34.0%
+42081,Pennsylvania,Lycoming,97.15159905839998,74.22966155856001,113299.0,655,400-799 Active Cases per Million,"Lycoming, Pennsylvania",-23.6%
+42083,Pennsylvania,McKean,6.2051977226399995,2.01120933576,40625.0,50,<400 Active Cases per Million,"McKean, Pennsylvania",-67.6%*
+42085,Pennsylvania,Mercer,46.27947432191999,110.18525200824,109424.0,1007,800+ Active Cases per Million,"Mercer, Pennsylvania",+138.1%
+42087,Pennsylvania,Mifflin,12.2563591944,14.746584774479997,46138.0,320,<400 Active Cases per Million,"Mifflin, Pennsylvania",+20.3%*
+42089,Pennsylvania,Monroe,87.94682319072,86.67810407088002,170271.0,509,400-799 Active Cases per Million,"Monroe, Pennsylvania",-1.4%
+42091,Pennsylvania,Montgomery,691.154841702,719.19068100768,830915.0,866,800+ Active Cases per Million,"Montgomery, Pennsylvania",+4.1%
+42093,Pennsylvania,Montour,8.103226613039999,12.250245570479999,18230.0,672,400-799 Active Cases per Million,"Montour, Pennsylvania",+51.2%*
+42095,Pennsylvania,Northampton,214.88444527919998,223.26066284424004,305285.0,731,400-799 Active Cases per Million,"Northampton, Pennsylvania",+3.9%
+42097,Pennsylvania,Northumberland,71.83529338824,56.19011384208002,90843.0,619,400-799 Active Cases per Million,"Northumberland, Pennsylvania",-21.8%
+42099,Pennsylvania,Perry,9.707644426799998,17.3889362808,46272.0,376,<400 Active Cases per Million,"Perry, Pennsylvania",+79.1%*
+42101,Pennsylvania,Philadelphia,2135.19408940704,2372.81687532624,1584064.0,1498,800+ Active Cases per Million,"Philadelphia, Pennsylvania",+11.1%
+42103,Pennsylvania,Pike,18.5977613112,15.311278171919998,55809.0,274,<400 Active Cases per Million,"Pike, Pennsylvania",-17.7%*
+42105,Pennsylvania,Potter,3.3890020379999997,5.1034821384,16526.0,309,<400 Active Cases per Million,"Potter, Pennsylvania",+50.6%*
+42107,Pennsylvania,Schuylkill,48.51561338352,53.09065559543999,141359.0,376,<400 Active Cases per Million,"Schuylkill, Pennsylvania",+9.4%
+42109,Pennsylvania,Snyder,13.75357646736,11.044076689439999,40372.0,274,<400 Active Cases per Million,"Snyder, Pennsylvania",-19.7%*
+42111,Pennsylvania,Somerset,19.9795424688,41.24507124264,73447.0,562,400-799 Active Cases per Million,"Somerset, Pennsylvania",+106.4%*
+42113,Pennsylvania,Sullivan,9.014827537919999,3.05025678264,6066.0,503,400-799 Active Cases per Million,"Sullivan, Pennsylvania",-66.2%*
+42115,Pennsylvania,Susquehanna,19.29100980936,14.808372790799996,40328.0,367,<400 Active Cases per Million,"Susquehanna, Pennsylvania",-23.2%*
+42117,Pennsylvania,Tioga,5.31936076656,9.69797279328,40591.0,239,<400 Active Cases per Million,"Tioga, Pennsylvania",+82.3%*
+42119,Pennsylvania,Union,15.069535338719998,28.324448221440004,44923.0,631,400-799 Active Cases per Million,"Union, Pennsylvania",+88.0%*
+42121,Pennsylvania,Venango,30.749295705119998,44.99948193576,50668.0,888,800+ Active Cases per Million,"Venango, Pennsylvania",+46.3%
+42123,Pennsylvania,Warren,1.9843025877599998,7.74368769024,39191.0,198,<400 Active Cases per Million,"Warren, Pennsylvania",+290.2%*
+42125,Pennsylvania,Washington,280.41211377864,352.10843463432,206865.0,1702,800+ Active Cases per Million,"Washington, Pennsylvania",+25.6%
+42127,Pennsylvania,Wayne,7.05480451464,6.92172994056,51361.0,135,<400 Active Cases per Million,"Wayne, Pennsylvania",-1.9%*
+42129,Pennsylvania,Westmoreland,505.00666696968005,469.0045281110401,348899.0,1344,800+ Active Cases per Million,"Westmoreland, Pennsylvania",-7.1%
+42131,Pennsylvania,Wyoming,4.64843616648,15.83245539192,26794.0,591,400-799 Active Cases per Million,"Wyoming, Pennsylvania",+240.6%*
+42133,Pennsylvania,York,458.89167642216006,538.5164583122399,449058.0,1199,800+ Active Cases per Million,"York, Pennsylvania",+17.4%
+44001,Rhode Island,Bristol,11.320611543599998,68.19302806463999,48479.0,1407,800+ Active Cases per Million,"Bristol, Rhode Island",+502.4%*
+44003,Rhode Island,Kent,85.08491271960001,223.79779337808,164292.0,1362,800+ Active Cases per Million,"Kent, Rhode Island",+163.0%
+44005,Rhode Island,Newport,48.51837710304,97.25259183791998,82082.0,1185,800+ Active Cases per Million,"Newport, Rhode Island",+100.4%
+44007,Rhode Island,Providence,585.22599591744,1450.7311032636,638931.0,2271,800+ Active Cases per Million,"Providence, Rhode Island",+147.9%
+44009,Rhode Island,Washington,17.53416892176,67.96428432864,125577.0,541,400-799 Active Cases per Million,"Washington, Rhode Island",+287.6%*
+50001,Vermont,Addison,0.43296660648,4.918148495519999,36777.0,134,<400 Active Cases per Million (VT),"Addison, Vermont",+1035.9%*
+50003,Vermont,Bennington,3.3911423061599995,7.101293671919998,35470.0,200,<400 Active Cases per Million (VT),"Bennington, Vermont",+109.4%*
+50005,Vermont,Caledonia,3.8755621195199996,5.7774556195199995,29993.0,193,<400 Active Cases per Million (VT),"Caledonia, Vermont",+49.1%*
+50007,Vermont,Chittenden,52.55349554184,77.78504064408,163774.0,475,400-799 Active Cases per Million (VT),"Chittenden, Vermont",+48.0%
+50009,Vermont,Essex,2.0756900376,2.0219842303199997,6163.0,328,<400 Active Cases per Million (VT),"Essex, Vermont",-2.6%*
+50011,Vermont,Franklin,8.68324950552,2.81515679568,49402.0,57,<400 Active Cases per Million (VT),"Franklin, Vermont",-67.6%*
+50013,Vermont,Grand Isle,0.7833887589600002,5.78509391832,7235.0,800,400-799 Active Cases per Million (VT),"Grand Isle, Vermont",+638.5%*
+50015,Vermont,Lamoille,6.72719148168,12.46187413632,25362.0,491,400-799 Active Cases per Million (VT),"Lamoille, Vermont",+85.2%*
+50017,Vermont,Orange,1.85466817344,0.66738807264,28892.0,23,<400 Active Cases per Million (VT),"Orange, Vermont",-64.0%*
+50019,Vermont,Orleans,0.14375657256,0.040782779760000006,27037.0,2,<400 Active Cases per Million (VT),"Orleans, Vermont",-71.6%*
+50021,Vermont,Rutland,8.460228963599999,8.77234494216,58191.0,151,<400 Active Cases per Million (VT),"Rutland, Vermont",+3.7%*
+50023,Vermont,Washington,1.9443841559999997,4.7028337284,58409.0,81,<400 Active Cases per Million (VT),"Washington, Vermont",+141.9%*
+50025,Vermont,Windham,6.15930375216,4.45992860304,42222.0,106,<400 Active Cases per Million (VT),"Windham, Vermont",-27.6%*
+50027,Vermont,Windsor,7.39568314608,9.17855914728,55062.0,167,<400 Active Cases per Million (VT),"Windsor, Vermont",+24.1%*
+51001,Virginia,Accomack,9.819839736719999,9.4377943308,32316.0,292,<400 Active Cases per Million,"Accomack, Virginia",-3.9%*
+51003,Virginia,Albemarle,220.48059291072002,235.14510114,109330.0,2151,800+ Active Cases per Million,"Albemarle, Virginia",+6.7%
+51005,Virginia,Alleghany,14.730280958639998,31.826459720399995,14860.0,2142,800+ Active Cases per Million,"Alleghany, Virginia",+116.1%*
+51007,Virginia,Amelia,10.932237574079998,18.704078587919998,13145.0,1423,800+ Active Cases per Million,"Amelia, Virginia",+71.1%*
+51009,Virginia,Amherst,7.10235831048,10.416291661439999,31605.0,330,<400 Active Cases per Million,"Amherst, Virginia",+46.7%*
+51011,Virginia,Appomattox,9.19912674864,9.699203266560001,15911.0,610,400-799 Active Cases per Million,"Appomattox, Virginia",+5.4%*
+51013,Virginia,Arlington,188.10748855104003,297.33382808784,236842.0,1255,800+ Active Cases per Million,"Arlington, Virginia",+58.1%
+51015,Virginia,Augusta,41.094324905520004,48.60533082696,75558.0,643,400-799 Active Cases per Million,"Augusta, Virginia",+18.3%
+51017,Virginia,Bath,2.4,1.0679052602399999,4147.0,258,<400 Active Cases per Million,"Bath, Virginia",-55.5%*
+51019,Virginia,Bedford,46.37320150007999,78.22145473992,78997.0,990,800+ Active Cases per Million,"Bedford, Virginia",+68.7%
+51021,Virginia,Bland,0.34811233248,1.52792256504,6280.0,243,<400 Active Cases per Million,"Bland, Virginia",+338.9%*
+51023,Virginia,Botetourt,99.02865361247997,58.76757084912,33419.0,1759,800+ Active Cases per Million,"Botetourt, Virginia",-40.7%
+51025,Virginia,Brunswick,36.73060108344,61.540693537439985,16231.0,3792,800+ Active Cases per Million,"Brunswick, Virginia",+67.5%
+51027,Virginia,Buchanan,18.15717936024,30.656432432639996,21004.0,1460,800+ Active Cases per Million,"Buchanan, Virginia",+68.8%*
+51029,Virginia,Buckingham,29.58952801392,18.962367798480003,17148.0,1106,800+ Active Cases per Million,"Buckingham, Virginia",-35.9%
+51031,Virginia,Campbell,24.408297404400003,40.06210137192001,54885.0,730,400-799 Active Cases per Million,"Campbell, Virginia",+64.1%*
+51033,Virginia,Caroline,11.095489783679998,34.04399375591999,30725.0,1108,800+ Active Cases per Million,"Caroline, Virginia",+206.8%*
+51035,Virginia,Carroll,59.54198424888,68.84691055751999,29791.0,2311,800+ Active Cases per Million,"Carroll, Virginia",+15.6%
+51036,Virginia,Charles City,4.48564069464,3.7878208123199997,6963.0,544,400-799 Active Cases per Million,"Charles City, Virginia",-15.6%*
+51037,Virginia,Charlotte,3.10911783936,9.639091493279999,11880.0,811,800+ Active Cases per Million,"Charlotte, Virginia",+210.0%*
+51041,Virginia,Chesterfield,537.6026097012001,656.7939583257602,352802.0,1862,800+ Active Cases per Million,"Chesterfield, Virginia",+22.2%
+51043,Virginia,Clarke,18.567886387199998,10.6971391116,14619.0,732,400-799 Active Cases per Million,"Clarke, Virginia",-42.4%*
+51045,Virginia,Craig,4.69556882808,1.7266123502399997,5131.0,337,<400 Active Cases per Million,"Craig, Virginia",-63.2%*
+51047,Virginia,Culpeper,49.245204571440006,94.32003485496001,52605.0,1793,800+ Active Cases per Million,"Culpeper, Virginia",+91.5%
+51049,Virginia,Cumberland,13.787321698320001,9.092813934479999,9932.0,916,800+ Active Cases per Million,"Cumberland, Virginia",-34.0%*
+51051,Virginia,Dickenson,3.2401713508800003,5.270787458159999,14318.0,368,<400 Active Cases per Million,"Dickenson, Virginia",+62.7%*
+51053,Virginia,Dinwiddie,33.68317050048,29.25298369056,28544.0,1025,800+ Active Cases per Million,"Dinwiddie, Virginia",-13.2%
+51057,Virginia,Essex,3.87380105088,12.590854821599999,10953.0,1150,800+ Active Cases per Million,"Essex, Virginia",+225.0%*
+51059,Virginia,Fairfax,985.7612239656,1086.8099713067998,1147532.0,947,800+ Active Cases per Million,"Fairfax, Virginia",+10.3%
+51061,Virginia,Fauquier,75.9042107796,100.18502398896,71222.0,1407,800+ Active Cases per Million,"Fauquier, Virginia",+32.0%
+51063,Virginia,Floyd,6.6120682464,12.491902469280001,15749.0,793,400-799 Active Cases per Million,"Floyd, Virginia",+88.9%*
+51065,Virginia,Fluvanna,28.452081149280005,35.66301123528,27270.0,1308,800+ Active Cases per Million,"Fluvanna, Virginia",+25.3%
+51067,Virginia,Franklin,57.74173007304,42.70619137896,56042.0,762,400-799 Active Cases per Million,"Franklin, Virginia",-26.0%
+51069,Virginia,Frederick,80.31395866751998,95.16027980472,89313.0,1065,800+ Active Cases per Million,"Frederick, Virginia",+18.5%
+51071,Virginia,Giles,9.785980067999999,3.1031459160000003,16720.0,186,<400 Active Cases per Million,"Giles, Virginia",-68.3%*
+51073,Virginia,Gloucester,11.242508102639999,50.63327048064,37348.0,1356,800+ Active Cases per Million,"Gloucester, Virginia",+350.4%*
+51075,Virginia,Goochland,15.355011312959999,19.907158019279994,23753.0,838,800+ Active Cases per Million,"Goochland, Virginia",+29.6%*
+51077,Virginia,Grayson,15.568355913839998,14.10237147408,15550.0,907,800+ Active Cases per Million,"Grayson, Virginia",-9.4%*
+51079,Virginia,Greene,26.353403698079997,30.360674359679997,19819.0,1532,800+ Active Cases per Million,"Greene, Virginia",+15.2%
+51081,Virginia,Greensville,28.1800655724,34.773304224,11336.0,3068,800+ Active Cases per Million,"Greensville, Virginia",+23.4%
+51083,Virginia,Halifax,38.97357976176001,46.88122444872,33911.0,1382,800+ Active Cases per Million,"Halifax, Virginia",+20.3%
+51085,Virginia,Hanover,68.07785960328,88.37321507784,107766.0,820,800+ Active Cases per Million,"Hanover, Virginia",+29.8%
+51087,Virginia,Henrico,336.77366339495995,531.47618780832,330818.0,1607,800+ Active Cases per Million,"Henrico, Virginia",+57.8%
+51089,Virginia,Henry,127.48862284751999,169.26669255575993,50557.0,3348,800+ Active Cases per Million,"Henry, Virginia",+32.8%
+51091,Virginia,Highland,0.030396378,0.0,2190.0,0,<400 Active Cases per Million,"Highland, Virginia",-100.0%*
+51093,Virginia,Isle of Wight,56.934160736639996,87.28519570200001,37109.0,2352,800+ Active Cases per Million,"Isle of Wight, Virginia",+53.3%
+51095,Virginia,James City,109.73784461879997,185.77874334432002,76523.0,2428,800+ Active Cases per Million,"James City, Virginia",+69.3%
+51097,Virginia,King and Queen,3.16286227128,13.453133424959997,7025.0,1915,800+ Active Cases per Million,"King and Queen, Virginia",+325.3%*
+51099,Virginia,King George,3.3314861284800004,9.003450029999998,26836.0,335,<400 Active Cases per Million,"King George, Virginia",+170.3%*
+51101,Virginia,King William,13.916198831280001,24.819099138720002,17148.0,1447,800+ Active Cases per Million,"King William, Virginia",+78.3%*
+51103,Virginia,Lancaster,0.0,22.97411188656,10603.0,2167,800+ Active Cases per Million,"Lancaster, Virginia",N/A
+51105,Virginia,Lee,8.28761455824,25.497639179519997,23423.0,1089,800+ Active Cases per Million,"Lee, Virginia",+207.7%*
+51107,Virginia,Loudoun,726.4530445691997,695.85537584016,413538.0,1683,800+ Active Cases per Million,"Loudoun, Virginia",-4.2%
+51109,Virginia,Louisa,32.61766698384,32.06240639712,37591.0,853,800+ Active Cases per Million,"Louisa, Virginia",-1.7%
+51111,Virginia,Lunenburg,14.652260717519997,10.401873614639998,12196.0,853,800+ Active Cases per Million,"Lunenburg, Virginia",-29.0%*
+51113,Virginia,Madison,6.452288599199999,6.013718570879999,13261.0,453,400-799 Active Cases per Million,"Madison, Virginia",-6.8%*
+51115,Virginia,Mathews,0.9163973275199999,1.52771187312,8834.0,173,<400 Active Cases per Million,"Mathews, Virginia",+66.7%*
+51117,Virginia,Mecklenburg,17.62331373024,38.684544600719995,30587.0,1265,800+ Active Cases per Million,"Mecklenburg, Virginia",+119.5%*
+51119,Virginia,Middlesex,0.17149535688,5.512844338799999,10582.0,521,400-799 Active Cases per Million,"Middlesex, Virginia",+3114.6%*
+51121,Virginia,Montgomery,69.20988351144,80.70955271544003,98535.0,819,800+ Active Cases per Million,"Montgomery, Virginia",+16.6%
+51125,Virginia,Nelson,7.780550595599999,12.69158142288,14930.0,850,800+ Active Cases per Million,"Nelson, Virginia",+63.1%*
+51127,Virginia,New Kent,13.03224727176,30.002847335279995,23091.0,1299,800+ Active Cases per Million,"New Kent, Virginia",+130.2%*
+51131,Virginia,Northampton,5.192085104159999,7.1028485172,11710.0,607,400-799 Active Cases per Million,"Northampton, Virginia",+36.8%*
+51133,Virginia,Northumberland,4.445144653440001,20.5594757856,12095.0,1700,800+ Active Cases per Million,"Northumberland, Virginia",+362.5%*
+51135,Virginia,Nottoway,18.98906227368,49.36611647832001,15232.0,3241,800+ Active Cases per Million,"Nottoway, Virginia",+160.0%*
+51137,Virginia,Orange,15.461021961359998,29.86310333688,37051.0,806,800+ Active Cases per Million,"Orange, Virginia",+93.2%*
+51139,Virginia,Page,46.0289471556,51.21078911064,23902.0,2143,800+ Active Cases per Million,"Page, Virginia",+11.3%
+51141,Virginia,Patrick,9.122534910719999,11.90789125248,17608.0,676,400-799 Active Cases per Million,"Patrick, Virginia",+30.5%*
+51143,Virginia,Pittsylvania,69.65770927775999,105.20951515704,60354.0,1743,800+ Active Cases per Million,"Pittsylvania, Virginia",+51.0%
+51145,Virginia,Powhatan,19.102069092959997,34.67347649088,29652.0,1169,800+ Active Cases per Million,"Powhatan, Virginia",+81.5%*
+51147,Virginia,Prince Edward,58.32461213639999,45.23844792840001,22802.0,1984,800+ Active Cases per Million,"Prince Edward, Virginia",-22.4%
+51149,Virginia,Prince George,55.93760770968,66.39730701792,38353.0,1731,800+ Active Cases per Million,"Prince George, Virginia",+18.7%
+51153,Virginia,Prince William,908.2002917975999,849.95685169152,470335.0,1807,800+ Active Cases per Million,"Prince William, Virginia",-6.4%
+51155,Virginia,Pulaski,10.634355026879998,16.317971474639997,34027.0,480,400-799 Active Cases per Million,"Pulaski, Virginia",+53.4%*
+51157,Virginia,Rappahannock,23.853726664559996,13.16573101104,7370.0,1786,800+ Active Cases per Million,"Rappahannock, Virginia",-44.8%*
+51159,Virginia,Richmond,0.3927841948800002,12.049841603039999,9023.0,1335,800+ Active Cases per Million,"Richmond, Virginia",+2967.8%*
+51161,Virginia,Roanoke,130.71588562848,129.78568536024,94186.0,1378,800+ Active Cases per Million,"Roanoke, Virginia",-0.7%
+51163,Virginia,Rockbridge,8.41918057392,20.627514,22573.0,914,800+ Active Cases per Million,"Rockbridge, Virginia",+145.0%*
+51165,Virginia,Rockingham,107.64164484815998,119.27967216791998,81948.0,1456,800+ Active Cases per Million,"Rockingham, Virginia",+10.8%
+51167,Virginia,Russell,7.8578678567999996,22.57650348672,26586.0,849,800+ Active Cases per Million,"Russell, Virginia",+187.3%*
+51169,Virginia,Scott,2.8814207184,13.071307677119998,21566.0,606,400-799 Active Cases per Million,"Scott, Virginia",+353.6%*
+51171,Virginia,Shenandoah,74.73250477488,58.05722624015999,43616.0,1331,800+ Active Cases per Million,"Shenandoah, Virginia",-22.3%
+51173,Virginia,Smyth,11.06073029712,11.413476730799998,30104.0,379,<400 Active Cases per Million,"Smyth, Virginia",+3.2%*
+51175,Virginia,Southampton,17.450789064239995,42.21104850816,17631.0,2394,800+ Active Cases per Million,"Southampton, Virginia",+141.9%*
+51177,Virginia,Spotsylvania,169.70536669872,126.55653192336001,136215.0,929,800+ Active Cases per Million,"Spotsylvania, Virginia",-25.4%
+51179,Virginia,Stafford,112.71081054768,142.17738780960002,152882.0,930,800+ Active Cases per Million,"Stafford, Virginia",+26.1%
+51181,Virginia,Surry,4.078312639199999,9.564521201759998,6422.0,1489,800+ Active Cases per Million,"Surry, Virginia",+134.5%*
+51183,Virginia,Sussex,28.783744497119997,26.463701941199997,11159.0,2372,800+ Active Cases per Million,"Sussex, Virginia",-8.1%
+51185,Virginia,Tazewell,19.70762152176,29.415231413519997,40595.0,725,400-799 Active Cases per Million,"Tazewell, Virginia",+49.3%*
+51187,Virginia,Warren,46.07107199663999,43.66319300639999,40164.0,1087,800+ Active Cases per Million,"Warren, Virginia",-5.2%
+51191,Virginia,Washington,14.654170893360002,39.63714906527999,53740.0,738,400-799 Active Cases per Million,"Washington, Virginia",+170.5%*
+51193,Virginia,Westmoreland,31.34678698992,111.90179627664,18015.0,6212,800+ Active Cases per Million,"Westmoreland, Virginia",+257.0%
+51195,Virginia,Wise,10.53168853872,33.163504411919995,37383.0,887,800+ Active Cases per Million,"Wise, Virginia",+214.9%*
+51197,Virginia,Wythe,13.936419310320002,15.474747659519998,28684.0,539,400-799 Active Cases per Million,"Wythe, Virginia",+11.0%*
+51199,Virginia,York,45.198981303600014,101.18348210087998,68280.0,1482,800+ Active Cases per Million,"York, Virginia",+123.9%
+51510,Virginia,Alexandria,218.40121241519998,218.86747423919996,159428.0,1373,800+ Active Cases per Million,"Alexandria, Virginia",+0.2%
+51520,Virginia,Bristol,6.22846548024,14.114286721919997,16762.0,842,800+ Active Cases per Million,"Bristol, Virginia",+126.6%*
+51530,Virginia,Buena Vista,3.1697974672799996,18.835176727440004,6478.0,2908,800+ Active Cases per Million,"Buena Vista, Virginia",+494.2%*
+51540,Virginia,Charlottesville,71.53109725656,171.73577655743998,47266.0,3633,800+ Active Cases per Million,"Charlottesville, Virginia",+140.1%
+51550,Virginia,Chesapeake,424.1817001694401,834.25362512088,244835.0,3407,800+ Active Cases per Million,"Chesapeake, Virginia",+96.7%
+51570,Virginia,Colonial Heights,21.574851104639997,30.732544730399997,17370.0,1769,800+ Active Cases per Million,"Colonial Heights, Virginia",+42.4%*
+51580,Virginia,Covington,1.42640473224,0.45773785464,5538.0,83,<400 Active Cases per Million,"Covington, Virginia",-67.9%*
+51590,Virginia,Danville,36.039419861999995,102.33930944640001,40044.0,2556,800+ Active Cases per Million,"Danville, Virginia",+184.0%
+51595,Virginia,Emporia,27.7100030832,9.90295273584,5346.0,1852,800+ Active Cases per Million,"Emporia, Virginia",-64.3%
+51600,Virginia,Fairfax City,4.701380604239999,6.07717863072,24019.0,253,<400 Active Cases per Million,"Fairfax City, Virginia",+29.3%*
+51610,Virginia,Falls Church,0.0,0.6084539390400004,14617.0,42,<400 Active Cases per Million,"Falls Church, Virginia",N/A
+51620,Virginia,Franklin City,25.263609656879996,42.33647232168,7967.0,5314,800+ Active Cases per Million,"Franklin City, Virginia",+67.6%
+51630,Virginia,Fredericksburg,42.224714842320004,60.58821364416,29036.0,2087,800+ Active Cases per Million,"Fredericksburg, Virginia",+43.5%
+51640,Virginia,Galax,70.06177611624,42.61582322160002,6347.0,6714,800+ Active Cases per Million,"Galax, Virginia",-39.2%
+51650,Virginia,Hampton,193.03522323287999,421.07857864920004,134510.0,3130,800+ Active Cases per Million,"Hampton, Virginia",+118.1%
+51660,Virginia,Harrisonburg,87.13148299007999,77.21023757088,53016.0,1456,800+ Active Cases per Million,"Harrisonburg, Virginia",-11.4%
+51670,Virginia,Hopewell,40.83030053544,53.61589981920002,22529.0,2380,800+ Active Cases per Million,"Hopewell, Virginia",+31.3%
+51678,Virginia,Lexington,4.92425066184,17.56183429248,7446.0,2359,800+ Active Cases per Million,"Lexington, Virginia",+256.6%*
+51680,Virginia,Lynchburg,62.64422350968001,77.17577956680002,82168.0,939,800+ Active Cases per Million,"Lynchburg, Virginia",+23.2%
+51683,Virginia,Manassas,138.83724890712003,107.22496736903999,41085.0,2610,800+ Active Cases per Million,"Manassas, Virginia",-22.8%
+51685,Virginia,Manassas Park,50.69172644592001,41.52453888552,17478.0,2376,800+ Active Cases per Million,"Manassas Park, Virginia",-18.1%
+51690,Virginia,Martinsville,58.11169606704001,63.816469407119996,12554.0,5083,800+ Active Cases per Million,"Martinsville, Virginia",+9.8%
+51700,Virginia,Newport News,265.90469084424006,625.5102009506401,179225.0,3490,800+ Active Cases per Million,"Newport News, Virginia",+135.2%
+51710,Virginia,Norfolk,615.45057327336,1221.26884221408,242742.0,5031,800+ Active Cases per Million,"Norfolk, Virginia",+98.4%
+51720,Virginia,Norton,0.48642217392,0.14061101135999998,3981.0,35,<400 Active Cases per Million,"Norton, Virginia",-71.1%*
+51730,Virginia,Petersburg,165.81517498151996,126.64072065599998,31346.0,4040,800+ Active Cases per Million,"Petersburg, Virginia",-23.6%
+51735,Virginia,Poquoson,2.51130863808,8.36878713216,12271.0,682,400-799 Active Cases per Million,"Poquoson, Virginia",+233.2%*
+51740,Virginia,Portsmouth,242.09733242544,480.94543314095995,94398.0,5095,800+ Active Cases per Million,"Portsmouth, Virginia",+98.7%
+51750,Virginia,Radford,6.815521448399999,8.071911751919998,18249.0,442,400-799 Active Cases per Million,"Radford, Virginia",+18.4%*
+51760,Virginia,Richmond City,340.2659577239998,395.8149651948,230436.0,1718,800+ Active Cases per Million,"Richmond City, Virginia",+16.3%
+51770,Virginia,Roanoke City,256.33559375304,248.98156743695998,99143.0,2511,800+ Active Cases per Million,"Roanoke City, Virginia",-2.9%
+51775,Virginia,Salem,40.6170296724,45.237937511279995,25301.0,1788,800+ Active Cases per Million,"Salem, Virginia",+11.4%
+51790,Virginia,Staunton,26.884441794000004,51.828441678240004,24932.0,2079,800+ Active Cases per Million,"Staunton, Virginia",+92.8%
+51800,Virginia,Suffolk,166.56447917928003,342.98311726488004,92108.0,3724,800+ Active Cases per Million,"Suffolk, Virginia",+105.9%
+51810,Virginia,Virginia Beach,776.321832252,1464.81726241608,449974.0,3255,800+ Active Cases per Million,"Virginia Beach, Virginia",+88.7%
+51820,Virginia,Waynesboro,74.65874601264001,58.3194791088,22630.0,2577,800+ Active Cases per Million,"Waynesboro, Virginia",-21.9%
+51830,Virginia,Williamsburg,37.38801583584,34.79249271888,14954.0,2327,800+ Active Cases per Million,"Williamsburg, Virginia",-6.9%
+51840,Virginia,Winchester,40.76427418176,64.0063212048,28078.0,2280,800+ Active Cases per Million,"Winchester, Virginia",+57.0%
+54001,West Virginia,Barbour,5.34002134824,14.231880057119998,16441.0,866,800+ Active Cases per Million,"Barbour, West Virginia",+166.5%*
+54003,West Virginia,Berkeley,116.95862837975999,117.74560576127999,119171.0,988,800+ Active Cases per Million,"Berkeley, West Virginia",+0.7%
+54005,West Virginia,Boone,13.301710408559996,43.81854949224,21457.0,2042,800+ Active Cases per Million,"Boone, West Virginia",+229.4%*
+54007,West Virginia,Braxton,0.0,2.97920792928,13957.0,213,<400 Active Cases per Million,"Braxton, West Virginia",N/A
+54009,West Virginia,Brooke,12.711576965039999,35.897210779439995,21939.0,1636,800+ Active Cases per Million,"Brooke, West Virginia",+182.4%*
+54011,West Virginia,Cabell,126.90977413392,80.26809779399998,91945.0,873,800+ Active Cases per Million,"Cabell, West Virginia",-36.8%
+54013,West Virginia,Calhoun,4.8,2.1358105204799998,7109.0,300,<400 Active Cases per Million,"Calhoun, West Virginia",-55.5%*
+54015,West Virginia,Clay,2.21433922296,4.69556882808,8508.0,552,400-799 Active Cases per Million,"Clay, West Virginia",+112.1%*
+54017,West Virginia,Doddridge,0.0,0.0,8448.0,0,<400 Active Cases per Million,"Doddridge, West Virginia",N/A
+54019,West Virginia,Fayette,29.565754394639995,34.56301754688,42406.0,815,800+ Active Cases per Million,"Fayette, West Virginia",+16.9%
+54021,West Virginia,Gilmer,1.80332825136,0.55319561784,7823.0,71,<400 Active Cases per Million,"Gilmer, West Virginia",-69.3%*
+54023,West Virginia,Grant,0.06793849296,8.01465284088,11568.0,693,400-799 Active Cases per Million,"Grant, West Virginia",+11696.9%*
+54025,West Virginia,Greenbrier,22.475400960480005,20.389931301600004,34662.0,588,400-799 Active Cases per Million,"Greenbrier, West Virginia",-9.3%*
+54027,West Virginia,Hampshire,2.0717612472,7.52449660776,23175.0,325,<400 Active Cases per Million,"Hampshire, West Virginia",+263.2%*
+54029,West Virginia,Hancock,23.04426424704,39.24362474088,28810.0,1362,800+ Active Cases per Million,"Hancock, West Virginia",+70.3%*
+54031,West Virginia,Hardy,5.46597457608,6.28810111272,13776.0,456,400-799 Active Cases per Million,"Hardy, West Virginia",+15.0%*
+54033,West Virginia,Harrison,64.10300949311998,91.61911739904001,67256.0,1362,800+ Active Cases per Million,"Harrison, West Virginia",+42.9%
+54035,West Virginia,Jackson,12.28024668576,4.808543009759999,28576.0,168,<400 Active Cases per Million,"Jackson, West Virginia",-60.8%*
+54037,West Virginia,Jefferson,44.194197883440005,37.44312163272,57146.0,655,400-799 Active Cases per Million,"Jefferson, West Virginia",-15.3%
+54039,West Virginia,Kanawha,143.81598073872001,199.47120519263999,178124.0,1120,800+ Active Cases per Million,"Kanawha, West Virginia",+38.7%
+54041,West Virginia,Lewis,5.1718766143199995,9.1105966632,15907.0,573,400-799 Active Cases per Million,"Lewis, West Virginia",+76.2%*
+54043,West Virginia,Lincoln,6.593797506719999,8.06771353512,20409.0,395,<400 Active Cases per Million,"Lincoln, West Virginia",+22.4%*
+54045,West Virginia,Logan,14.4220135968,24.331591783919997,32019.0,760,400-799 Active Cases per Million,"Logan, West Virginia",+68.7%*
+54047,West Virginia,McDowell,0.0,11.7076813584,17624.0,664,400-799 Active Cases per Million,"McDowell, West Virginia",N/A
+54049,West Virginia,Marion,73.03523937888,72.95619107472,56072.0,1301,800+ Active Cases per Million,"Marion, West Virginia",-0.1%
+54051,West Virginia,Marshall,18.81889880424,47.417350825199996,30531.0,1553,800+ Active Cases per Million,"Marshall, West Virginia",+152.0%*
+54053,West Virginia,Mason,6.546806707439999,10.659104255519999,26516.0,402,400-799 Active Cases per Million,"Mason, West Virginia",+62.8%*
+54055,West Virginia,Mercer,45.088415522400005,31.528817058000005,58758.0,537,400-799 Active Cases per Million,"Mercer, West Virginia",-30.1%
+54057,West Virginia,Mineral,12.03471147888,20.63069758272,26868.0,768,400-799 Active Cases per Million,"Mineral, West Virginia",+71.4%*
+54059,West Virginia,Mingo,15.192838584000002,25.18855159176,23424.0,1075,800+ Active Cases per Million,"Mingo, West Virginia",+65.8%*
+54061,West Virginia,Monongalia,463.87713856968,627.2342129772001,105612.0,5939,800+ Active Cases per Million,"Monongalia, West Virginia",+35.2%
+54063,West Virginia,Monroe,5.56228683408,1.68923754288,13275.0,127,<400 Active Cases per Million,"Monroe, West Virginia",-69.6%*
+54065,West Virginia,Morgan,0.14375657256,0.040782779760000006,17884.0,2,<400 Active Cases per Million,"Morgan, West Virginia",-71.6%*
+54067,West Virginia,Nicholas,9.52659922392,10.5709787472,24496.0,432,400-799 Active Cases per Million,"Nicholas, West Virginia",+11.0%*
+54069,West Virginia,Ohio,48.34560942168001,92.99251719887998,41411.0,2246,800+ Active Cases per Million,"Ohio, West Virginia",+92.3%
+54071,West Virginia,Pendleton,2.0756900376,8.3170541328,6969.0,1193,800+ Active Cases per Million,"Pendleton, West Virginia",+300.7%*
+54073,West Virginia,Pleasants,0.24321108696,0.0,7460.0,0,<400 Active Cases per Million,"Pleasants, West Virginia",-100.0%*
+54075,West Virginia,Pocahontas,23.455834721999995,10.828687262399999,8247.0,1313,800+ Active Cases per Million,"Pocahontas, West Virginia",-53.8%*
+54077,West Virginia,Preston,36.07526384208,42.95032880208,33432.0,1285,800+ Active Cases per Million,"Preston, West Virginia",+19.1%
+54079,West Virginia,Putnam,43.335985045200005,49.70700765576,56450.0,881,800+ Active Cases per Million,"Putnam, West Virginia",+14.7%
+54081,West Virginia,Raleigh,33.955495223279996,48.46891431648,73361.0,661,400-799 Active Cases per Million,"Raleigh, West Virginia",+42.7%
+54083,West Virginia,Randolph,26.705896165920002,45.19988320176,28695.0,1575,800+ Active Cases per Million,"Randolph, West Virginia",+69.3%
+54085,West Virginia,Ritchie,0.0,0.0,9554.0,0,<400 Active Cases per Million,"Ritchie, West Virginia",N/A
+54087,West Virginia,Roane,0.0,1.2034068602399999,13688.0,88,<400 Active Cases per Million,"Roane, West Virginia",N/A
+54089,West Virginia,Summers,0.66738807264,0.20435575992,12573.0,16,<400 Active Cases per Million,"Summers, West Virginia",-69.4%*
+54091,West Virginia,Taylor,7.6882461069599985,8.413017395759999,16695.0,504,400-799 Active Cases per Million,"Taylor, West Virginia",+9.4%*
+54093,West Virginia,Tucker,0.27328589232,2.36097109752,6839.0,345,<400 Active Cases per Million,"Tucker, West Virginia",+763.9%*
+54095,West Virginia,Tyler,7.2216721092,7.46707056624,8591.0,869,800+ Active Cases per Million,"Tyler, West Virginia",+3.4%*
+54097,West Virginia,Upshur,9.51316248216,22.719034216319997,24176.0,940,800+ Active Cases per Million,"Upshur, West Virginia",+138.8%*
+54099,West Virginia,Wayne,17.0022895044,41.5945356576,39402.0,1056,800+ Active Cases per Million,"Wayne, West Virginia",+144.6%*
+54101,West Virginia,Webster,1.2434270539199999,0.49732147967999996,8114.0,61,<400 Active Cases per Million,"Webster, West Virginia",-60.0%*
+54103,West Virginia,Wetzel,32.1495684588,34.72760067192,15065.0,2305,800+ Active Cases per Million,"Wetzel, West Virginia",+8.0%
+54105,West Virginia,Wirt,2.0756900376,2.21179680408,5821.0,380,<400 Active Cases per Million,"Wirt, West Virginia",+6.6%*
+54107,West Virginia,Wood,147.80750691624,121.13106886487999,83518.0,1450,800+ Active Cases per Million,"Wood, West Virginia",-18.0%
+54109,West Virginia,Wyoming,0.33207514415999995,0.07475202624,20394.0,4,<400 Active Cases per Million,"Wyoming, West Virginia",-77.5%*
