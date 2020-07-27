@@ -34,7 +34,7 @@ FIPS,State,County,Active Cases Last Week,Active Cases,Percent Change,Population,
 34017,New Jersey,Hudson,449.10154549535997,258.9700607831999,-42.3%,672391.0,385,<400 Active Cases per Million,1,"Hudson, New Jersey"
 34019,New Jersey,Hunterdon,21.353996074080005,13.823369557199998,-35.3%*,124371.0,111,<400 Active Cases per Million,1,"Hunterdon, New Jersey"
 34037,New Jersey,Sussex,55.4428032372,55.71617291927999,+0.5%,140488.0,397,<400 Active Cases per Million,1,"Sussex, New Jersey"
-34039,New Jersey,Union,256.22252684352003,0.0,-100.0%,556341.0,0,<400 Active Cases per Million,1,"Union, New Jersey"
+34039,New Jersey,Union,256.22252684352003,215.86,-15.7%,556341.0,388,<400 Active Cases per Million,1,"Union, New Jersey"
 36003,New York,Allegany,14.191058114879999,8.553830247119999,-39.7%*,46091.0,186,<400 Active Cases per Million,1,"Allegany, New York"
 36009,New York,Cattaraugus,24.840632094479997,18.893457668639996,-23.9%*,76117.0,248,<400 Active Cases per Million,1,"Cattaraugus, New York"
 36011,New York,Cayuga,13.479627282719997,18.722982563279995,+38.9%*,76576.0,245,<400 Active Cases per Million,1,"Cayuga, New York"
