@@ -519,4 +519,4 @@ FIPS,State,County,Active Cases Last Week,Active Cases,Percent Change,Population,
 50015,Vermont,Lamoille,0.43698944688,4.593038647679999,+951.1%*,25362.0,181,<400 Active Cases per Million (VT),4,"Lamoille, Vermont"
 50021,Vermont,Rutland,30.82292811384,14.60324188608,-52.6%,58191.0,251,<400 Active Cases per Million (VT),4,"Rutland, Vermont"
 50003,Vermont,Bennington,17.241229395119994,11.911494114479998,-30.9%*,35470.0,336,<400 Active Cases per Million (VT),4,"Bennington, Vermont"
-50019,Vermont,Orleans,0.12038007863999999,14.773570420079999,+12172.4%*,27037.0,546,400-799 Active Cases per Million (VT),5,"Orleans, Vermont"
+50019,Vermont,Orleans,0.12038007863999999,14.773570420079999,N/A,27037.0,546,400-799 Active Cases per Million (VT),5,"Orleans, Vermont"
