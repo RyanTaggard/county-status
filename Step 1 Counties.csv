@@ -1,522 +1,522 @@
 FIPS,County,State,Active Cases,Population,Active Cases per Million,Status_num
-09001,Fairfield,Connecticut,13796,943332,14624,3
-09003,Hartford,Connecticut,10983,891720,12317,3
-09005,Litchfield,Connecticut,2342,180333,12990,3
-09007,Middlesex,Connecticut,1619,162436,9972,3
-09009,New Haven,Connecticut,13037,854757,15252,3
-09011,New London,Connecticut,2431,265206,9167,3
-09013,Tolland,Connecticut,1005,150721,6669,3
-09015,Windham,Connecticut,1372,116782,11752,3
-10001,Kent,Delaware,2542,180786,14064,3
-10003,New Castle,Delaware,7664,558753,13716,3
-10005,Sussex,Delaware,2352,234225,10042,3
-11001,District of Columbia,District of Columbia,4456,705749,6313,3
-23001,Androscoggin,Maine,553,108277,5108,3
-23003,Aroostook,Maine,130,67055,1949,3
-23005,Cumberland,Maine,1095,295003,3714,3
-23007,Franklin,Maine,116,30199,3866,3
-23009,Hancock,Maine,151,54987,2754,3
-23011,Kennebec,Maine,590,122302,4824,3
-23013,Knox,Maine,55,39772,1386,3
-23015,Lincoln,Maine,66,34634,1912,3
-23017,Oxford,Maine,311,57975,5379,3
-23019,Penobscot,Maine,570,152148,3750,3
-23021,Piscataquis,Maine,34,16785,2079,3
-23023,Sagadahoc,Maine,81,35856,2270,3
-23025,Somerset,Maine,139,50484,2771,3
-23027,Waldo,Maine,77,39715,1943,3
-23029,Washington,Maine,24,31379,787,2
-23031,York,Maine,947,207641,4565,3
-24001,Allegany,Maryland,2212,70416,31415,3
-24003,Anne Arundel,Maryland,4219,579234,7285,3
-24005,Baltimore,Maryland,6425,827370,7766,3
-24510,Baltimore City,Maryland,4974,593490,8381,3
-24009,Calvert,Maryland,377,92525,4080,3
-24011,Caroline,Maryland,251,33406,7525,3
-24013,Carroll,Maryland,1019,168447,6051,3
-24015,Cecil,Maryland,802,102855,7806,3
-24017,Charles,Maryland,963,163257,5899,3
-24019,Dorchester,Maryland,182,31929,5716,3
-24021,Frederick,Maryland,2408,259547,9278,3
-24023,Garrett,Maryland,628,29014,21663,3
-24025,Harford,Maryland,1541,255441,6032,3
-24027,Howard,Maryland,1999,325690,6140,3
-24029,Kent,Maryland,144,19422,7445,3
-24031,Montgomery,Maryland,7512,1050688,7150,3
-24033,Prince George's,Maryland,7701,909327,8468,3
-24035,Queen Anne's,Maryland,313,50381,6217,3
-24039,Somerset,Maryland,552,25616,21559,3
-24037,St. Mary's,Maryland,690,113510,6078,3
-24041,Talbot,Maryland,190,37181,5126,3
-24043,Washington,Maryland,2076,151049,13746,3
-24045,Wicomico,Maryland,682,103609,6587,3
-24047,Worcester,Maryland,280,52276,5357,3
-25001,Barnstable,Massachusetts,1115,212990,5237,3
-25003,Berkshire,Massachusetts,897,124944,7186,3
-25005,Bristol,Massachusetts,7254,565217,12834,3
-25007,Dukes,Massachusetts,108,17332,6263,3
-25009,Essex,Massachusetts,13145,789034,16660,3
-25011,Franklin,Massachusetts,292,70180,4164,3
-25013,Hampden,Massachusetts,5612,466372,12034,3
-25015,Hampshire,Massachusetts,684,160830,4257,3
-25017,Middlesex,Massachusetts,15579,1611699,9666,3
-25019,Nantucket,Massachusetts,285,11399,25030,3
-25021,Norfolk,Massachusetts,5101,706775,7218,3
-25023,Plymouth,Massachusetts,4161,521202,7984,3
-25025,Suffolk,Massachusetts,9072,803907,11285,3
-25027,Worcester,Massachusetts,8962,830622,10790,3
-33001,Belknap,New Hampshire,604,61303,9868,3
-33003,Carroll,New Hampshire,301,48910,6166,3
-33005,Cheshire,New Hampshire,410,76085,5394,3
-33007,Coos,New Hampshire,111,31563,3529,3
-33009,Grafton,New Hampshire,337,89886,3752,3
-33011,Hillsborough,New Hampshire,4655,417025,11162,3
-33013,Merrimack,New Hampshire,1510,151391,9978,3
-33015,Rockingham,New Hampshire,2946,309769,9510,3
-33017,Strafford,New Hampshire,678,130633,5194,3
-33019,Sullivan,New Hampshire,123,43146,2869,3
-34001,Atlantic,New Jersey,2191,263670,8311,3
-34003,Bergen,New Jersey,8547,932202,9168,3
-34005,Burlington,New Jersey,4704,445349,10562,3
-34007,Camden,New Jersey,6656,506471,13143,3
-34009,Cape May,New Jersey,373,92039,4055,3
-34011,Cumberland,New Jersey,1234,149527,8258,3
-34013,Essex,New Jersey,8101,798975,10140,3
-34015,Gloucester,New Jersey,3219,291636,11037,3
-34017,Hudson,New Jersey,7530,672391,11199,3
-34019,Hunterdon,New Jersey,710,124371,5713,3
-34021,Mercer,New Jersey,3359,367430,9144,3
-34023,Middlesex,New Jersey,7932,825062,9614,3
-34025,Monmouth,New Jersey,6115,618795,9882,3
-34027,Morris,New Jersey,3846,491845,7821,3
-34029,Ocean,New Jersey,5621,607186,9258,3
-34031,Passaic,New Jersey,7903,501826,15748,3
-34033,Salem,New Jersey,548,62385,8784,3
-34035,Somerset,New Jersey,2050,328934,6232,3
-34037,Sussex,New Jersey,954,140488,6792,3
-34039,Union,New Jersey,5370,556341,9652,3
-34041,Warren,New Jersey,769,105267,7308,3
-36001,Albany,New York,2380,305506,7791,3
-36003,Allegany,New York,551,46091,11973,3
-36005,Bronx,New York,9306,1418207,6562,3
-36007,Broome,New York,1543,190488,8102,3
-36009,Cattaraugus,New York,761,76117,10010,3
-36011,Cayuga,New York,732,76576,9571,3
-36013,Chautauqua,New York,777,126903,6129,3
-36015,Chemung,New York,1020,83456,12229,3
-36017,Chenango,New York,247,47207,5245,3
-36019,Clinton,New York,189,80485,2357,3
-36021,Columbia,New York,216,59461,3636,3
-36023,Cortland,New York,436,47581,9168,3
-36025,Delaware,New York,197,44135,4482,3
-36027,Dutchess,New York,2177,294218,7401,3
-36029,Erie,New York,11243,918702,12238,3
-36031,Essex,New York,89,36885,2434,3
-36033,Franklin,New York,201,50022,4031,3
-36035,Fulton,New York,297,53383,5576,3
-36037,Genesee,New York,738,57280,12887,3
-36039,Greene,New York,243,47188,5159,3
-36041,Hamilton,New York,31,4416,7025,3
-36043,Herkimer,New York,495,61319,8073,3
-36045,Jefferson,New York,537,109834,4896,3
-36047,Kings,New York,14415,2559903,5631,3
-36049,Lewis,New York,236,26296,9005,3
-36051,Livingston,New York,449,62914,7139,3
-36053,Madison,New York,599,70941,8449,3
-36055,Monroe,New York,9651,741770,13011,3
-36057,Montgomery,New York,323,49221,6578,3
-36059,Nassau,New York,12103,1356924,8919,3
-36061,New York,New York,8958,1628706,5500,3
-36063,Niagara,New York,2542,209281,12150,3
-36065,Oneida,New York,3279,228671,14339,3
-36067,Onondaga,New York,5262,460528,11427,3
-36069,Ontario,New York,792,109777,7222,3
-36071,Orange,New York,3430,384940,8911,3
-36073,Orleans,New York,228,40352,5667,3
-36075,Oswego,New York,1094,117124,9346,3
-36077,Otsego,New York,292,59493,4913,3
-36079,Putnam,New York,1300,98320,13229,3
-36081,Queens,New York,14519,2253858,6441,3
-36083,Rensselaer,New York,925,158714,5832,3
-36085,Richmond,New York,6450,476143,13547,3
-36087,Rockland,New York,3050,325789,9364,3
-36091,Saratoga,New York,1186,229863,5162,3
-36093,Schenectady,New York,1385,155299,8924,3
-36095,Schoharie,New York,118,30999,3827,3
-36097,Schuyler,New York,112,17807,6332,3
-36099,Seneca,New York,196,34016,5778,3
-36089,St. Lawrence,New York,651,107740,6046,3
-36101,Steuben,New York,712,95379,7469,3
-36103,Suffolk,New York,16196,1476601,10968,3
-36105,Sullivan,New York,312,75432,4138,3
-36107,Tioga,New York,306,48203,6360,3
-36109,Tompkins,New York,560,102180,5482,3
-36111,Ulster,New York,1213,177573,6832,3
-36113,Warren,New York,174,63944,2725,3
-36115,Washington,New York,95,61204,1553,3
-36117,Wayne,New York,666,89918,7414,3
-36119,Westchester,New York,11338,967506,11718,3
-36121,Wyoming,New York,364,39859,9155,3
-36123,Yates,New York,120,24913,4842,3
-39001,Adams,Ohio,239,27698,8647,3
-39003,Allen,Ohio,1967,102351,19221,3
-39005,Ashland,Ohio,773,53484,14458,3
-39007,Ashtabula,Ohio,1006,97241,10355,3
-39009,Athens,Ohio,722,65327,11061,3
-39011,Auglaize,Ohio,689,45656,15094,3
-39013,Belmont,Ohio,773,67006,11544,3
-39015,Brown,Ohio,652,43432,15028,3
-39017,Butler,Ohio,6091,383134,15899,3
-39019,Carroll,Ohio,318,26914,11821,3
-39021,Champaign,Ohio,538,38885,13841,3
-39023,Clark,Ohio,2049,134083,15282,3
-39025,Clermont,Ohio,3009,206428,14577,3
-39027,Clinton,Ohio,513,41968,12229,3
-39029,Columbiana,Ohio,1520,101883,14923,3
-39031,Coshocton,Ohio,394,36600,10773,3
-39033,Crawford,Ohio,710,41494,17112,3
-39035,Cuyahoga,Ohio,17431,1235072,14113,3
-39037,Darke,Ohio,1284,51113,25122,3
-39039,Defiance,Ohio,737,38087,19355,3
-39041,Delaware,Ohio,2563,209177,12256,3
-39043,Erie,Ohio,1102,74266,14844,3
-39045,Fairfield,Ohio,2164,157574,13737,3
-39047,Fayette,Ohio,390,28525,13701,3
-39049,Franklin,Ohio,16694,1316756,12678,3
-39051,Fulton,Ohio,783,42126,18601,3
-39053,Gallia,Ohio,496,29898,16617,3
-39055,Geauga,Ohio,1091,93649,11654,3
-39057,Greene,Ohio,2334,168937,13816,3
-39059,Guernsey,Ohio,691,38875,17800,3
-39061,Hamilton,Ohio,11573,817473,14157,3
-39063,Hancock,Ohio,1185,75783,15646,3
-39065,Hardin,Ohio,517,31365,16503,3
-39067,Harrison,Ohio,211,15040,14078,3
-39069,Henry,Ohio,397,27006,14727,3
-39071,Highland,Ohio,536,43161,12433,3
-39073,Hocking,Ohio,412,28264,14605,3
-39075,Holmes,Ohio,294,43960,6709,3
-39077,Huron,Ohio,744,58266,12784,3
-39079,Jackson,Ohio,811,32413,25050,3
-39081,Jefferson,Ohio,1142,65325,17482,3
-39083,Knox,Ohio,741,62322,11903,3
-39085,Lake,Ohio,3023,230149,13138,3
-39087,Lawrence,Ohio,839,59463,14112,3
-39089,Licking,Ohio,2483,176862,14041,3
-39091,Logan,Ohio,582,45672,12745,3
-39093,Lorain,Ohio,4131,309833,13334,3
-39095,Lucas,Ohio,5739,428348,13398,3
-39097,Madison,Ohio,734,44731,16430,3
-39099,Mahoning,Ohio,3799,228683,16612,3
-39101,Marion,Ohio,1063,65093,16344,3
-39103,Medina,Ohio,2420,179746,13464,3
-39105,Meigs,Ohio,279,22907,12192,3
-39107,Mercer,Ohio,605,41172,14708,3
-39109,Miami,Ohio,1879,106987,17568,3
-39111,Monroe,Ohio,218,13654,16012,3
-39113,Montgomery,Ohio,8495,531687,15978,3
-39115,Morgan,Ohio,274,14508,18953,3
-39117,Morrow,Ohio,441,35328,12490,3
-39119,Muskingum,Ohio,1653,86215,19173,3
-39121,Noble,Ohio,219,14424,15238,3
-39123,Ottawa,Ohio,474,40525,11704,3
-39125,Paulding,Ohio,323,18672,17334,3
-39127,Perry,Ohio,590,36134,16329,3
-39129,Pickaway,Ohio,853,58457,14593,3
-39131,Pike,Ohio,443,27772,15970,3
-39133,Portage,Ohio,2144,162466,13199,3
-39135,Preble,Ohio,651,40882,15937,3
-39137,Putnam,Ohio,538,33861,15889,3
-39139,Richland,Ohio,2229,121154,18403,3
-39141,Ross,Ohio,861,76666,11240,3
-39143,Sandusky,Ohio,745,58518,12744,3
-39145,Scioto,Ohio,1153,75314,15310,3
-39147,Seneca,Ohio,738,55178,13389,3
-39149,Shelby,Ohio,794,48590,16352,3
-39151,Stark,Ohio,6377,370606,17207,3
-39153,Summit,Ohio,7008,541013,12954,3
-39155,Trumbull,Ohio,2963,197974,14971,3
-39157,Tuscarawas,Ohio,1707,91987,18559,3
-39159,Union,Ohio,952,58988,16150,3
-39161,Van Wert,Ohio,416,28275,14718,3
-39163,Vinton,Ohio,206,13085,15787,3
-39165,Warren,Ohio,3722,234602,15867,3
-39167,Washington,Ohio,1018,59911,16998,3
-39169,Wayne,Ohio,1472,115710,12729,3
-39171,Williams,Ohio,623,36692,17001,3
-39173,Wood,Ohio,1961,130817,14991,3
-39175,Wyandot,Ohio,415,21772,19073,3
-42001,Adams,Pennsylvania,1125,103009,10924,3
-42003,Allegheny,Pennsylvania,14301,1216045,11760,3
-42005,Armstrong,Pennsylvania,850,64735,13144,3
-42007,Beaver,Pennsylvania,2395,163929,14614,3
-42009,Bedford,Pennsylvania,887,47888,18525,3
-42011,Berks,Pennsylvania,4965,421164,11790,3
-42013,Blair,Pennsylvania,2300,121829,18883,3
-42015,Bradford,Pennsylvania,663,60323,10995,3
-42017,Bucks,Pennsylvania,8554,628270,13615,3
-42019,Butler,Pennsylvania,2373,187853,12633,3
-42021,Cambria,Pennsylvania,3688,130192,28332,3
-42023,Cameron,Pennsylvania,13,4447,3055,3
-42025,Carbon,Pennsylvania,883,64182,13769,3
-42027,Centre,Pennsylvania,1481,162385,9124,3
-42029,Chester,Pennsylvania,4725,524989,9001,3
-42031,Clarion,Pennsylvania,876,38438,22802,3
-42033,Clearfield,Pennsylvania,1315,79255,16595,3
-42035,Clinton,Pennsylvania,555,38632,14370,3
-42037,Columbia,Pennsylvania,437,64964,6733,3
-42039,Crawford,Pennsylvania,1437,84629,16989,3
-42041,Cumberland,Pennsylvania,3034,253370,11975,3
-42043,Dauphin,Pennsylvania,3358,278299,12067,3
-42045,Delaware,Pennsylvania,5583,566747,9852,3
-42047,Elk,Pennsylvania,344,29910,11528,3
-42049,Erie,Pennsylvania,3445,269728,12774,3
-42051,Fayette,Pennsylvania,1960,129274,15162,3
-42053,Forest,Pennsylvania,106,7247,14710,3
-42055,Franklin,Pennsylvania,2428,155027,15663,3
-42057,Fulton,Pennsylvania,260,14530,17906,3
-42059,Greene,Pennsylvania,432,36233,11936,3
-42061,Huntingdon,Pennsylvania,583,45144,12916,3
-42063,Indiana,Pennsylvania,1105,84073,13153,3
-42065,Jefferson,Pennsylvania,750,43425,17276,3
-42067,Juniata,Pennsylvania,266,24763,10774,3
-42069,Lackawanna,Pennsylvania,1552,209674,7402,3
-42071,Lancaster,Pennsylvania,6874,545724,12597,3
-42073,Lawrence,Pennsylvania,1160,85512,13575,3
-42075,Lebanon,Pennsylvania,1976,141793,13940,3
-42077,Lehigh,Pennsylvania,4952,369318,13408,3
-42079,Luzerne,Pennsylvania,4331,317417,13646,3
-42081,Lycoming,Pennsylvania,1712,113299,15114,3
-42083,McKean,Pennsylvania,752,40625,18510,3
-42085,Mercer,Pennsylvania,1932,109424,17658,3
-42087,Mifflin,Pennsylvania,1372,46138,29753,3
-42089,Monroe,Pennsylvania,1615,170271,9489,3
-42091,Montgomery,Pennsylvania,8032,830915,9666,3
-42093,Montour,Pennsylvania,1159,18230,63619,3
-42095,Northampton,Pennsylvania,4107,305285,13453,3
-42097,Northumberland,Pennsylvania,1186,90843,13065,3
-42099,Perry,Pennsylvania,390,46272,8447,3
-42101,Philadelphia,Pennsylvania,20085,1584064,12679,3
-42103,Pike,Pennsylvania,251,55809,4501,3
-42105,Potter,Pennsylvania,260,16526,15790,3
-42107,Schuylkill,Pennsylvania,1766,141359,12499,3
-42109,Snyder,Pennsylvania,472,40372,11714,3
-42111,Somerset,Pennsylvania,1473,73447,20068,3
-42113,Sullivan,Pennsylvania,49,6066,8199,3
-42115,Susquehanna,Pennsylvania,176,40328,4382,3
-42117,Tioga,Pennsylvania,594,40591,14653,3
-42119,Union,Pennsylvania,708,44923,15775,3
-42121,Venango,Pennsylvania,712,50668,14067,3
-42123,Warren,Pennsylvania,506,39191,12931,3
-42125,Washington,Pennsylvania,2344,206865,11333,3
-42127,Wayne,Pennsylvania,418,51361,8145,3
-42129,Westmoreland,Pennsylvania,5353,348899,15342,3
-42131,Wyoming,Pennsylvania,164,26794,6138,3
-42133,York,Pennsylvania,6348,449058,14136,3
-44001,Bristol,Rhode Island,295,48479,6105,3
-44003,Kent,Rhode Island,1876,164292,11422,3
-44005,Newport,Rhode Island,326,82082,3975,3
-44007,Providence,Rhode Island,8474,638931,13263,3
-44009,Washington,Rhode Island,775,125577,6178,3
-50001,Addison,Vermont,72,36777,1980,3
-50003,Bennington,Vermont,82,35470,2330,3
-50005,Caledonia,Vermont,94,29993,3152,3
-50007,Chittenden,Vermont,608,163774,3718,3
-50009,Essex,Vermont,45,6163,7362,3
-50011,Franklin,Vermont,176,49402,3571,3
-50013,Grand Isle,Vermont,17,7235,2376,3
-50015,Lamoille,Vermont,57,25362,2282,3
-50017,Orange,Vermont,124,28892,4300,3
-50019,Orleans,Vermont,110,27037,4074,3
-50021,Rutland,Vermont,96,58191,1651,3
-50023,Washington,Vermont,339,58409,5817,3
-50025,Windham,Vermont,150,42222,3566,3
-50027,Windsor,Vermont,114,55062,2076,3
-51001,Accomack,Virginia,159,32316,4942,3
-51003,Albemarle,Virginia,463,109330,4235,3
-51510,Alexandria,Virginia,1154,159428,7240,3
-51005,Alleghany,Virginia,150,14860,10110,3
-51007,Amelia,Virginia,137,13145,10479,3
-51009,Amherst,Virginia,240,31605,7597,3
-51011,Appomattox,Virginia,97,15911,6118,3
-51013,Arlington,Virginia,1600,236842,6755,3
-51015,Augusta,Virginia,630,75558,8344,3
-51017,Bath,Virginia,36,4147,8813,3
-51019,Bedford,Virginia,524,78997,6642,3
-51021,Bland,Virginia,161,6280,25655,3
-51023,Botetourt,Virginia,207,33419,6195,3
-51520,Bristol,Virginia,182,16762,10912,3
-51025,Brunswick,Virginia,79,16231,4885,3
-51027,Buchanan,Virginia,249,21004,11872,3
-51029,Buckingham,Virginia,274,17148,16031,3
-51530,Buena Vista,Virginia,200,6478,30945,3
-51031,Campbell,Virginia,332,54885,6053,3
-51033,Caroline,Virginia,246,30725,8033,3
-51035,Carroll,Virginia,348,29791,11704,3
-51036,Charles City,Virginia,23,6963,3399,3
-51037,Charlotte,Virginia,29,11880,2483,3
-51540,Charlottesville,Virginia,214,47266,4535,3
-51550,Chesapeake,Virginia,1203,244835,4916,3
-51041,Chesterfield,Virginia,1847,352802,5237,3
-51043,Clarke,Virginia,66,14619,4530,3
-51570,Colonial Heights,Virginia,106,17370,6146,3
-51580,Covington,Virginia,104,5538,18926,3
-51045,Craig,Virginia,19,5131,3747,3
-51047,Culpeper,Virginia,478,52605,9104,3
-51049,Cumberland,Virginia,35,9932,3593,3
-51590,Danville,Virginia,401,40044,10015,3
-51051,Dickenson,Virginia,190,14318,13298,3
-51053,Dinwiddie,Virginia,117,28544,4130,3
-51595,Emporia,Virginia,38,5346,7188,3
-51057,Essex,Virginia,44,10953,4077,3
-51059,Fairfax,Virginia,7247,1147532,6315,3
-51600,Fairfax City,Virginia,36,24019,1502,3
-51610,Falls Church,Virginia,42,14617,2927,3
-51061,Fauquier,Virginia,503,71222,7062,3
-51063,Floyd,Virginia,103,15749,6592,3
-51065,Fluvanna,Virginia,131,27270,4807,3
-51067,Franklin,Virginia,424,56042,7578,3
-51620,Franklin City,Virginia,63,7967,8030,3
-51069,Frederick,Virginia,927,89313,10387,3
-51630,Fredericksburg,Virginia,184,29036,6357,3
-51640,Galax,Virginia,133,6347,20981,3
-51071,Giles,Virginia,161,16720,9675,3
-51073,Gloucester,Virginia,187,37348,5033,3
-51075,Goochland,Virginia,103,23753,4377,3
-51077,Grayson,Virginia,154,15550,9955,3
-51079,Greene,Virginia,74,19819,3738,3
-51081,Greensville,Virginia,28,11336,2473,3
-51083,Halifax,Virginia,164,33911,4839,3
-51650,Hampton,Virginia,493,134510,3670,3
-51085,Hanover,Virginia,744,107766,6905,3
-51660,Harrisonburg,Virginia,475,53016,8963,3
-51087,Henrico,Virginia,1916,330818,5794,3
-51089,Henry,Virginia,409,50557,8091,3
-51091,Highland,Virginia,20,2190,9470,3
-51670,Hopewell,Virginia,114,22529,5092,3
-51093,Isle of Wight,Virginia,168,37109,4539,3
-51095,James City,Virginia,195,76523,2548,3
-51099,King George,Virginia,153,26836,5735,3
-51101,King William,Virginia,39,17148,2320,3
-51097,King and Queen,Virginia,12,7025,1723,3
-51103,Lancaster,Virginia,22,10603,2082,3
-51105,Lee,Virginia,278,23423,11897,3
-51678,Lexington,Virginia,132,7446,17804,3
-51107,Loudoun,Virginia,1949,413538,4713,3
-51109,Louisa,Virginia,196,37591,5238,3
-51111,Lunenburg,Virginia,31,12196,2553,3
-51680,Lynchburg,Virginia,683,82168,8312,3
-51113,Madison,Virginia,39,13261,3012,3
-51683,Manassas,Virginia,218,41085,5317,3
-51685,Manassas Park,Virginia,76,17478,4376,3
-51690,Martinsville,Virginia,177,12554,14154,3
-51115,Mathews,Virginia,26,8834,2998,3
-51117,Mecklenburg,Virginia,121,30587,3988,3
-51119,Middlesex,Virginia,37,10582,3579,3
-51121,Montgomery,Virginia,643,98535,6530,3
-51125,Nelson,Virginia,60,14930,4060,3
-51127,New Kent,Virginia,92,23091,4025,3
-51700,Newport News,Virginia,701,179225,3916,3
-51710,Norfolk,Virginia,932,242742,3840,3
-51131,Northampton,Virginia,28,11710,2437,3
-51133,Northumberland,Virginia,43,12095,3623,3
-51720,Norton,Virginia,34,3981,8577,3
-51135,Nottoway,Virginia,532,15232,34990,3
-51137,Orange,Virginia,194,37051,5258,3
-51139,Page,Virginia,138,23902,5793,3
-51141,Patrick,Virginia,139,17608,7907,3
-51730,Petersburg,Virginia,173,31346,5525,3
-51143,Pittsylvania,Virginia,517,60354,8569,3
-51735,Poquoson,Virginia,155,12271,12692,3
-51740,Portsmouth,Virginia,440,94398,4669,3
-51145,Powhatan,Virginia,129,29652,4356,3
-51147,Prince Edward,Virginia,78,22802,3430,3
-51149,Prince George,Virginia,246,38353,6431,3
-51153,Prince William,Virginia,3195,470335,6794,3
-51155,Pulaski,Virginia,422,34027,12418,3
-51750,Radford,Virginia,213,18249,11721,3
-51157,Rappahannock,Virginia,47,7370,6444,3
-51159,Richmond,Virginia,121,9023,13471,3
-51760,Richmond City,Virginia,1232,230436,5348,3
-51161,Roanoke,Virginia,788,94186,8369,3
-51770,Roanoke City,Virginia,648,99143,6541,3
-51163,Rockbridge,Virginia,141,22573,6253,3
-51165,Rockingham,Virginia,813,81948,9932,3
-51167,Russell,Virginia,305,26586,11492,3
-51775,Salem,Virginia,148,25301,5875,3
-51169,Scott,Virginia,293,21566,13622,3
-51171,Shenandoah,Virginia,359,43616,8250,3
-51173,Smyth,Virginia,347,30104,11544,3
-51175,Southampton,Virginia,82,17631,4701,3
-51177,Spotsylvania,Virginia,793,136215,5822,3
-51179,Stafford,Virginia,1065,152882,6967,3
-51790,Staunton,Virginia,708,24932,28403,3
-51800,Suffolk,Virginia,507,92108,5507,3
-51181,Surry,Virginia,33,6422,5234,3
-51183,Sussex,Virginia,19,11159,1706,3
-51185,Tazewell,Virginia,448,40595,11045,3
-51810,Virginia Beach,Virginia,2822,449974,6273,3
-51187,Warren,Virginia,251,40164,6262,3
-51191,Washington,Virginia,709,53740,13194,3
-51820,Waynesboro,Virginia,265,22630,11750,3
-51193,Westmoreland,Virginia,131,18015,7317,3
-51830,Williamsburg,Virginia,48,14954,3255,3
-51840,Winchester,Virginia,348,28078,12416,3
-51195,Wise,Virginia,335,37383,8977,3
-51197,Wythe,Virginia,426,28684,14861,3
-51199,York,Virginia,234,68280,3434,3
-54001,Barbour,West Virginia,240,16441,14634,3
-54003,Berkeley,West Virginia,1693,119171,14213,3
-54005,Boone,West Virginia,193,21457,9031,3
-54007,Braxton,West Virginia,83,13957,5952,3
-54009,Brooke,West Virginia,415,21939,18957,3
-54011,Cabell,West Virginia,1229,91945,13368,3
-54013,Calhoun,West Virginia,39,7109,5626,3
-54015,Clay,West Virginia,88,8508,10430,3
-54017,Doddridge,West Virginia,45,8448,5387,3
-54019,Fayette,West Virginia,287,42406,6779,3
-54021,Gilmer,West Virginia,43,7823,5618,3
-54023,Grant,West Virginia,300,11568,25982,3
-54025,Greenbrier,West Virginia,417,34662,12044,3
-54027,Hampshire,West Virginia,287,23175,12397,3
-54029,Hancock,West Virginia,676,28810,23467,3
-54031,Hardy,West Virginia,275,13776,19988,3
-54033,Harrison,West Virginia,816,67256,12141,3
-54035,Jackson,West Virginia,219,28576,7695,3
-54037,Jefferson,West Virginia,623,57146,10914,3
-54039,Kanawha,West Virginia,1684,178124,9455,3
-54041,Lewis,West Virginia,98,15907,6192,3
-54043,Lincoln,West Virginia,141,20409,6928,3
-54045,Logan,West Virginia,229,32019,7182,3
-54049,Marion,West Virginia,486,56072,8683,3
-54051,Marshall,West Virginia,741,30531,24283,3
-54053,Mason,West Virginia,446,26516,16835,3
-54047,McDowell,West Virginia,193,17624,10973,3
-54055,Mercer,West Virginia,496,58758,8448,3
-54057,Mineral,West Virginia,898,26868,33435,3
-54059,Mingo,West Virginia,183,23424,7848,3
-54061,Monongalia,West Virginia,923,105612,8743,3
-54063,Monroe,West Virginia,129,13275,9743,3
-54065,Morgan,West Virginia,208,17884,11666,3
-54067,Nicholas,West Virginia,181,24496,7417,3
-54069,Ohio,West Virginia,679,41411,16419,3
-54071,Pendleton,West Virginia,68,6969,9893,3
-54073,Pleasants,West Virginia,77,7460,10367,3
-54075,Pocahontas,West Virginia,200,8247,24345,3
-54077,Preston,West Virginia,523,33432,15671,3
-54079,Putnam,West Virginia,818,56450,14505,3
-54081,Raleigh,West Virginia,539,73361,7357,3
-54083,Randolph,West Virginia,222,28695,7769,3
-54085,Ritchie,West Virginia,108,9554,11341,3
-54087,Roane,West Virginia,101,13688,7395,3
-54089,Summers,West Virginia,70,12573,5641,3
-54091,Taylor,West Virginia,239,16695,14356,3
-54093,Tucker,West Virginia,133,6839,19541,3
-54095,Tyler,West Virginia,93,8591,10883,3
-54097,Upshur,West Virginia,173,24176,7172,3
-54099,Wayne,West Virginia,415,39402,10540,3
-54101,Webster,West Virginia,55,8114,6850,3
-54103,Wetzel,West Virginia,151,15065,10067,3
-54105,Wirt,West Virginia,67,5821,11645,3
-54107,Wood,West Virginia,1390,83518,16644,3
-54109,Wyoming,West Virginia,338,20394,16579,3
+09001,Fairfield,Connecticut,13372,943332,14176,3
+09003,Hartford,Connecticut,13452,891720,15085,3
+09005,Litchfield,Connecticut,2141,180333,11872,3
+09007,Middlesex,Connecticut,1865,162436,11486,3
+09009,New Haven,Connecticut,13743,854757,16078,3
+09011,New London,Connecticut,3103,265206,11703,3
+09013,Tolland,Connecticut,1264,150721,8386,3
+09015,Windham,Connecticut,1698,116782,14540,3
+10001,Kent,Delaware,2805,180786,15515,3
+10003,New Castle,Delaware,9051,558753,16200,3
+10005,Sussex,Delaware,3065,234225,13089,3
+11001,District of Columbia,District of Columbia,4595,705749,6511,3
+23001,Androscoggin,Maine,709,108277,6553,3
+23003,Aroostook,Maine,215,67055,3214,3
+23005,Cumberland,Maine,1696,295003,5749,3
+23007,Franklin,Maine,188,30199,6252,3
+23009,Hancock,Maine,200,54987,3641,3
+23011,Kennebec,Maine,513,122302,4199,3
+23013,Knox,Maine,116,39772,2939,3
+23015,Lincoln,Maine,31,34634,898,3
+23017,Oxford,Maine,457,57975,7886,3
+23019,Penobscot,Maine,560,152148,3683,3
+23021,Piscataquis,Maine,35,16785,2136,3
+23023,Sagadahoc,Maine,70,35856,1967,3
+23025,Somerset,Maine,180,50484,3579,3
+23027,Waldo,Maine,73,39715,1852,3
+23029,Washington,Maine,41,31379,1316,3
+23031,York,Maine,1365,207641,6575,3
+24001,Allegany,Maryland,1622,70416,23046,3
+24003,Anne Arundel,Maryland,5043,579234,8707,3
+24005,Baltimore,Maryland,6484,827370,7838,3
+24510,Baltimore City,Maryland,5068,593490,8539,3
+24009,Calvert,Maryland,396,92525,4288,3
+24011,Caroline,Maryland,278,33406,8336,3
+24013,Carroll,Maryland,1236,168447,7339,3
+24015,Cecil,Maryland,1040,102855,10116,3
+24017,Charles,Maryland,1104,163257,6764,3
+24019,Dorchester,Maryland,228,31929,7162,3
+24021,Frederick,Maryland,2632,259547,10143,3
+24023,Garrett,Maryland,483,29014,16648,3
+24025,Harford,Maryland,1652,255441,6469,3
+24027,Howard,Maryland,2119,325690,6507,3
+24029,Kent,Maryland,179,19422,9265,3
+24031,Montgomery,Maryland,8659,1050688,8242,3
+24033,Prince George's,Maryland,8533,909327,9384,3
+24035,Queen Anne's,Maryland,368,50381,7323,3
+24039,Somerset,Maryland,526,25616,20569,3
+24037,St. Mary's,Maryland,780,113510,6876,3
+24041,Talbot,Maryland,201,37181,5432,3
+24043,Washington,Maryland,2346,151049,15533,3
+24045,Wicomico,Maryland,748,103609,7226,3
+24047,Worcester,Maryland,342,52276,6551,3
+25001,Barnstable,Massachusetts,1239,212990,5818,3
+25003,Berkshire,Massachusetts,794,124944,6358,3
+25005,Bristol,Massachusetts,8540,565217,15110,3
+25007,Dukes,Massachusetts,150,17332,8665,3
+25009,Essex,Massachusetts,14868,789034,18843,3
+25011,Franklin,Massachusetts,490,70180,6991,3
+25013,Hampden,Massachusetts,5994,466372,12853,3
+25015,Hampshire,Massachusetts,885,160830,5506,3
+25017,Middlesex,Massachusetts,18139,1611699,11254,3
+25019,Nantucket,Massachusetts,380,11399,33396,3
+25021,Norfolk,Massachusetts,6338,706775,8968,3
+25023,Plymouth,Massachusetts,5343,521202,10252,3
+25025,Suffolk,Massachusetts,10857,803907,13505,3
+25027,Worcester,Massachusetts,10534,830622,12682,3
+33001,Belknap,New Hampshire,684,61303,11164,3
+33003,Carroll,New Hampshire,323,48910,6620,3
+33005,Cheshire,New Hampshire,543,76085,7139,3
+33007,Coos,New Hampshire,159,31563,5049,3
+33009,Grafton,New Hampshire,403,89886,4484,3
+33011,Hillsborough,New Hampshire,5611,417025,13454,3
+33013,Merrimack,New Hampshire,1991,151391,13154,3
+33015,Rockingham,New Hampshire,4033,309769,13020,3
+33017,Strafford,New Hampshire,937,130633,7178,3
+33019,Sullivan,New Hampshire,129,43146,3002,3
+34001,Atlantic,New Jersey,2334,263670,8853,3
+34003,Bergen,New Jersey,7806,932202,8374,3
+34005,Burlington,New Jersey,4604,445349,10338,3
+34007,Camden,New Jersey,6265,506471,12370,3
+34009,Cape May,New Jersey,464,92039,5046,3
+34011,Cumberland,New Jersey,1599,149527,10698,3
+34013,Essex,New Jersey,8059,798975,10087,3
+34015,Gloucester,New Jersey,3269,291636,11210,3
+34017,Hudson,New Jersey,7667,672391,11403,3
+34019,Hunterdon,New Jersey,804,124371,6467,3
+34021,Mercer,New Jersey,3380,367430,9199,3
+34023,Middlesex,New Jersey,9031,825062,10946,3
+34025,Monmouth,New Jersey,6781,618795,10958,3
+34027,Morris,New Jersey,4473,491845,9096,3
+34029,Ocean,New Jersey,6128,607186,10093,3
+34031,Passaic,New Jersey,7478,501826,14902,3
+34033,Salem,New Jersey,748,62385,11999,3
+34035,Somerset,New Jersey,2278,328934,6927,3
+34037,Sussex,New Jersey,1083,140488,7709,3
+34039,Union,New Jersey,5793,556341,10413,3
+34041,Warren,New Jersey,888,105267,8438,3
+36001,Albany,New York,3035,305506,9936,3
+36003,Allegany,New York,479,46091,10413,3
+36005,Bronx,New York,10361,1418207,7306,3
+36007,Broome,New York,1483,190488,7787,3
+36009,Cattaraugus,New York,871,76117,11455,3
+36011,Cayuga,New York,975,76576,12736,3
+36013,Chautauqua,New York,1074,126903,8467,3
+36015,Chemung,New York,923,83456,11060,3
+36017,Chenango,New York,352,47207,7467,3
+36019,Clinton,New York,363,80485,4515,3
+36021,Columbia,New York,286,59461,4825,3
+36023,Cortland,New York,690,47581,14503,3
+36025,Delaware,New York,203,44135,4620,3
+36027,Dutchess,New York,2775,294218,9435,3
+36029,Erie,New York,10448,918702,11373,3
+36031,Essex,New York,125,36885,3408,3
+36033,Franklin,New York,271,50022,5419,3
+36035,Fulton,New York,484,53383,9084,3
+36037,Genesee,New York,852,57280,14890,3
+36039,Greene,New York,229,47188,4873,3
+36041,Hamilton,New York,23,4416,5209,3
+36043,Herkimer,New York,694,61319,11319,3
+36045,Jefferson,New York,656,109834,5981,3
+36047,Kings,New York,17208,2559903,6722,3
+36049,Lewis,New York,251,26296,9550,3
+36051,Livingston,New York,566,62914,9007,3
+36053,Madison,New York,890,70941,12552,3
+36055,Monroe,New York,11110,741770,14977,3
+36057,Montgomery,New York,424,49221,8621,3
+36059,Nassau,New York,14328,1356924,10559,3
+36061,New York,New York,10033,1628706,6160,3
+36063,Niagara,New York,2828,209281,13517,3
+36065,Oneida,New York,4099,228671,17926,3
+36067,Onondaga,New York,6485,460528,14082,3
+36069,Ontario,New York,1098,109777,10004,3
+36071,Orange,New York,3764,384940,9779,3
+36073,Orleans,New York,389,40352,9649,3
+36075,Oswego,New York,1071,117124,9146,3
+36077,Otsego,New York,384,59493,6464,3
+36079,Putnam,New York,1221,98320,12425,3
+36081,Queens,New York,18104,2253858,8032,3
+36083,Rensselaer,New York,1217,158714,7672,3
+36085,Richmond,New York,6762,476143,14202,3
+36087,Rockland,New York,3333,325789,10232,3
+36091,Saratoga,New York,1670,229863,7268,3
+36093,Schenectady,New York,1757,155299,11314,3
+36095,Schoharie,New York,217,30999,7003,3
+36097,Schuyler,New York,100,17807,5628,3
+36099,Seneca,New York,265,34016,7800,3
+36089,St. Lawrence,New York,618,107740,5742,3
+36101,Steuben,New York,888,95379,9319,3
+36103,Suffolk,New York,19473,1476601,13188,3
+36105,Sullivan,New York,388,75432,5146,3
+36107,Tioga,New York,318,48203,6602,3
+36109,Tompkins,New York,650,102180,6368,3
+36111,Ulster,New York,1322,177573,7450,3
+36113,Warren,New York,222,63944,3476,3
+36115,Washington,New York,217,61204,3555,3
+36117,Wayne,New York,771,89918,8578,3
+36119,Westchester,New York,11626,967506,12017,3
+36121,Wyoming,New York,488,39859,12250,3
+36123,Yates,New York,145,24913,5840,3
+39001,Adams,Ohio,293,27698,10589,3
+39003,Allen,Ohio,2030,102351,19842,3
+39005,Ashland,Ohio,1053,53484,19694,3
+39007,Ashtabula,Ohio,919,97241,9456,3
+39009,Athens,Ohio,734,65327,11245,3
+39011,Auglaize,Ohio,733,45656,16072,3
+39013,Belmont,Ohio,907,67006,13545,3
+39015,Brown,Ohio,864,43432,19898,3
+39017,Butler,Ohio,6636,383134,17322,3
+39019,Carroll,Ohio,393,26914,14627,3
+39021,Champaign,Ohio,530,38885,13644,3
+39023,Clark,Ohio,2625,134083,19577,3
+39025,Clermont,Ohio,3513,206428,17021,3
+39027,Clinton,Ohio,814,41968,19414,3
+39029,Columbiana,Ohio,1599,101883,15698,3
+39031,Coshocton,Ohio,536,36600,14661,3
+39033,Crawford,Ohio,824,41494,19876,3
+39035,Cuyahoga,Ohio,22507,1235072,18223,3
+39037,Darke,Ohio,1213,51113,23742,3
+39039,Defiance,Ohio,822,38087,21606,3
+39041,Delaware,Ohio,3685,209177,17617,3
+39043,Erie,Ohio,1817,74266,24478,3
+39045,Fairfield,Ohio,2817,157574,17883,3
+39047,Fayette,Ohio,511,28525,17931,3
+39049,Franklin,Ohio,20689,1316756,15712,3
+39051,Fulton,Ohio,825,42126,19585,3
+39053,Gallia,Ohio,549,29898,18383,3
+39055,Geauga,Ohio,1244,93649,13284,3
+39057,Greene,Ohio,2605,168937,15420,3
+39059,Guernsey,Ohio,663,38875,17076,3
+39061,Hamilton,Ohio,13943,817473,17056,3
+39063,Hancock,Ohio,1268,75783,16741,3
+39065,Hardin,Ohio,420,31365,13409,3
+39067,Harrison,Ohio,251,15040,16715,3
+39069,Henry,Ohio,501,27006,18577,3
+39071,Highland,Ohio,685,43161,15893,3
+39073,Hocking,Ohio,513,28264,18171,3
+39075,Holmes,Ohio,343,43960,7820,3
+39077,Huron,Ohio,1182,58266,20293,3
+39079,Jackson,Ohio,686,32413,21195,3
+39081,Jefferson,Ohio,1455,65325,22283,3
+39083,Knox,Ohio,769,62322,12340,3
+39085,Lake,Ohio,3332,230149,14478,3
+39087,Lawrence,Ohio,1000,59463,16822,3
+39089,Licking,Ohio,3172,176862,17938,3
+39091,Logan,Ohio,728,45672,15944,3
+39093,Lorain,Ohio,5507,309833,17776,3
+39095,Lucas,Ohio,7648,428348,17855,3
+39097,Madison,Ohio,807,44731,18051,3
+39099,Mahoning,Ohio,4525,228683,19788,3
+39101,Marion,Ohio,1374,65093,21115,3
+39103,Medina,Ohio,2912,179746,16201,3
+39105,Meigs,Ohio,282,22907,12334,3
+39107,Mercer,Ohio,609,41172,14800,3
+39109,Miami,Ohio,1864,106987,17423,3
+39111,Monroe,Ohio,215,13654,15771,3
+39113,Montgomery,Ohio,9313,531687,17517,3
+39115,Morgan,Ohio,267,14508,18439,3
+39117,Morrow,Ohio,542,35328,15345,3
+39119,Muskingum,Ohio,1785,86215,20705,3
+39121,Noble,Ohio,261,14424,18107,3
+39123,Ottawa,Ohio,698,40525,17237,3
+39125,Paulding,Ohio,332,18672,17809,3
+39127,Perry,Ohio,619,36134,17144,3
+39129,Pickaway,Ohio,1148,58457,19644,3
+39131,Pike,Ohio,391,27772,14110,3
+39133,Portage,Ohio,2458,162466,15130,3
+39135,Preble,Ohio,773,40882,18920,3
+39137,Putnam,Ohio,661,33861,19540,3
+39139,Richland,Ohio,2712,121154,22391,3
+39141,Ross,Ohio,1166,76666,15219,3
+39143,Sandusky,Ohio,1411,58518,24115,3
+39145,Scioto,Ohio,1590,75314,21122,3
+39147,Seneca,Ohio,1070,55178,19404,3
+39149,Shelby,Ohio,892,48590,18368,3
+39151,Stark,Ohio,7494,370606,20222,3
+39153,Summit,Ohio,9252,541013,17101,3
+39155,Trumbull,Ohio,3323,197974,16785,3
+39157,Tuscarawas,Ohio,1763,91987,19168,3
+39159,Union,Ohio,919,58988,15581,3
+39161,Van Wert,Ohio,449,28275,15888,3
+39163,Vinton,Ohio,161,13085,12309,3
+39165,Warren,Ohio,4242,234602,18085,3
+39167,Washington,Ohio,1129,59911,18849,3
+39169,Wayne,Ohio,1632,115710,14104,3
+39171,Williams,Ohio,743,36692,20276,3
+39173,Wood,Ohio,2326,130817,17781,3
+39175,Wyandot,Ohio,537,21772,24680,3
+42001,Adams,Pennsylvania,1495,103009,14516,3
+42003,Allegheny,Pennsylvania,17352,1216045,14269,3
+42005,Armstrong,Pennsylvania,971,64735,15000,3
+42007,Beaver,Pennsylvania,3051,163929,18611,3
+42009,Bedford,Pennsylvania,1194,47888,24946,3
+42011,Berks,Pennsylvania,5977,421164,14192,3
+42013,Blair,Pennsylvania,2747,121829,22553,3
+42015,Bradford,Pennsylvania,736,60323,12202,3
+42017,Bucks,Pennsylvania,9024,628270,14363,3
+42019,Butler,Pennsylvania,2995,187853,15946,3
+42021,Cambria,Pennsylvania,3441,130192,26430,3
+42023,Cameron,Pennsylvania,56,4447,12762,3
+42025,Carbon,Pennsylvania,825,64182,12864,3
+42027,Centre,Pennsylvania,2042,162385,12575,3
+42029,Chester,Pennsylvania,5265,524989,10029,3
+42031,Clarion,Pennsylvania,800,38438,20824,3
+42033,Clearfield,Pennsylvania,1576,79255,19893,3
+42035,Clinton,Pennsylvania,821,38632,21262,3
+42037,Columbia,Pennsylvania,794,64964,12233,3
+42039,Crawford,Pennsylvania,2781,84629,32868,3
+42041,Cumberland,Pennsylvania,3694,253370,14583,3
+42043,Dauphin,Pennsylvania,4284,278299,15394,3
+42045,Delaware,Pennsylvania,5778,566747,10195,3
+42047,Elk,Pennsylvania,420,29910,14052,3
+42049,Erie,Pennsylvania,4140,269728,15349,3
+42051,Fayette,Pennsylvania,3249,129274,25133,3
+42053,Forest,Pennsylvania,109,7247,15083,3
+42055,Franklin,Pennsylvania,3006,155027,19395,3
+42057,Fulton,Pennsylvania,285,14530,19682,3
+42059,Greene,Pennsylvania,598,36233,16529,3
+42061,Huntingdon,Pennsylvania,735,45144,16291,3
+42063,Indiana,Pennsylvania,1068,84073,12708,3
+42065,Jefferson,Pennsylvania,816,43425,18796,3
+42067,Juniata,Pennsylvania,499,24763,20165,3
+42069,Lackawanna,Pennsylvania,1952,209674,9312,3
+42071,Lancaster,Pennsylvania,7457,545724,13665,3
+42073,Lawrence,Pennsylvania,1358,85512,15884,3
+42075,Lebanon,Pennsylvania,2306,141793,16265,3
+42077,Lehigh,Pennsylvania,5596,369318,15152,3
+42079,Luzerne,Pennsylvania,4767,317417,15019,3
+42081,Lycoming,Pennsylvania,2540,113299,22422,3
+42083,McKean,Pennsylvania,733,40625,18055,3
+42085,Mercer,Pennsylvania,2315,109424,21158,3
+42087,Mifflin,Pennsylvania,1360,46138,29495,3
+42089,Monroe,Pennsylvania,1738,170271,10212,3
+42091,Montgomery,Pennsylvania,9200,830915,11072,3
+42093,Montour,Pennsylvania,1156,18230,63449,3
+42095,Northampton,Pennsylvania,4883,305285,15996,3
+42097,Northumberland,Pennsylvania,1439,90843,15840,3
+42099,Perry,Pennsylvania,693,46272,14979,3
+42101,Philadelphia,Pennsylvania,18934,1584064,11953,3
+42103,Pike,Pennsylvania,325,55809,5833,3
+42105,Potter,Pennsylvania,239,16526,14490,3
+42107,Schuylkill,Pennsylvania,2268,141359,16046,3
+42109,Snyder,Pennsylvania,522,40372,12936,3
+42111,Somerset,Pennsylvania,2091,73447,28470,3
+42113,Sullivan,Pennsylvania,58,6066,9665,3
+42115,Susquehanna,Pennsylvania,213,40328,5288,3
+42117,Tioga,Pennsylvania,802,40591,19779,3
+42119,Union,Pennsylvania,786,44923,17502,3
+42121,Venango,Pennsylvania,1050,50668,20733,3
+42123,Warren,Pennsylvania,741,39191,18912,3
+42125,Washington,Pennsylvania,2839,206865,13725,3
+42127,Wayne,Pennsylvania,883,51361,17206,3
+42129,Westmoreland,Pennsylvania,7149,348899,20490,3
+42131,Wyoming,Pennsylvania,194,26794,7262,3
+42133,York,Pennsylvania,8704,449058,19384,3
+44001,Bristol,Rhode Island,388,48479,8020,3
+44003,Kent,Rhode Island,2299,164292,13993,3
+44005,Newport,Rhode Island,474,82082,5778,3
+44007,Providence,Rhode Island,10991,638931,17203,3
+44009,Washington,Rhode Island,943,125577,7510,3
+50001,Addison,Vermont,51,36777,1401,3
+50003,Bennington,Vermont,155,35470,4384,3
+50005,Caledonia,Vermont,78,29993,2606,3
+50007,Chittenden,Vermont,772,163774,4715,3
+50009,Essex,Vermont,28,6163,4578,3
+50011,Franklin,Vermont,218,49402,4415,3
+50013,Grand Isle,Vermont,21,7235,2984,3
+50015,Lamoille,Vermont,65,25362,2595,3
+50017,Orange,Vermont,78,28892,2726,3
+50019,Orleans,Vermont,132,27037,4900,3
+50021,Rutland,Vermont,98,58191,1700,3
+50023,Washington,Vermont,192,58409,3294,3
+50025,Windham,Vermont,117,42222,2783,3
+50027,Windsor,Vermont,114,55062,2073,3
+51001,Accomack,Virginia,218,32316,6763,3
+51003,Albemarle,Virginia,533,109330,4880,3
+51510,Alexandria,Virginia,1236,159428,7758,3
+51005,Alleghany,Virginia,230,14860,15481,3
+51007,Amelia,Virginia,110,13145,8377,3
+51009,Amherst,Virginia,405,31605,12831,3
+51011,Appomattox,Virginia,161,15911,10128,3
+51013,Arlington,Virginia,1612,236842,6807,3
+51015,Augusta,Virginia,1882,75558,24909,3
+51017,Bath,Virginia,45,4147,10866,3
+51019,Bedford,Virginia,746,78997,9450,3
+51021,Bland,Virginia,251,6280,40040,3
+51023,Botetourt,Virginia,261,33419,7827,3
+51520,Bristol,Virginia,193,16762,11527,3
+51025,Brunswick,Virginia,55,16231,3428,3
+51027,Buchanan,Virginia,201,21004,9589,3
+51029,Buckingham,Virginia,370,17148,21601,3
+51530,Buena Vista,Virginia,170,6478,26272,3
+51031,Campbell,Virginia,520,54885,9480,3
+51033,Caroline,Virginia,228,30725,7428,3
+51035,Carroll,Virginia,372,29791,12507,3
+51036,Charles City,Virginia,29,6963,4288,3
+51037,Charlotte,Virginia,35,11880,3000,3
+51540,Charlottesville,Virginia,231,47266,4896,3
+51550,Chesapeake,Virginia,1565,244835,6395,3
+51041,Chesterfield,Virginia,1942,352802,5507,3
+51043,Clarke,Virginia,115,14619,7905,3
+51570,Colonial Heights,Virginia,109,17370,6331,3
+51580,Covington,Virginia,156,5538,28214,3
+51045,Craig,Virginia,31,5131,6107,3
+51047,Culpeper,Virginia,480,52605,9126,3
+51049,Cumberland,Virginia,14,9932,1505,3
+51590,Danville,Virginia,433,40044,10834,3
+51051,Dickenson,Virginia,265,14318,18547,3
+51053,Dinwiddie,Virginia,110,28544,3870,3
+51595,Emporia,Virginia,44,5346,8309,3
+51057,Essex,Virginia,58,10953,5298,3
+51059,Fairfax,Virginia,8372,1147532,7295,3
+51600,Fairfax City,Virginia,41,24019,1719,3
+51610,Falls Church,Virginia,49,14617,3392,3
+51061,Fauquier,Virginia,536,71222,7535,3
+51063,Floyd,Virginia,83,15749,5328,3
+51065,Fluvanna,Virginia,198,27270,7284,3
+51067,Franklin,Virginia,476,56042,8508,3
+51620,Franklin City,Virginia,78,7967,9850,3
+51069,Frederick,Virginia,1084,89313,12144,3
+51630,Fredericksburg,Virginia,179,29036,6187,3
+51640,Galax,Virginia,166,6347,26268,3
+51071,Giles,Virginia,170,16720,10198,3
+51073,Gloucester,Virginia,278,37348,7467,3
+51075,Goochland,Virginia,85,23753,3594,3
+51077,Grayson,Virginia,179,15550,11553,3
+51079,Greene,Virginia,86,19819,4342,3
+51081,Greensville,Virginia,16,11336,1449,3
+51083,Halifax,Virginia,132,33911,3909,3
+51650,Hampton,Virginia,949,134510,7055,3
+51085,Hanover,Virginia,688,107766,6388,3
+51660,Harrisonburg,Virginia,470,53016,8874,3
+51087,Henrico,Virginia,2361,330818,7137,3
+51089,Henry,Virginia,381,50557,7548,3
+51091,Highland,Virginia,17,2190,7922,3
+51670,Hopewell,Virginia,121,22529,5410,3
+51093,Isle of Wight,Virginia,279,37109,7523,3
+51095,James City,Virginia,238,76523,3121,3
+51099,King George,Virginia,166,26836,6218,3
+51101,King William,Virginia,119,17148,6995,3
+51097,King and Queen,Virginia,32,7025,4578,3
+51103,Lancaster,Virginia,58,10603,5501,3
+51105,Lee,Virginia,335,23423,14331,3
+51678,Lexington,Virginia,99,7446,13362,3
+51107,Loudoun,Virginia,2602,413538,6293,3
+51109,Louisa,Virginia,199,37591,5304,3
+51111,Lunenburg,Virginia,63,12196,5185,3
+51680,Lynchburg,Virginia,930,82168,11326,3
+51113,Madison,Virginia,72,13261,5502,3
+51683,Manassas,Virginia,429,41085,10446,3
+51685,Manassas Park,Virginia,128,17478,7327,3
+51690,Martinsville,Virginia,195,12554,15563,3
+51115,Mathews,Virginia,91,8834,10403,3
+51117,Mecklenburg,Virginia,124,30587,4083,3
+51119,Middlesex,Virginia,75,10582,7169,3
+51121,Montgomery,Virginia,777,98535,7889,3
+51125,Nelson,Virginia,110,14930,7411,3
+51127,New Kent,Virginia,120,23091,5239,3
+51700,Newport News,Virginia,943,179225,5262,3
+51710,Norfolk,Virginia,1159,242742,4778,3
+51131,Northampton,Virginia,45,11710,3846,3
+51133,Northumberland,Virginia,82,12095,6845,3
+51720,Norton,Virginia,28,3981,7277,3
+51135,Nottoway,Virginia,316,15232,20811,3
+51137,Orange,Virginia,180,37051,4870,3
+51139,Page,Virginia,239,23902,10031,3
+51141,Patrick,Virginia,168,17608,9566,3
+51730,Petersburg,Virginia,156,31346,5000,3
+51143,Pittsylvania,Virginia,494,60354,8194,3
+51735,Poquoson,Virginia,108,12271,8867,3
+51740,Portsmouth,Virginia,610,94398,6469,3
+51145,Powhatan,Virginia,234,29652,7893,3
+51147,Prince Edward,Virginia,81,22802,3591,3
+51149,Prince George,Virginia,182,38353,4753,3
+51153,Prince William,Virginia,4224,470335,8981,3
+51155,Pulaski,Virginia,505,34027,14849,3
+51750,Radford,Virginia,222,18249,12196,3
+51157,Rappahannock,Virginia,40,7370,5458,3
+51159,Richmond,Virginia,210,9023,23351,3
+51760,Richmond City,Virginia,1401,230436,6082,3
+51161,Roanoke,Virginia,1133,94186,12038,3
+51770,Roanoke City,Virginia,755,99143,7622,3
+51163,Rockbridge,Virginia,149,22573,6604,3
+51165,Rockingham,Virginia,764,81948,9326,3
+51167,Russell,Virginia,403,26586,15167,3
+51775,Salem,Virginia,235,25301,9323,3
+51169,Scott,Virginia,295,21566,13716,3
+51171,Shenandoah,Virginia,502,43616,11514,3
+51173,Smyth,Virginia,507,30104,16844,3
+51175,Southampton,Virginia,91,17631,5161,3
+51177,Spotsylvania,Virginia,852,136215,6255,3
+51179,Stafford,Virginia,1108,152882,7247,3
+51790,Staunton,Virginia,410,24932,16444,3
+51800,Suffolk,Virginia,735,92108,7981,3
+51181,Surry,Virginia,35,6422,5486,3
+51183,Sussex,Virginia,18,11159,1671,3
+51185,Tazewell,Virginia,723,40595,17813,3
+51810,Virginia Beach,Virginia,3180,449974,7069,3
+51187,Warren,Virginia,318,40164,7923,3
+51191,Washington,Virginia,811,53740,15097,3
+51820,Waynesboro,Virginia,356,22630,15766,3
+51193,Westmoreland,Virginia,215,18015,11940,3
+51830,Williamsburg,Virginia,57,14954,3826,3
+51840,Winchester,Virginia,370,28078,13204,3
+51195,Wise,Virginia,434,37383,11610,3
+51197,Wythe,Virginia,420,28684,14645,3
+51199,York,Virginia,271,68280,3979,3
+54001,Barbour,West Virginia,158,16441,9645,3
+54003,Berkeley,West Virginia,1671,119171,14026,3
+54005,Boone,West Virginia,219,21457,10242,3
+54007,Braxton,West Virginia,67,13957,4860,3
+54009,Brooke,West Virginia,459,21939,20954,3
+54011,Cabell,West Virginia,1410,91945,15338,3
+54013,Calhoun,West Virginia,42,7109,5944,3
+54015,Clay,West Virginia,88,8508,10458,3
+54017,Doddridge,West Virginia,75,8448,8922,3
+54019,Fayette,West Virginia,301,42406,7107,3
+54021,Gilmer,West Virginia,83,7823,10700,3
+54023,Grant,West Virginia,283,11568,24478,3
+54025,Greenbrier,West Virginia,612,34662,17658,3
+54027,Hampshire,West Virginia,409,23175,17687,3
+54029,Hancock,West Virginia,757,28810,26296,3
+54031,Hardy,West Virginia,319,13776,23158,3
+54033,Harrison,West Virginia,818,67256,12170,3
+54035,Jackson,West Virginia,301,28576,10549,3
+54037,Jefferson,West Virginia,611,57146,10696,3
+54039,Kanawha,West Virginia,1907,178124,10707,3
+54041,Lewis,West Virginia,144,15907,9105,3
+54043,Lincoln,West Virginia,160,20409,7853,3
+54045,Logan,West Virginia,206,32019,6440,3
+54049,Marion,West Virginia,509,56072,9079,3
+54051,Marshall,West Virginia,482,30531,15810,3
+54053,Mason,West Virginia,393,26516,14839,3
+54047,McDowell,West Virginia,166,17624,9462,3
+54055,Mercer,West Virginia,728,58758,12392,3
+54057,Mineral,West Virginia,633,26868,23564,3
+54059,Mingo,West Virginia,208,23424,8916,3
+54061,Monongalia,West Virginia,1243,105612,11773,3
+54063,Monroe,West Virginia,152,13275,11456,3
+54065,Morgan,West Virginia,258,17884,14477,3
+54067,Nicholas,West Virginia,191,24496,7821,3
+54069,Ohio,West Virginia,572,41411,13818,3
+54071,Pendleton,West Virginia,110,6969,15918,3
+54073,Pleasants,West Virginia,193,7460,25907,3
+54075,Pocahontas,West Virginia,102,8247,12480,3
+54077,Preston,West Virginia,617,33432,18483,3
+54079,Putnam,West Virginia,625,56450,11077,3
+54081,Raleigh,West Virginia,663,73361,9047,3
+54083,Randolph,West Virginia,260,28695,9088,3
+54085,Ritchie,West Virginia,120,9554,12626,3
+54087,Roane,West Virginia,61,13688,4527,3
+54089,Summers,West Virginia,71,12573,5689,3
+54091,Taylor,West Virginia,186,16695,11171,3
+54093,Tucker,West Virginia,127,6839,18695,3
+54095,Tyler,West Virginia,118,8591,13828,3
+54097,Upshur,West Virginia,184,24176,7623,3
+54099,Wayne,West Virginia,388,39402,9861,3
+54101,Webster,West Virginia,60,8114,7512,3
+54103,Wetzel,West Virginia,137,15065,9111,3
+54105,Wirt,West Virginia,58,5821,10091,3
+54107,Wood,West Virginia,1497,83518,17934,3
+54109,Wyoming,West Virginia,273,20394,13407,3
